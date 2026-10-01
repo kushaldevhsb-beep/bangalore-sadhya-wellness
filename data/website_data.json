@@ -1,0 +1,149 @@
+{
+  "name": "Sadhya Wellness Bangalore",
+  "domain": "bangalore.sadhyawellness.com",
+  "canonicalUrl": "https://bangalore.sadhyawellness.com/",
+  "contact": {
+    "phone": "8618639113",
+    "whatsappNumber": "8618639113",
+    "whatsappLink": "https://wa.me/918618639113?text=Hi!%20I%20visited%20your%20website%20and%20would%20like%20more%20information%20about%20your%20home%20yoga%20classes.",
+    "defaultWhatsappMessage": "Hi! I visited your website and would like more information about your home yoga classes.",
+    "location": "Bangalore, Karnataka, India",
+    "coverageAreas": "Doorstep sessions across major areas of Bangalore"
+  },
+  "seo": {
+    "title": "Home Yoga Classes in Bangalore | Sadhya | Sadhya Wellness Bangalore",
+    "metaDescription": "Book certified Home Yoga Classes in Bangalore. Personalized doorstep yoga sessions for pain relief, flexibility, strength & overall wellness. Call now today!",
+    "focusKeyword": "Home Yoga Classes in Bangalore"
+  },
+  "brand": {
+    "fontFamilies": [
+      "Hedvig Letters Serif",
+      "Manrope",
+      "Roboto"
+    ],
+    "colors": {
+      "primaryDark": "#1a2e22",
+      "primaryGreen": "#708b77",
+      "accentGreen": "#4d997b",
+      "backgroundLight": "#f4f0ea",
+      "cardBackground": "#e2e0da",
+      "footerBackground": "#4e628a",
+      "textDark": "#1a2e22",
+      "textLight": "#ffffff"
+    },
+    "logo": "assets/logo/logo-original.png"
+  },
+  "services": [
+    {
+      "id": "prod_01M2MSJZZ7D52K21KRA3MJHD5J",
+      "slug": "personalized-holistic-yoga-assessment",
+      "title": "Personalized Holistic Yoga Assessment",
+      "shortDescription": "A comprehensive initial home consultation and custom posture evaluation followed by a tailored 60-minute practice designed around your lifestyle.",
+      "image": "assets/images/service-holistic-yoga-assessment.png",
+      "alt": "Personalized Holistic Yoga Assessment"
+    },
+    {
+      "id": "prod_01M2MSJZQNR75TCS6RSMKYRCW2",
+      "slug": "couple--family-home-yoga",
+      "title": "Couple & Family Home Yoga",
+      "shortDescription": "A shared interactive yoga session tailored for two or more family members to practice together, fostering bonding, balance, and shared vitality.",
+      "image": "assets/images/service-couple-family-yoga.png",
+      "alt": "Couple & Family Home Yoga"
+    },
+    {
+      "id": "prod_01M2MSJZG9PJHVYMPWYDKTBMFA",
+      "slug": "stress--relaxation-yoga",
+      "title": "Stress & Relaxation Yoga",
+      "shortDescription": "Deep restorative poses combined with calming pranayama to release nervous system tension and promote restful sleep after long work hours.",
+      "image": "assets/images/service-stress-relaxation-yoga.png",
+      "alt": "Practitioner resting deeply in a restorative yoga pose with supportive cushions."
+    },
+    {
+      "id": "prod_01M2MSJZ7GH8G1VHFFGWCGXDCJ",
+      "slug": "senior-citizen-yoga-practice",
+      "title": "Senior Citizen Yoga Practice",
+      "shortDescription": "A safe, slow-paced session focusing on joint mobility, balance, and gentle restorative breathing modified for older adults in their own living room.",
+      "image": "assets/images/service-senior-citizen-yoga.png",
+      "alt": "Senior adult receiving gentle guidance during a personalized home yoga session."
+    },
+    {
+      "id": "prod_01M2MSJYZASVYY0VQ3318FMW2T",
+      "slug": "beginner-gentle-yoga-session",
+      "title": "Beginner Gentle Yoga Session",
+      "shortDescription": "A patient, step-by-step introduction to foundational postures and breathing exercises. Ideal for anyone beginning their wellness journey in total comfort.",
+      "image": "assets/images/service-beginner-gentle-yoga.png",
+      "alt": "Beginner practitioner practicing mindful breathing exercises on a comfortable mat."
+    },
+    {
+      "id": "prod_01M2MSJYR9N6MP1CZDPVPX7NSK",
+      "slug": "back-neck--mobility-support",
+      "title": "Back, Neck & Mobility Support",
+      "shortDescription": "Targeted gentle stretches and spinal alignment techniques created specifically to relieve desk fatigue, neck tightness, and lower back discomfort.",
+      "image": "assets/images/service-back-neck-mobility-support.png",
+      "alt": "Yoga instructor assisting client with gentle spinal alignment and posture relief."
+    },
+    {
+      "id": "prod_01M2MSJY92509NZMRGEWKC5F3T",
+      "slug": "weight-management-yoga-support",
+      "title": "Weight Management Yoga Support",
+      "shortDescription": "An invigorating flow combining energetic vinyasa movement and mindful breathwork to boost metabolic health and build lean endurance at home.",
+      "image": "assets/images/service-weight-management-yoga.png",
+      "alt": "Woman practicing active yoga flow for weight management at home."
+    },
+    {
+      "id": "prod_01M2MSJY1M31BDB13Y56SHDVMK",
+      "slug": "fitness--flexibility-yoga-session",
+      "title": "Fitness & Flexibility Yoga Session",
+      "shortDescription": "A dynamic 1-on-1 home session tailored to deepen your range of motion, build core stamina, and revitalize your energy levels. Designed around your daily routine and fitness goals.",
+      "image": "assets/images/service-fitness-flexibility-yoga.png",
+      "alt": "Personal yoga instructor guiding flexibility posture in a sunlit living room."
+    }
+  ],
+  "team": [
+    {
+      "name": "Kushal Dev Singh",
+      "role": "Lead Yoga Trainer & Postural Therapist",
+      "image": "assets/images/team-kushal-dev-singh.png"
+    },
+    {
+      "name": "Harish Singh",
+      "role": "Certified Yoga Instructor & Alignment Specialist",
+      "image": "assets/images/team-harish-singh.png"
+    },
+    {
+      "name": "Abhay Joshi",
+      "role": "Therapeutic & Restorative Yoga Practitioner",
+      "image": "assets/images/team-abhay-joshi.png"
+    }
+  ],
+  "navigation": [
+    {
+      "name": "Home",
+      "slug": "/"
+    },
+    {
+      "name": "About",
+      "slug": "/about"
+    },
+    {
+      "name": "Services",
+      "slug": "/services"
+    },
+    {
+      "name": "How It Works",
+      "slug": "/how-it-works"
+    },
+    {
+      "name": "Team",
+      "slug": "/team"
+    },
+    {
+      "name": "FAQ",
+      "slug": "/faq"
+    },
+    {
+      "name": "Contact",
+      "slug": "/contact"
+    }
+  ]
+}

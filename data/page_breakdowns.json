@@ -1,0 +1,186 @@
+{
+  "faq": {
+    "name": "FAQ",
+    "slug": "faq",
+    "title": "FAQ",
+    "description": "",
+    "keywords": [],
+    "sections": []
+  },
+  "home": {
+    "name": "Home",
+    "slug": "home",
+    "title": "Home",
+    "description": "",
+    "keywords": [],
+    "sections": []
+  },
+  "team": {
+    "name": "Team",
+    "slug": "team",
+    "title": "Team",
+    "description": "",
+    "keywords": [],
+    "sections": []
+  },
+  "about": {
+    "name": "About",
+    "slug": "about",
+    "title": "About",
+    "description": "",
+    "keywords": [],
+    "sections": []
+  },
+  "contact": {
+    "name": "Contact",
+    "slug": "contact",
+    "title": "Contact",
+    "description": "",
+    "keywords": [],
+    "sections": []
+  },
+  "services": {
+    "name": "Services",
+    "slug": "services",
+    "title": "Services",
+    "description": "",
+    "keywords": [],
+    "sections": []
+  },
+  "how-it-works": {
+    "name": "How It Works",
+    "slug": "how-it-works",
+    "title": "How It Works",
+    "description": "",
+    "keywords": [],
+    "sections": []
+  },
+  "prod_01M2MSJZZ7D52K21KRA3MJHD5J": {
+    "name": "Personalized Holistic Yoga Assessment",
+    "slug": "personalized-holistic-yoga-assessment",
+    "title": "Personalized Holistic Yoga Assessment",
+    "description": "A comprehensive initial home consultation and custom posture evaluation followed by a tailored 60-minute practice designed around your lifestyle.",
+    "keywords": [],
+    "sections": [
+      {
+        "blockId": "zhDKDK",
+        "blockType": "BlockEcommerceProduct",
+        "htmlId": "",
+        "bg": "rgb(244, 240, 234)",
+        "components": []
+      }
+    ]
+  },
+  "prod_01M2MSJZQNR75TCS6RSMKYRCW2": {
+    "name": "Couple & Family Home Yoga",
+    "slug": "couple--family-home-yoga",
+    "title": "Couple & Family Home Yoga",
+    "description": "A shared interactive yoga session tailored for two or more family members to practice together, fostering bonding, balance, and shared vitality.",
+    "keywords": [],
+    "sections": [
+      {
+        "blockId": "zhDKDK",
+        "blockType": "BlockEcommerceProduct",
+        "htmlId": "",
+        "bg": "rgb(244, 240, 234)",
+        "components": []
+      }
+    ]
+  },
+  "prod_01M2MSJZG9PJHVYMPWYDKTBMFA": {
+    "name": "Stress & Relaxation Yoga",
+    "slug": "stress--relaxation-yoga",
+    "title": "Stress & Relaxation Yoga",
+    "description": "Deep restorative poses combined with calming pranayama to release nervous system tension and promote restful sleep after long work hours.",
+    "keywords": [],
+    "sections": [
+      {
+        "blockId": "zhDKDK",
+        "blockType": "BlockEcommerceProduct",
+        "htmlId": "",
+        "bg": "rgb(244, 240, 234)",
+        "components": []
+      }
+    ]
+  },
+  "prod_01M2MSJZ7GH8G1VHFFGWCGXDCJ": {
+    "name": "Senior Citizen Yoga Practice",
+    "slug": "senior-citizen-yoga-practice",
+    "title": "Senior Citizen Yoga Practice",
+    "description": "A safe, slow-paced session focusing on joint mobility, balance, and gentle restorative breathing modified for older adults in their own living room.",
+    "keywords": [],
+    "sections": [
+      {
+        "blockId": "zhDKDK",
+        "blockType": "BlockEcommerceProduct",
+        "htmlId": "",
+        "bg": "rgb(244, 240, 234)",
+        "components": []
+      }
+    ]
+  },
+  "prod_01M2MSJYZASVYY0VQ3318FMW2T": {
+    "name": "Beginner Gentle Yoga Session",
+    "slug": "beginner-gentle-yoga-session",
+    "title": "Beginner Gentle Yoga Session",
+    "description": "A patient, step-by-step introduction to foundational postures and breathing exercises. Ideal for anyone beginning their wellness journey in total comfort.",
+    "keywords": [],
+    "sections": [
+      {
+        "blockId": "zhDKDK",
+        "blockType": "BlockEcommerceProduct",
+        "htmlId": "",
+        "bg": "rgb(244, 240, 234)",
+        "components": []
+      }
+    ]
+  },
+  "prod_01M2MSJYR9N6MP1CZDPVPX7NSK": {
+    "name": "Back, Neck & Mobility Support",
+    "slug": "back-neck--mobility-support",
+    "title": "Back, Neck & Mobility Support",
+    "description": "Targeted gentle stretches and spinal alignment techniques created specifically to relieve desk fatigue, neck tightness, and lower back discomfort.",
+    "keywords": [],
+    "sections": [
+      {
+        "blockId": "zhDKDK",
+        "blockType": "BlockEcommerceProduct",
+        "htmlId": "",
+        "bg": "rgb(244, 240, 234)",
+        "components": []
+      }
+    ]
+  },
+  "prod_01M2MSJY92509NZMRGEWKC5F3T": {
+    "name": "Weight Management Yoga Support",
+    "slug": "weight-management-yoga-support",
+    "title": "Weight Management Yoga Support",
+    "description": "An invigorating flow combining energetic vinyasa movement and mindful breathwork to boost metabolic health and build lean endurance at home.",
+    "keywords": [],
+    "sections": [
+      {
+        "blockId": "zhDKDK",
+        "blockType": "BlockEcommerceProduct",
+        "htmlId": "",
+        "bg": "rgb(244, 240, 234)",
+        "components": []
+      }
+    ]
+  },
+  "prod_01M2MSJY1M31BDB13Y56SHDVMK": {
+    "name": "Fitness & Flexibility Yoga Session",
+    "slug": "fitness--flexibility-yoga-session",
+    "title": "Fitness & Flexibility Yoga Session",
+    "description": "A dynamic 1-on-1 home session tailored to deepen your range of motion, build core stamina, and revitalize your energy levels. Designed around your daily routine and fitness goals.",
+    "keywords": [],
+    "sections": [
+      {
+        "blockId": "zhDKDK",
+        "blockType": "BlockEcommerceProduct",
+        "htmlId": "",
+        "bg": "rgb(244, 240, 234)",
+        "components": []
+      }
+    ]
+  }
+}

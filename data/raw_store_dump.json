@@ -1,0 +1,6932 @@
+{
+  "siteMeta": {
+    "version": 202,
+    "template": "design-agent-v3",
+    "metaTitle": "Sadhya Wellness Bangalore",
+    "customMeta": "<meta name=\"google-site-verification\" content=\"cm9sYJCWh8nowhzo38SkCUX7YfpS173KnisNTaxXuos\" />",
+    "aiWebsiteType": "Online store",
+    "defaultLocale": "system",
+    "ecommerceType": "zyro",
+    "salesChannelId": "scha_01M2MSJXWFZZJY7P7VMZR5XSE3",
+    "whatsAppNumber": "8618639113",
+    "whatsAppMessage": "Hi!%20I%20visited%20your%20website%20and%20would%20like%20more%20information%20about%20your%20home%20yoga%20classes.",
+    "ecommerceStoreId": "store_01M2MSJXW0TVMW6617CP8KA865",
+    "customBodyElements": "",
+    "customHeadElements": "<meta name=\"google-site-verification\" content=\"cm9sYJCWh8nowhzo38SkCUX7YfpS173KnisNTaxXuos\">",
+    "isPrivateModeActive": false,
+    "demoEcommerceStoreId": "demo_01G0E9P2R0CFTNBWEEFCEV8EG5",
+    "shouldAddWWWPrefixToDomain": false,
+    "migrationToLayoutModifications": {}
+  },
+  "pages": {
+    "faq": {
+      "type": "default",
+      "name": "FAQ",
+      "slug": "faq"
+    },
+    "home": {
+      "type": "default",
+      "name": "Home",
+      "slug": "home"
+    },
+    "team": {
+      "type": "default",
+      "name": "Team",
+      "slug": "team"
+    },
+    "about": {
+      "type": "default",
+      "name": "About",
+      "slug": "about"
+    },
+    "contact": {
+      "type": "default",
+      "name": "Contact",
+      "slug": "contact"
+    },
+    "services": {
+      "type": "default",
+      "name": "Services",
+      "slug": "services"
+    },
+    "how-it-works": {
+      "type": "default",
+      "name": "How It Works",
+      "slug": "how-it-works"
+    },
+    "prod_01M2MSJZZ7D52K21KRA3MJHD5J": {
+      "name": "Personalized Holistic Yoga Assessment",
+      "type": "ecommerce-dynamic-product",
+      "blocks": [
+        "zhDKDK"
+      ],
+      "productId": "prod_01M2MSJZZ7D52K21KRA3MJHD5J",
+      "hiddenSlots": [],
+      "slug": "personalized-holistic-yoga-assessment",
+      "meta": {
+        "title": "Personalized Holistic Yoga Assessment",
+        "description": "A comprehensive initial home consultation and custom posture evaluation followed by a tailored 60-minute practice designed around your lifestyle.",
+        "ogImagePath": "https://assets.zyrosite.com/rcAYSbnD6n6YoRZZ/akgvd7-OqnYMapnPTuthU24.png",
+        "ogImageOrigin": "other",
+        "ogImageAlt": "Personalized Holistic Yoga Assessment"
+      }
+    },
+    "prod_01M2MSJZQNR75TCS6RSMKYRCW2": {
+      "name": "Couple & Family Home Yoga",
+      "type": "ecommerce-dynamic-product",
+      "blocks": [
+        "zhDKDK"
+      ],
+      "productId": "prod_01M2MSJZQNR75TCS6RSMKYRCW2",
+      "hiddenSlots": [],
+      "slug": "couple--family-home-yoga",
+      "meta": {
+        "title": "Couple & Family Home Yoga",
+        "description": "A shared interactive yoga session tailored for two or more family members to practice together, fostering bonding, balance, and shared vitality.",
+        "ogImagePath": "https://assets.zyrosite.com/rcAYSbnD6n6YoRZZ/zm0hab-5DitEKDZRsh7zXrX.png",
+        "ogImageOrigin": "other",
+        "ogImageAlt": "Couple & Family Home Yoga"
+      }
+    },
+    "prod_01M2MSJZG9PJHVYMPWYDKTBMFA": {
+      "name": "Stress & Relaxation Yoga",
+      "type": "ecommerce-dynamic-product",
+      "blocks": [
+        "zhDKDK"
+      ],
+      "productId": "prod_01M2MSJZG9PJHVYMPWYDKTBMFA",
+      "hiddenSlots": [],
+      "slug": "stress--relaxation-yoga",
+      "meta": {
+        "title": "Stress & Relaxation Yoga",
+        "description": "Deep restorative poses combined with calming pranayama to release nervous system tension and promote restful sleep after long work hours.",
+        "ogImagePath": "https://assets.zyrosite.com/rcAYSbnD6n6YoRZZ/ix9o99-smTFTogwPRcneblR.png",
+        "ogImageOrigin": "other",
+        "ogImageAlt": "Practitioner resting deeply in a restorative yoga pose with supportive cushions."
+      }
+    },
+    "prod_01M2MSJZ7GH8G1VHFFGWCGXDCJ": {
+      "name": "Senior Citizen Yoga Practice",
+      "type": "ecommerce-dynamic-product",
+      "blocks": [
+        "zhDKDK"
+      ],
+      "productId": "prod_01M2MSJZ7GH8G1VHFFGWCGXDCJ",
+      "hiddenSlots": [],
+      "slug": "senior-citizen-yoga-practice",
+      "meta": {
+        "title": "Senior Citizen Yoga Practice",
+        "description": "A safe, slow-paced session focusing on joint mobility, balance, and gentle restorative breathing modified for older adults in their own living room.",
+        "ogImagePath": "https://assets.zyrosite.com/rcAYSbnD6n6YoRZZ/e9cpwi-0FJidmCisE0fEmDo.png",
+        "ogImageOrigin": "other",
+        "ogImageAlt": "Senior adult receiving gentle guidance during a personalized home yoga session."
+      }
+    },
+    "prod_01M2MSJYZASVYY0VQ3318FMW2T": {
+      "name": "Beginner Gentle Yoga Session",
+      "type": "ecommerce-dynamic-product",
+      "blocks": [
+        "zhDKDK"
+      ],
+      "productId": "prod_01M2MSJYZASVYY0VQ3318FMW2T",
+      "hiddenSlots": [],
+      "slug": "beginner-gentle-yoga-session",
+      "meta": {
+        "title": "Beginner Gentle Yoga Session",
+        "description": "A patient, step-by-step introduction to foundational postures and breathing exercises. Ideal for anyone beginning their wellness journey in total comfort.",
+        "ogImagePath": "https://assets.zyrosite.com/rcAYSbnD6n6YoRZZ/zlflfw-7SLC9zRN02PvJvEw.png",
+        "ogImageOrigin": "other",
+        "ogImageAlt": "Beginner practitioner practicing mindful breathing exercises on a comfortable mat."
+      }
+    },
+    "prod_01M2MSJYR9N6MP1CZDPVPX7NSK": {
+      "name": "Back, Neck & Mobility Support",
+      "type": "ecommerce-dynamic-product",
+      "blocks": [
+        "zhDKDK"
+      ],
+      "productId": "prod_01M2MSJYR9N6MP1CZDPVPX7NSK",
+      "hiddenSlots": [],
+      "slug": "back-neck--mobility-support",
+      "meta": {
+        "title": "Back, Neck & Mobility Support",
+        "description": "Targeted gentle stretches and spinal alignment techniques created specifically to relieve desk fatigue, neck tightness, and lower back discomfort.",
+        "ogImagePath": "https://assets.zyrosite.com/rcAYSbnD6n6YoRZZ/qkisnx-Gt9IDSAbL0WpX3pe.png",
+        "ogImageOrigin": "other",
+        "ogImageAlt": "Yoga instructor assisting client with gentle spinal alignment and posture relief."
+      }
+    },
+    "prod_01M2MSJY92509NZMRGEWKC5F3T": {
+      "name": "Weight Management Yoga Support",
+      "type": "ecommerce-dynamic-product",
+      "blocks": [
+        "zhDKDK"
+      ],
+      "productId": "prod_01M2MSJY92509NZMRGEWKC5F3T",
+      "hiddenSlots": [],
+      "slug": "weight-management-yoga-support",
+      "meta": {
+        "title": "Weight Management Yoga Support",
+        "description": "An invigorating flow combining energetic vinyasa movement and mindful breathwork to boost metabolic health and build lean endurance at home.",
+        "ogImagePath": "https://assets.zyrosite.com/rcAYSbnD6n6YoRZZ/ttfpe5-YmEFVMxxXT2EjyA3.png",
+        "ogImageOrigin": "other",
+        "ogImageAlt": "Woman practicing active yoga flow for weight management at home."
+      }
+    },
+    "prod_01M2MSJY1M31BDB13Y56SHDVMK": {
+      "name": "Fitness & Flexibility Yoga Session",
+      "type": "ecommerce-dynamic-product",
+      "blocks": [
+        "zhDKDK"
+      ],
+      "productId": "prod_01M2MSJY1M31BDB13Y56SHDVMK",
+      "hiddenSlots": [],
+      "slug": "fitness--flexibility-yoga-session",
+      "meta": {
+        "title": "Fitness & Flexibility Yoga Session",
+        "description": "A dynamic 1-on-1 home session tailored to deepen your range of motion, build core stamina, and revitalize your energy levels. Designed around your daily routine and fitness goals.",
+        "ogImagePath": "https://assets.zyrosite.com/rcAYSbnD6n6YoRZZ/iygome-o0O9XpoasvrbO8Iq.png",
+        "ogImageOrigin": "other",
+        "ogImageAlt": "Personal yoga instructor guiding flexibility posture in a sunlit living room."
+      }
+    }
+  },
+  "blocks": {
+    "PuuaS-": {
+      "type": "BlockLayout",
+      "htmlId": "teaser",
+      "mobile": {
+        "minHeight": 2356
+      },
+      "desktop": {
+        "minHeight": 1201
+      },
+      "settings": {
+        "styles": {
+          "cols": "12",
+          "rows": 11,
+          "width": "1224px",
+          "m-rows": "1",
+          "col-gap": "24px",
+          "row-gap": "16px",
+          "row-size": "48px",
+          "block-padding": "16px 0 16px 0",
+          "m-block-padding": "16px"
+        }
+      },
+      "zindexes": [
+        "QEerT-",
+        "I7qOqc",
+        "97Is4S",
+        "UlHQ2A",
+        "8SY7zp",
+        "GbfAFI",
+        "TsrcnT",
+        "LaJf0k",
+        "OzZ6s3",
+        "M2tB7s",
+        "zxvRqJ",
+        "3kW9Uu",
+        "_vfjZ8",
+        "5HE45F",
+        "T8pVIP",
+        "zbkJ1Z",
+        "z_h716",
+        "zu3wp-",
+        "zcqrZG",
+        "z8IYe4",
+        "z27hfM",
+        "zpSmtd",
+        "zinGYZ",
+        "z3ZsaU",
+        "zkR0bR",
+        "zntqUw",
+        "zEwNr2"
+      ],
+      "background": {
+        "color": "#f4f0ea",
+        "current": "color",
+        "isTransparent": false
+      },
+      "components": [
+        "QEerT-",
+        "I7qOqc",
+        "97Is4S",
+        "UlHQ2A",
+        "8SY7zp",
+        "GbfAFI",
+        "TsrcnT",
+        "LaJf0k",
+        "OzZ6s3",
+        "M2tB7s",
+        "zxvRqJ",
+        "3kW9Uu",
+        "_vfjZ8",
+        "5HE45F",
+        "T8pVIP",
+        "zbkJ1Z",
+        "z_h716",
+        "zu3wp-",
+        "zcqrZG",
+        "z8IYe4",
+        "z27hfM",
+        "zpSmtd",
+        "zinGYZ",
+        "z3ZsaU",
+        "zEwNr2",
+        "zkR0bR",
+        "zntqUw"
+      ]
+    },
+    "_MjiKE": {
+      "type": "BlockLayout",
+      "htmlId": "benefits",
+      "mobile": {
+        "minHeight": 1068
+      },
+      "desktop": {
+        "minHeight": 510
+      },
+      "settings": {
+        "styles": {
+          "cols": "12",
+          "rows": 8,
+          "width": "1224px",
+          "m-rows": "1",
+          "col-gap": "24px",
+          "row-gap": "16px",
+          "row-size": "48px",
+          "block-padding": "16px 0 16px 0",
+          "m-block-padding": "16px"
+        }
+      },
+      "zindexes": [
+        "HUgFep",
+        "1gLYyP",
+        "T4LyIo",
+        "JU-5f_",
+        "Vp5-KA",
+        "PoNVFx",
+        "ma9dEP",
+        "wag5P3",
+        "p2QYei",
+        "i8r3Y-",
+        "JvFHVj",
+        "LnZ9MC",
+        "1_1XWN",
+        "m1Th_C"
+      ],
+      "background": {
+        "color": "#f4f0ea",
+        "current": "color",
+        "isTransparent": false
+      },
+      "components": [
+        "HUgFep",
+        "1gLYyP",
+        "T4LyIo",
+        "JU-5f_",
+        "Vp5-KA",
+        "PoNVFx",
+        "ma9dEP",
+        "wag5P3",
+        "p2QYei",
+        "i8r3Y-",
+        "JvFHVj",
+        "LnZ9MC",
+        "1_1XWN",
+        "m1Th_C"
+      ]
+    },
+    "aUsWU4": {
+      "type": "BlockLayout",
+      "htmlId": "hero",
+      "mobile": {
+        "minHeight": 1089
+      },
+      "desktop": {
+        "minHeight": 853
+      },
+      "settings": {
+        "styles": {
+          "cols": "12",
+          "rows": 13,
+          "width": "1224px",
+          "m-rows": "1",
+          "col-gap": "24px",
+          "row-gap": "16px",
+          "row-size": "48px",
+          "block-padding": "16px 0 16px 0",
+          "m-block-padding": "16px"
+        }
+      },
+      "zindexes": [
+        "naJjTL",
+        "gfs_8K",
+        "O3jYk1",
+        "b3SQVh",
+        "pyF3GK"
+      ],
+      "background": {
+        "color": "#f4f0ea",
+        "current": "color",
+        "isTransparent": false
+      },
+      "components": [
+        "naJjTL",
+        "gfs_8K",
+        "O3jYk1",
+        "b3SQVh",
+        "pyF3GK"
+      ]
+    },
+    "aVm4ml": {
+      "type": "BlockAppointmentList",
+      "desktop": {
+        "columnGap": 24,
+        "columnCount": 3
+      },
+      "settings": {
+        "styles": {
+          "textAlign": "center",
+          "block-padding": "32px 16px 32px 16px",
+          "content-width": "1224px",
+          "m-block-padding": "16px 16px 16px 16px"
+        },
+        "imageHoverEffect": "zoom"
+      },
+      "zindexes": [],
+      "animation": {
+        "name": "slide",
+        "type": "global"
+      },
+      "background": {
+        "color": "rgb(244, 240, 234)",
+        "current": "color"
+      },
+      "buttonType": "primary",
+      "components": [],
+      "imageRatio": "portrait",
+      "buttonStyle": {
+        "grid-button-primary-color": "rgb(0, 0, 0)",
+        "grid-button-secondary-color": "rgb(46, 47, 49)",
+        "grid-button-primary-color-hover": "rgb(255, 255, 255)",
+        "grid-button-primary-border-color": "rgb(112, 139, 117)",
+        "grid-button-primary-border-radius": 2,
+        "grid-button-secondary-color-hover": "rgb(29, 30, 32)",
+        "grid-button-secondary-border-color": "rgb(255, 255, 255)",
+        "grid-button-primary-background-color": "rgb(112, 139, 117)",
+        "grid-button-primary-border-color-hover": "rgb(29, 30, 32)",
+        "grid-button-secondary-background-color": "rgb(255, 255, 255)",
+        "grid-button-primary-border-color-active": "rgb(0, 0, 0)",
+        "grid-button-secondary-border-color-hover": "rgb(241, 241, 241)",
+        "grid-button-secondary-border-color-active": "rgb(255, 255, 255)",
+        "grid-button-primary-background-color-hover": "rgb(29, 30, 32)",
+        "grid-button-primary-background-color-active": "rgb(0, 0, 0)",
+        "grid-button-secondary-background-color-hover": "rgb(241, 241, 241)",
+        "grid-button-secondary-background-color-active": "rgb(255, 255, 255)"
+      },
+      "isFullWidth": false,
+      "ribbonStyle": {
+        "ribbon-color": "rgb(255, 255, 255)",
+        "ribbon-background-color": "rgb(29, 30, 32)"
+      },
+      "buttonDisplay": "hover",
+      "textColorVars": {
+        "h1-color": "rgb(26, 46, 34)",
+        "h2-color": "rgb(26, 46, 34)",
+        "h3-color": "rgb(26, 46, 34)",
+        "h4-color": "rgb(26, 46, 34)",
+        "h5-color": "rgb(26, 46, 34)",
+        "h6-color": "rgb(26, 46, 34)",
+        "body-color": "rgb(26, 46, 34)",
+        "body-large-color": "rgb(26, 46, 34)"
+      },
+      "isButtonEnabled": true,
+      "productsPerPage": 3,
+      "buttonBorderWidth": 1,
+      "isButtonFullWidth": false,
+      "productCategoryId": "",
+      "isCategoryListEnabled": false,
+      "isTotalProductCountShown": false,
+      "disabledFilterCategoryIds": []
+    },
+    "dUmLjd": {
+      "type": "BlockLayout",
+      "htmlId": "proof",
+      "mobile": {
+        "minHeight": 598
+      },
+      "desktop": {
+        "minHeight": 413
+      },
+      "settings": {
+        "styles": {
+          "cols": "12",
+          "rows": 6,
+          "width": "1224px",
+          "m-rows": "1",
+          "col-gap": "24px",
+          "row-gap": "16px",
+          "row-size": "48px",
+          "block-padding": "16px 0 16px 0",
+          "m-block-padding": "16px"
+        }
+      },
+      "zindexes": [
+        "D0czII",
+        "Ht6Cb_",
+        "UYj7ab",
+        "YXARKQ",
+        "wMAFFJ"
+      ],
+      "background": {
+        "color": "#e2e0da",
+        "current": "color",
+        "isTransparent": false
+      },
+      "components": [
+        "D0czII",
+        "Ht6Cb_",
+        "UYj7ab",
+        "YXARKQ",
+        "wMAFFJ"
+      ]
+    },
+    "footer": {
+      "slot": "footer",
+      "type": "BlockLayout",
+      "mobile": {
+        "minHeight": 1071
+      },
+      "desktop": {
+        "minHeight": 599
+      },
+      "settings": {
+        "styles": {
+          "cols": "12",
+          "rows": 3,
+          "width": "1224px",
+          "m-rows": "1",
+          "col-gap": "24px",
+          "row-gap": "16px",
+          "row-size": "48px",
+          "column-gap": "24px",
+          "block-padding": "16px 0 16px 0",
+          "m-block-padding": "40px 16px"
+        }
+      },
+      "zindexes": [
+        "Z36f4p",
+        "gw_Iqh",
+        "E0Klk8",
+        "61DJ6M",
+        "fg2luL",
+        "emiYV7",
+        "v0dK4D",
+        "z1kGRB",
+        "zmaViX"
+      ],
+      "background": {
+        "color": "rgb(78, 98, 138)",
+        "current": "color",
+        "isTransparent": false
+      },
+      "components": [
+        "Z36f4p",
+        "gw_Iqh",
+        "E0Klk8",
+        "61DJ6M",
+        "fg2luL",
+        "emiYV7",
+        "v0dK4D",
+        "z1kGRB",
+        "zmaViX"
+      ]
+    },
+    "header": {
+      "slot": "header",
+      "type": "BlockNavigation",
+      "mobile": {
+        "height": 106,
+        "logoHeight": 58
+      },
+      "desktop": {
+        "height": 188,
+        "logoHeight": 128
+      },
+      "settings": {
+        "styles": {
+          "width": "1240px",
+          "padding": "30px 16px 30px 16px",
+          "m-padding": "24px 16px 24px 16px",
+          "logo-width": "192px",
+          "cartIconSize": "24px",
+          "link-spacing": "40px",
+          "m-logo-width": "86px",
+          "m-link-spacing": "64px",
+          "element-spacing": "64px",
+          "contrastBackgroundColor": "rgb(198, 207, 219)"
+        },
+        "logoAlt": "",
+        "cartText": "",
+        "isSticky": true,
+        "logoText": "",
+        "showLogo": true,
+        "headerLayout": "desktop-1",
+        "isCartVisible": true,
+        "logoImagePath": "sadhya-wellness-logo1-OCDbwPnwuxGbqzmU.png",
+        "mHeaderLayout": "mobile-1",
+        "logoImageOrigin": "assets",
+        "mobileLinksAlignment": "right",
+        "isMobileMenuDropdownFullScreen": true
+      },
+      "zindexes": [],
+      "background": {
+        "color": "#f4f0ea",
+        "current": "color",
+        "isTransparent": false
+      },
+      "components": [],
+      "logoAspectRatio": 1.5,
+      "navLinkTextColor": "rgb(0, 0, 0)",
+      "navLinkTextColorHover": "rgb(0, 0, 0)"
+    },
+    "n759v5": {
+      "type": "BlockLayout",
+      "htmlId": "cta",
+      "mobile": {
+        "minHeight": 455
+      },
+      "desktop": {
+        "minHeight": 446
+      },
+      "settings": {
+        "styles": {
+          "cols": "12",
+          "rows": 7,
+          "width": "1224px",
+          "m-rows": "1",
+          "col-gap": "24px",
+          "row-gap": "16px",
+          "row-size": "48px",
+          "block-padding": "16px 0 16px 0",
+          "m-block-padding": "16px"
+        }
+      },
+      "zindexes": [
+        "dkDW43",
+        "smFLFM",
+        "9cVQQO"
+      ],
+      "background": {
+        "color": "rgb(77, 153, 123)",
+        "current": "color",
+        "isTransparent": false
+      },
+      "components": [
+        "dkDW43",
+        "smFLFM",
+        "9cVQQO"
+      ]
+    },
+    "JzK05m": {
+      "type": "BlockLayout",
+      "htmlId": "hero",
+      "mobile": {
+        "minHeight": 946
+      },
+      "desktop": {
+        "minHeight": 744
+      },
+      "settings": {
+        "styles": {
+          "cols": "12",
+          "rows": 10,
+          "width": "1224px",
+          "m-rows": "1",
+          "col-gap": "24px",
+          "row-gap": "16px",
+          "row-size": "48px",
+          "block-padding": "16px 0 16px 0",
+          "m-block-padding": "16px"
+        }
+      },
+      "zindexes": [
+        "fDjdgG",
+        "VtvpSo",
+        "K1DFYW",
+        "RfjQp_",
+        "vhlMvD",
+        "A2b7KP",
+        "Kn8qkW",
+        "z-UxEh"
+      ],
+      "background": {
+        "color": "#e2e0da",
+        "current": "color",
+        "isTransparent": false
+      },
+      "components": [
+        "fDjdgG",
+        "VtvpSo",
+        "K1DFYW",
+        "RfjQp_",
+        "vhlMvD",
+        "A2b7KP",
+        "Kn8qkW",
+        "z-UxEh"
+      ]
+    },
+    "ZWw_Y8": {
+      "type": "BlockLayout",
+      "htmlId": "story",
+      "mobile": {
+        "minHeight": 1095
+      },
+      "desktop": {
+        "minHeight": 726
+      },
+      "settings": {
+        "styles": {
+          "cols": "12",
+          "rows": 12,
+          "width": "1224px",
+          "m-rows": "1",
+          "col-gap": "24px",
+          "row-gap": "16px",
+          "row-size": "48px",
+          "block-padding": "16px 0 16px 0",
+          "m-block-padding": "16px"
+        }
+      },
+      "zindexes": [
+        "9mrX8M",
+        "Nv61-l",
+        "DpxYaC",
+        "gmbBqh",
+        "0Ikpgg",
+        "tUMbPQ"
+      ],
+      "background": {
+        "color": "#f4f0ea",
+        "current": "color",
+        "isTransparent": false
+      },
+      "components": [
+        "9mrX8M",
+        "Nv61-l",
+        "DpxYaC",
+        "gmbBqh",
+        "0Ikpgg",
+        "tUMbPQ"
+      ]
+    },
+    "tv1MlM": {
+      "type": "BlockLayout",
+      "htmlId": "manifesto",
+      "mobile": {
+        "minHeight": 470
+      },
+      "desktop": {
+        "minHeight": 469
+      },
+      "settings": {
+        "styles": {
+          "cols": "12",
+          "rows": 6,
+          "width": "1224px",
+          "m-rows": "1",
+          "col-gap": "24px",
+          "row-gap": "16px",
+          "row-size": "48px",
+          "block-padding": "16px 0 16px 0",
+          "m-block-padding": "16px"
+        }
+      },
+      "zindexes": [
+        "8RhVkM",
+        "AJhvIU",
+        "ilhMEr"
+      ],
+      "background": {
+        "color": "#2d4a3e",
+        "current": "color",
+        "isTransparent": false
+      },
+      "components": [
+        "8RhVkM",
+        "AJhvIU",
+        "ilhMEr"
+      ]
+    },
+    "wkCFNU": {
+      "type": "BlockLayout",
+      "htmlId": "cta",
+      "mobile": {
+        "minHeight": 314
+      },
+      "desktop": {
+        "minHeight": 240
+      },
+      "settings": {
+        "styles": {
+          "cols": "12",
+          "rows": 3,
+          "width": "1224px",
+          "m-rows": "1",
+          "col-gap": "24px",
+          "row-gap": "16px",
+          "row-size": "48px",
+          "block-padding": "16px 0 16px 0",
+          "m-block-padding": "16px"
+        }
+      },
+      "zindexes": [
+        "gSDzKj",
+        "rEGrpX",
+        "KRCK8x"
+      ],
+      "background": {
+        "color": "#f4f0ea",
+        "current": "color",
+        "isTransparent": false
+      },
+      "components": [
+        "gSDzKj",
+        "rEGrpX",
+        "KRCK8x"
+      ]
+    },
+    "JlLlEW": {
+      "type": "BlockLayout",
+      "htmlId": "cta",
+      "mobile": {
+        "minHeight": 517
+      },
+      "desktop": {
+        "minHeight": 485
+      },
+      "settings": {
+        "styles": {
+          "cols": "12",
+          "rows": 8,
+          "width": "1224px",
+          "m-rows": "1",
+          "col-gap": "24px",
+          "row-gap": "16px",
+          "row-size": "48px",
+          "block-padding": "16px 0 16px 0",
+          "m-block-padding": "16px"
+        }
+      },
+      "zindexes": [
+        "pudk9T",
+        "7qmLRz",
+        "aHZ3b8"
+      ],
+      "background": {
+        "color": "#2d4a3e",
+        "current": "color",
+        "isTransparent": false
+      },
+      "components": [
+        "pudk9T",
+        "7qmLRz",
+        "aHZ3b8"
+      ]
+    },
+    "PDWQD9": {
+      "type": "BlockLayout",
+      "htmlId": "hero",
+      "mobile": {
+        "minHeight": 613
+      },
+      "desktop": {
+        "minHeight": 600
+      },
+      "settings": {
+        "styles": {
+          "cols": "12",
+          "rows": 9,
+          "width": "1224px",
+          "m-rows": "1",
+          "col-gap": "24px",
+          "row-gap": "16px",
+          "row-size": "48px",
+          "block-padding": "16px 0 16px 0",
+          "m-block-padding": "16px"
+        }
+      },
+      "zindexes": [
+        "L8HGQG",
+        "1xhqK0",
+        "K-2Kl6",
+        "9TpyzH"
+      ],
+      "background": {
+        "color": "#f4f0ea",
+        "current": "gradient",
+        "gradient": {
+          "angle": 200,
+          "colors": [
+            {
+              "value": "#f4f0ea"
+            },
+            {
+              "value": "#9aa59c"
+            }
+          ],
+          "isAnimated": false
+        },
+        "gradient-type": "linear",
+        "isTransparent": false,
+        "gradient-value": "linear-gradient(200deg, #f4f0ea, #9aa59c)"
+      },
+      "components": [
+        "L8HGQG",
+        "1xhqK0",
+        "K-2Kl6",
+        "9TpyzH"
+      ]
+    },
+    "faRsF9": {
+      "type": "BlockLayout",
+      "htmlId": "coverage",
+      "mobile": {
+        "minHeight": 1216
+      },
+      "desktop": {
+        "minHeight": 815
+      },
+      "settings": {
+        "styles": {
+          "cols": "12",
+          "rows": 11,
+          "width": "1224px",
+          "m-rows": "1",
+          "col-gap": "24px",
+          "row-gap": "16px",
+          "row-size": "48px",
+          "block-padding": "16px 0 16px 0",
+          "m-block-padding": "16px"
+        }
+      },
+      "zindexes": [
+        "CLdCER",
+        "0qY6Bi",
+        "Qxo6fZ",
+        "9nNlpb",
+        "BoiRnt",
+        "OnJ7eO",
+        "omexqt",
+        "uwyi0c",
+        "NB5ffc",
+        "oDgRGv",
+        "-nfZxJ",
+        "D2hokg",
+        "lhgPCZ",
+        "t7_7U5",
+        "VdRv3X"
+      ],
+      "background": {
+        "color": "#e2e0da",
+        "current": "color",
+        "isTransparent": false
+      },
+      "components": [
+        "CLdCER",
+        "0qY6Bi",
+        "Qxo6fZ",
+        "9nNlpb",
+        "BoiRnt",
+        "OnJ7eO",
+        "omexqt",
+        "uwyi0c",
+        "NB5ffc",
+        "oDgRGv",
+        "-nfZxJ",
+        "D2hokg",
+        "lhgPCZ",
+        "t7_7U5",
+        "VdRv3X"
+      ]
+    },
+    "zff_W2": {
+      "type": "BlockAppointmentList",
+      "desktop": {
+        "columnGap": 24,
+        "columnCount": 3
+      },
+      "settings": {
+        "styles": {
+          "textAlign": "center",
+          "block-padding": "32px 16px 32px 16px",
+          "content-width": "1224px",
+          "m-block-padding": "16px 16px 16px 16px"
+        },
+        "imageHoverEffect": "zoom"
+      },
+      "zindexes": [],
+      "animation": {
+        "name": "slide",
+        "type": "global"
+      },
+      "background": {
+        "color": "rgb(244, 240, 234)",
+        "current": "color"
+      },
+      "buttonType": "primary",
+      "components": [],
+      "imageRatio": "portrait",
+      "buttonStyle": {
+        "grid-button-primary-color": "rgb(0, 0, 0)",
+        "grid-button-secondary-color": "rgb(46, 47, 49)",
+        "grid-button-primary-color-hover": "rgb(255, 255, 255)",
+        "grid-button-primary-border-color": "rgb(112, 139, 117)",
+        "grid-button-primary-border-radius": 2,
+        "grid-button-secondary-color-hover": "rgb(29, 30, 32)",
+        "grid-button-secondary-border-color": "rgb(255, 255, 255)",
+        "grid-button-primary-background-color": "rgb(112, 139, 117)",
+        "grid-button-primary-border-color-hover": "rgb(29, 30, 32)",
+        "grid-button-secondary-background-color": "rgb(255, 255, 255)",
+        "grid-button-primary-border-color-active": "rgb(0, 0, 0)",
+        "grid-button-secondary-border-color-hover": "rgb(241, 241, 241)",
+        "grid-button-secondary-border-color-active": "rgb(255, 255, 255)",
+        "grid-button-primary-background-color-hover": "rgb(29, 30, 32)",
+        "grid-button-primary-background-color-active": "rgb(0, 0, 0)",
+        "grid-button-secondary-background-color-hover": "rgb(241, 241, 241)",
+        "grid-button-secondary-background-color-active": "rgb(255, 255, 255)"
+      },
+      "isFullWidth": false,
+      "ribbonStyle": {
+        "ribbon-color": "rgb(255, 255, 255)",
+        "ribbon-background-color": "rgb(29, 30, 32)"
+      },
+      "buttonDisplay": "hover",
+      "textColorVars": {
+        "h1-color": "rgb(26, 46, 34)",
+        "h2-color": "rgb(26, 46, 34)",
+        "h3-color": "rgb(26, 46, 34)",
+        "h4-color": "rgb(26, 46, 34)",
+        "h5-color": "rgb(26, 46, 34)",
+        "h6-color": "rgb(26, 46, 34)",
+        "body-color": "rgb(26, 46, 34)",
+        "body-large-color": "rgb(26, 46, 34)"
+      },
+      "isButtonEnabled": true,
+      "productsPerPage": 3,
+      "buttonBorderWidth": 1,
+      "isButtonFullWidth": false,
+      "productCategoryId": "",
+      "isCategoryListEnabled": false,
+      "isTotalProductCountShown": false,
+      "disabledFilterCategoryIds": []
+    },
+    "JWvErb": {
+      "type": "BlockLayout",
+      "htmlId": "steps",
+      "mobile": {
+        "minHeight": 1089
+      },
+      "desktop": {
+        "minHeight": 504
+      },
+      "settings": {
+        "styles": {
+          "cols": "12",
+          "rows": 8,
+          "width": "1224px",
+          "m-rows": "1",
+          "col-gap": "24px",
+          "row-gap": "16px",
+          "row-size": "48px",
+          "block-padding": "16px 0 16px 0",
+          "m-block-padding": "16px"
+        }
+      },
+      "zindexes": [
+        "mUDCK9",
+        "6t85fz",
+        "LXg5aK",
+        "SPJchS",
+        "zyQIEG",
+        "J_sCyK",
+        "3lTgkw",
+        "jxjEWB",
+        "w8ZGav",
+        "qPfDjQ",
+        "XrFStA",
+        "vV9AJ-",
+        "s9vlO2",
+        "tmy993"
+      ],
+      "background": {
+        "color": "#f4f0ea",
+        "current": "color",
+        "isTransparent": false
+      },
+      "components": [
+        "mUDCK9",
+        "6t85fz",
+        "LXg5aK",
+        "SPJchS",
+        "zyQIEG",
+        "J_sCyK",
+        "3lTgkw",
+        "jxjEWB",
+        "w8ZGav",
+        "qPfDjQ",
+        "XrFStA",
+        "vV9AJ-",
+        "s9vlO2",
+        "tmy993"
+      ]
+    },
+    "LDDicQ": {
+      "type": "BlockLayout",
+      "htmlId": "neighborhoods",
+      "mobile": {
+        "minHeight": 840
+      },
+      "desktop": {
+        "minHeight": 494
+      },
+      "settings": {
+        "styles": {
+          "cols": "12",
+          "rows": 8,
+          "width": "1224px",
+          "m-rows": "1",
+          "col-gap": "24px",
+          "row-gap": "16px",
+          "row-size": "48px",
+          "block-padding": "16px 0 16px 0",
+          "m-block-padding": "16px"
+        }
+      },
+      "zindexes": [
+        "d8mNAT",
+        "8e10GQ",
+        "9hnxC-",
+        "cK262E",
+        "TWjgHd",
+        "sAvPNr",
+        "2LlQsP",
+        "o9QU04",
+        "jmKX9b",
+        "b5ENgh",
+        "cvm192"
+      ],
+      "background": {
+        "color": "#f4f0ea",
+        "current": "color",
+        "isTransparent": false
+      },
+      "components": [
+        "d8mNAT",
+        "8e10GQ",
+        "9hnxC-",
+        "cK262E",
+        "TWjgHd",
+        "sAvPNr",
+        "2LlQsP",
+        "o9QU04",
+        "jmKX9b",
+        "b5ENgh",
+        "cvm192"
+      ]
+    },
+    "PipeYK": {
+      "type": "BlockLayout",
+      "htmlId": "hero",
+      "mobile": {
+        "minHeight": 606
+      },
+      "desktop": {
+        "minHeight": 483
+      },
+      "settings": {
+        "styles": {
+          "cols": "12",
+          "rows": 8,
+          "width": "1224px",
+          "m-rows": "1",
+          "col-gap": "24px",
+          "row-gap": "16px",
+          "row-size": "48px",
+          "block-padding": "16px 0 16px 0",
+          "m-block-padding": "16px"
+        }
+      },
+      "zindexes": [
+        "opE0ME",
+        "ALUklu",
+        "GOJfBL",
+        "pr4x69"
+      ],
+      "background": {
+        "color": "#f4f0ea",
+        "current": "color",
+        "isTransparent": false
+      },
+      "components": [
+        "opE0ME",
+        "ALUklu",
+        "GOJfBL",
+        "pr4x69"
+      ]
+    },
+    "kM5FSM": {
+      "type": "BlockLayout",
+      "htmlId": "cta",
+      "mobile": {
+        "minHeight": 476
+      },
+      "desktop": {
+        "minHeight": 485
+      },
+      "settings": {
+        "styles": {
+          "cols": "12",
+          "rows": 8,
+          "width": "1224px",
+          "m-rows": "1",
+          "col-gap": "24px",
+          "row-gap": "16px",
+          "row-size": "48px",
+          "block-padding": "16px 0 16px 0",
+          "m-block-padding": "16px"
+        }
+      },
+      "zindexes": [
+        "npX9z0",
+        "sNF2nB",
+        "MD-8o4"
+      ],
+      "background": {
+        "color": "#2d4a3e",
+        "current": "color",
+        "isTransparent": false
+      },
+      "components": [
+        "npX9z0",
+        "sNF2nB",
+        "MD-8o4"
+      ]
+    },
+    "41npWY": {
+      "type": "BlockLayout",
+      "htmlId": "quote",
+      "mobile": {
+        "minHeight": 409
+      },
+      "desktop": {
+        "minHeight": 371
+      },
+      "settings": {
+        "styles": {
+          "cols": "12",
+          "rows": 6,
+          "width": "1224px",
+          "m-rows": "1",
+          "col-gap": "24px",
+          "row-gap": "16px",
+          "row-size": "48px",
+          "block-padding": "16px 0 16px 0",
+          "m-block-padding": "16px"
+        }
+      },
+      "zindexes": [
+        "hCfVmS",
+        "CK9_jB"
+      ],
+      "background": {
+        "color": "#2d4a3e",
+        "current": "color",
+        "isTransparent": false
+      },
+      "components": [
+        "hCfVmS",
+        "CK9_jB"
+      ]
+    },
+    "ggfinN": {
+      "type": "BlockLayout",
+      "htmlId": "team-grid",
+      "mobile": {
+        "minHeight": 2013
+      },
+      "desktop": {
+        "minHeight": 2264
+      },
+      "settings": {
+        "styles": {
+          "cols": "12",
+          "rows": 35,
+          "width": "1224px",
+          "m-rows": "1",
+          "col-gap": "24px",
+          "row-gap": "16px",
+          "row-size": "48px",
+          "block-padding": "16px 0 16px 0",
+          "m-block-padding": "16px"
+        }
+      },
+      "zindexes": [
+        "SQHxVW",
+        "vLruBb",
+        "iZa0Cs",
+        "msV3jm",
+        "pjL75B",
+        "4m24Fc",
+        "ocz5LA",
+        "1Fcbl9",
+        "JldaTO",
+        "wribkn",
+        "afr0ga",
+        "aC4ea-",
+        "OJXEEd",
+        "TaFWV4"
+      ],
+      "background": {
+        "color": "#e2e0da",
+        "current": "color",
+        "isTransparent": false
+      },
+      "components": [
+        "SQHxVW",
+        "vLruBb",
+        "iZa0Cs",
+        "msV3jm",
+        "pjL75B",
+        "4m24Fc",
+        "ocz5LA",
+        "1Fcbl9",
+        "JldaTO",
+        "wribkn",
+        "afr0ga",
+        "aC4ea-",
+        "OJXEEd",
+        "TaFWV4"
+      ]
+    },
+    "kzUGsh": {
+      "type": "BlockLayout",
+      "htmlId": "cta",
+      "mobile": {
+        "minHeight": 294
+      },
+      "desktop": {
+        "minHeight": 240
+      },
+      "settings": {
+        "styles": {
+          "cols": "12",
+          "rows": 3,
+          "width": "1224px",
+          "m-rows": "1",
+          "col-gap": "24px",
+          "row-gap": "16px",
+          "row-size": "48px",
+          "block-padding": "16px 0 16px 0",
+          "m-block-padding": "16px"
+        }
+      },
+      "zindexes": [
+        "OygDDd",
+        "2EWuhU",
+        "7VHNut"
+      ],
+      "background": {
+        "color": "#f4f0ea",
+        "current": "color",
+        "isTransparent": false
+      },
+      "components": [
+        "OygDDd",
+        "2EWuhU",
+        "7VHNut"
+      ]
+    },
+    "pWOTMy": {
+      "type": "BlockLayout",
+      "htmlId": "hero",
+      "mobile": {
+        "minHeight": 753
+      },
+      "desktop": {
+        "minHeight": 657
+      },
+      "settings": {
+        "styles": {
+          "cols": "12",
+          "rows": 10,
+          "width": "1224px",
+          "m-rows": "1",
+          "col-gap": "24px",
+          "row-gap": "16px",
+          "row-size": "48px",
+          "block-padding": "16px 0 16px 0",
+          "m-block-padding": "16px"
+        }
+      },
+      "zindexes": [
+        "Br2Rb3",
+        "_Wtqrs",
+        "Nx2zdA",
+        "dhX4-T",
+        "p4SGRk",
+        "VxPEyV",
+        "zIAT3d"
+      ],
+      "background": {
+        "color": "#f4f0ea",
+        "current": "color",
+        "isTransparent": false
+      },
+      "components": [
+        "Br2Rb3",
+        "_Wtqrs",
+        "Nx2zdA",
+        "dhX4-T",
+        "p4SGRk",
+        "VxPEyV",
+        "zIAT3d"
+      ]
+    },
+    "-hU10I": {
+      "type": "BlockLayout",
+      "htmlId": "faq-list",
+      "mobile": {
+        "minHeight": 1459
+      },
+      "desktop": {
+        "minHeight": 922
+      },
+      "settings": {
+        "styles": {
+          "cols": "12",
+          "rows": 14,
+          "width": "1224px",
+          "m-rows": "1",
+          "col-gap": "24px",
+          "row-gap": "16px",
+          "row-size": "48px",
+          "block-padding": "16px 0 16px 0",
+          "m-block-padding": "16px"
+        }
+      },
+      "zindexes": [
+        "6rOy67",
+        "VL9xwd",
+        "V0F-MO",
+        "VGK6_c",
+        "kQyNP9",
+        "po1XEk",
+        "FQR2AW",
+        "ERqqlD",
+        "OoFtKx",
+        "3efnJ8"
+      ],
+      "background": {
+        "color": "#e2e0da",
+        "current": "color",
+        "isTransparent": false
+      },
+      "components": [
+        "6rOy67",
+        "VL9xwd",
+        "V0F-MO",
+        "VGK6_c",
+        "kQyNP9",
+        "po1XEk",
+        "FQR2AW",
+        "ERqqlD",
+        "OoFtKx",
+        "3efnJ8"
+      ]
+    },
+    "A0nr8o": {
+      "type": "BlockLayout",
+      "htmlId": "hero",
+      "mobile": {
+        "minHeight": 596
+      },
+      "desktop": {
+        "minHeight": 488
+      },
+      "settings": {
+        "styles": {
+          "cols": "12",
+          "rows": 8,
+          "width": "1224px",
+          "m-rows": "1",
+          "col-gap": "24px",
+          "row-gap": "16px",
+          "row-size": "48px",
+          "block-padding": "16px 0 16px 0",
+          "m-block-padding": "16px"
+        }
+      },
+      "zindexes": [
+        "jUAcIj",
+        "b_UgTC",
+        "gshOmF"
+      ],
+      "background": {
+        "color": "#f4f0ea",
+        "current": "color",
+        "isTransparent": false
+      },
+      "components": [
+        "jUAcIj",
+        "b_UgTC",
+        "gshOmF"
+      ]
+    },
+    "kNF2Gm": {
+      "type": "BlockLayout",
+      "htmlId": "cta",
+      "mobile": {
+        "minHeight": 262
+      },
+      "desktop": {
+        "minHeight": 240
+      },
+      "settings": {
+        "styles": {
+          "cols": "12",
+          "rows": 3,
+          "width": "1224px",
+          "m-rows": "1",
+          "col-gap": "24px",
+          "row-gap": "16px",
+          "row-size": "48px",
+          "block-padding": "16px 0 16px 0",
+          "m-block-padding": "16px"
+        }
+      },
+      "zindexes": [
+        "QKFZx1",
+        "csNm-c",
+        "dM4s6N"
+      ],
+      "background": {
+        "color": "#f4f0ea",
+        "current": "color",
+        "isTransparent": false
+      },
+      "components": [
+        "QKFZx1",
+        "csNm-c",
+        "dM4s6N"
+      ]
+    },
+    "eI_vEy": {
+      "type": "BlockLayout",
+      "htmlId": "hero",
+      "mobile": {
+        "minHeight": 808
+      },
+      "desktop": {
+        "minHeight": 606
+      },
+      "settings": {
+        "styles": {
+          "cols": "12",
+          "rows": 8,
+          "width": "1224px",
+          "m-rows": "1",
+          "col-gap": "24px",
+          "row-gap": "16px",
+          "row-size": "48px",
+          "block-padding": "16px 0 16px 0",
+          "m-block-padding": "16px"
+        }
+      },
+      "zindexes": [
+        "Ee_wf3",
+        "y6XwN9",
+        "zGtbKi",
+        "vS7St0",
+        "auQn2S"
+      ],
+      "background": {
+        "color": "#f4f0ea",
+        "current": "color",
+        "isTransparent": false
+      },
+      "components": [
+        "Ee_wf3",
+        "y6XwN9",
+        "zGtbKi",
+        "vS7St0",
+        "auQn2S"
+      ]
+    },
+    "uaBvv3": {
+      "type": "BlockLayout",
+      "htmlId": "contact-form",
+      "mobile": {
+        "minHeight": 958
+      },
+      "desktop": {
+        "minHeight": 696
+      },
+      "settings": {
+        "styles": {
+          "cols": "12",
+          "rows": 11,
+          "width": "1224px",
+          "m-rows": "1",
+          "col-gap": "24px",
+          "row-gap": "16px",
+          "row-size": "48px",
+          "block-padding": "16px 0 16px 0",
+          "m-block-padding": "16px"
+        }
+      },
+      "zindexes": [
+        "srbaDS",
+        "Nc5t45",
+        "61g9x7",
+        "ygOaJd"
+      ],
+      "background": {
+        "color": "#1a2e22",
+        "current": "color",
+        "isTransparent": false
+      },
+      "components": [
+        "srbaDS",
+        "Nc5t45",
+        "61g9x7",
+        "ygOaJd"
+      ]
+    },
+    "zhDKDK": {
+      "type": "BlockEcommerceProduct",
+      "product": {
+        "id": -1
+      },
+      "settings": {
+        "styles": {
+          "block-padding": "100px 16px",
+          "content-width": "1224px",
+          "m-block-padding": "56px 16px"
+        }
+      },
+      "zindexes": [],
+      "animation": {
+        "name": "slide",
+        "type": "global"
+      },
+      "background": {
+        "color": "rgb(244, 240, 234)",
+        "current": "color"
+      },
+      "components": [],
+      "imageRatio": "contain",
+      "buttonStyle": {
+        "grid-button-primary-color": "rgb(0, 0, 0)",
+        "grid-button-secondary-color": "rgb(46, 47, 49)",
+        "grid-button-primary-color-hover": "rgb(255, 255, 255)",
+        "grid-button-primary-border-color": "rgb(112, 139, 117)",
+        "grid-button-primary-border-radius": 2,
+        "grid-button-secondary-color-hover": "rgb(29, 30, 32)",
+        "grid-button-secondary-border-color": "rgb(255, 255, 255)",
+        "grid-button-primary-background-color": "rgb(112, 139, 117)",
+        "grid-button-primary-border-color-hover": "rgb(29, 30, 32)",
+        "grid-button-secondary-background-color": "rgb(255, 255, 255)",
+        "grid-button-primary-border-color-active": "rgb(0, 0, 0)",
+        "grid-button-secondary-border-color-hover": "rgb(241, 241, 241)",
+        "grid-button-secondary-border-color-active": "rgb(255, 255, 255)",
+        "grid-button-primary-background-color-hover": "rgb(29, 30, 32)",
+        "grid-button-primary-background-color-active": "rgb(0, 0, 0)",
+        "grid-button-secondary-background-color-hover": "rgb(241, 241, 241)",
+        "grid-button-secondary-background-color-active": "rgb(255, 255, 255)"
+      },
+      "textColorVars": {
+        "h1-color": "rgb(26, 46, 34)",
+        "h2-color": "rgb(26, 46, 34)",
+        "h3-color": "rgb(26, 46, 34)",
+        "h4-color": "rgb(26, 46, 34)",
+        "h5-color": "rgb(26, 46, 34)",
+        "h6-color": "rgb(26, 46, 34)",
+        "body-color": "rgb(26, 46, 34)",
+        "body-large-color": "rgb(26, 46, 34)"
+      },
+      "galleryPlacement": "bottom",
+      "imageBorderRadius": "0%",
+      "navigationArrowsColor": "rgb(0, 0, 0)",
+      "isQuantityPickerEnabled": true,
+      "navigationThumbnailArrowsColor": "rgb(0, 0, 0)"
+    }
+  },
+  "components": {
+    "1_1XWN": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 790,
+        "left": 0,
+        "width": 328,
+        "height": 39
+      },
+      "content": "<p dir=\"auto\" class=\"body-small\" style=\"color: rgb(26, 46, 34);\">We help you choose a suitable yoga professional based on your goals, location and schedule.</p>",
+      "desktop": {
+        "top": 340,
+        "left": 614,
+        "width": 255,
+        "height": 58
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "1gLYyP": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 174,
+        "left": 0,
+        "width": 328,
+        "height": 83
+      },
+      "content": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Your Home Yoga Journey, Made Simple</h2>",
+      "desktop": {
+        "top": 104,
+        "left": 80,
+        "width": 1056,
+        "height": 52
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "3kW9Uu": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 1168,
+        "left": 16,
+        "width": 296,
+        "height": 32
+      },
+      "content": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Couple &amp; Family Yoga</h3>",
+      "desktop": {
+        "top": 393,
+        "left": 816,
+        "width": 296,
+        "height": 38
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "5HE45F": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 892,
+        "left": 16,
+        "width": 296,
+        "height": 112
+      },
+      "content": "<p dir=\"auto\" class=\"body\" style=\"color: rgb(26, 46, 34);\">Use mindful movement, breathing practices and relaxation techniques to create a calmer and more balanced daily routine.</p>",
+      "desktop": {
+        "top": 501,
+        "left": 460,
+        "width": 296,
+        "height": 112
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "61DJ6M": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 424,
+        "left": 0,
+        "width": 328,
+        "height": 153
+      },
+      "content": "<p dir=\"auto\" class=\"body-small\" style=\"color: rgb(244, 240, 234); opacity: 0.85; letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 6px;\">Home</p><p dir=\"auto\" class=\"body-small\" style=\"color: rgb(244, 240, 234); opacity: 0.85; letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 6px;\">About</p><p dir=\"auto\" class=\"body-small\" style=\"color: rgb(244, 240, 234); opacity: 0.85; letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 6px;\">Services</p><p dir=\"auto\" class=\"body-small\" style=\"color: rgb(244, 240, 234); opacity: 0.85; letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 6px;\">Team</p><p dir=\"auto\" class=\"body-small\" style=\"color: rgb(244, 240, 234); opacity: 0.85; letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 6px;\">How It Works</p><p dir=\"auto\" class=\"body-small\" style=\"color: rgb(244, 240, 234); opacity: 0.85; letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 6px;\">FAQ</p>",
+      "desktop": {
+        "top": 174,
+        "left": 485,
+        "width": 280,
+        "height": 153
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "fade",
+        "type": "element"
+      }
+    },
+    "8SY7zp": {
+      "svg": "<svg viewBox=\"0 0 48 48\" preserveAspectRatio=\"xMinYMid meet\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\"><rect width=\"48\" height=\"48\" rx=\"12\" fill=\"#cdd0c7\"></rect><g transform=\"translate(12 12)\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"5\"></circle><line x1=\"12\" y1=\"1\" x2=\"12\" y2=\"3\"></line><line x1=\"12\" y1=\"21\" x2=\"12\" y2=\"23\"></line><line x1=\"4.22\" y1=\"4.22\" x2=\"5.64\" y2=\"5.64\"></line><line x1=\"18.36\" y1=\"18.36\" x2=\"19.78\" y2=\"19.78\"></line><line x1=\"1\" y1=\"12\" x2=\"3\" y2=\"12\"></line><line x1=\"21\" y1=\"12\" x2=\"23\" y2=\"12\"></line><line x1=\"4.22\" y1=\"19.78\" x2=\"5.64\" y2=\"18.36\"></line><line x1=\"18.36\" y1=\"5.64\" x2=\"19.78\" y2=\"4.22\"></line></g></svg>",
+      "type": "GridShape",
+      "color": "#1a2e22",
+      "shape": "icon-sun",
+      "mobile": {
+        "top": 759,
+        "left": 136,
+        "width": 56,
+        "height": 56
+      },
+      "desktop": {
+        "top": 325,
+        "left": 460,
+        "width": 296,
+        "height": 56
+      },
+      "settings": {
+        "styles": {}
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "97Is4S": {
+      "type": "GridCard",
+      "mobile": {
+        "top": 1066,
+        "left": 0,
+        "width": 328,
+        "height": 297
+      },
+      "desktop": {
+        "top": 301,
+        "left": 792,
+        "width": 344,
+        "height": 356
+      },
+      "opacity": 100,
+      "animation": {
+        "name": "none",
+        "type": "element",
+        "hover": "lift"
+      },
+      "borderColor": "#00000000",
+      "borderWidth": 0,
+      "borderRadius": 16,
+      "backgroundColor": "#e2e0da",
+      "boxShadowPreset": "xl",
+      "backgroundCurrent": "color"
+    },
+    "9cVQQO": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 208,
+        "left": 0,
+        "width": 328,
+        "height": 84
+      },
+      "content": "<p dir=\"auto\" class=\"body\" style=\"color: rgb(255, 255, 255);\">Connect with our yoga professionals for personalized home sessions across selected areas of Bangalore.</p>",
+      "desktop": {
+        "top": 184,
+        "left": 258,
+        "width": 700,
+        "height": 56
+      },
+      "settings": {
+        "styles": {
+          "text": "center",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "D0czII": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 52,
+        "left": 0,
+        "width": 328,
+        "height": 28
+      },
+      "content": "<p dir=\"auto\" class=\"body\">Why Choose Sadhya Wellness</p>",
+      "desktop": {
+        "top": 72,
+        "left": 80,
+        "width": 1056,
+        "height": 28
+      },
+      "settings": {
+        "styles": {
+          "text": "center",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "E0Klk8": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 384,
+        "left": 0,
+        "width": 328,
+        "height": 19
+      },
+      "content": "<p dir=\"auto\" class=\"body-small\" style=\"color: rgb(112, 139, 117); --lineHeightDesktop: 1.3; --fontSizeDesktop: 16px;\">Navigation</p>",
+      "desktop": {
+        "top": 120,
+        "left": 485,
+        "width": 280,
+        "height": 21
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "fade",
+        "type": "element"
+      }
+    },
+    "GbfAFI": {
+      "svg": "<svg viewBox=\"0 0 48 48\" preserveAspectRatio=\"xMinYMid meet\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\"><rect width=\"48\" height=\"48\" rx=\"12\" fill=\"#cdd0c7\"></rect><g transform=\"translate(12 12)\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2\"></path><circle cx=\"9\" cy=\"7\" r=\"4\"></circle><path d=\"M23 21v-2a4 4 0 0 0-3-3.87\"></path><path d=\"M16 3.13a4 4 0 0 1 0 7.75\"></path></g></svg>",
+      "type": "GridShape",
+      "color": "#1a2e22",
+      "shape": "icon-users",
+      "mobile": {
+        "top": 1100,
+        "left": 136,
+        "width": 56,
+        "height": 56
+      },
+      "desktop": {
+        "top": 325,
+        "left": 816,
+        "width": 296,
+        "height": 56
+      },
+      "settings": {
+        "styles": {}
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "HUgFep": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 52,
+        "left": 0,
+        "width": 328,
+        "height": 84
+      },
+      "content": "<p dir=\"auto\" class=\"body\">From your first enquiry to your first session, we make it easy to start personalized yoga practice at home.</p>",
+      "desktop": {
+        "top": 160,
+        "left": 84,
+        "width": 1056,
+        "height": 28
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "Ht6Cb_": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 118,
+        "left": 0,
+        "width": 328,
+        "height": 125
+      },
+      "content": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Personalised Yoga &amp; Wellness at Your Home</h2>",
+      "desktop": {
+        "top": 139,
+        "left": 80,
+        "width": 1056,
+        "height": 52
+      },
+      "settings": {
+        "styles": {
+          "text": "center",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "I7qOqc": {
+      "type": "GridCard",
+      "mobile": {
+        "top": 743,
+        "left": 0,
+        "width": 328,
+        "height": 297
+      },
+      "desktop": {
+        "top": 301,
+        "left": 436,
+        "width": 344,
+        "height": 356
+      },
+      "opacity": 100,
+      "animation": {
+        "name": "none",
+        "type": "element",
+        "hover": "lift"
+      },
+      "borderColor": "#00000000",
+      "borderWidth": 0,
+      "borderRadius": 16,
+      "backgroundColor": "#e2e0da",
+      "boxShadowPreset": "xl",
+      "backgroundCurrent": "color"
+    },
+    "JU-5f_": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 487,
+        "left": 0,
+        "width": 328,
+        "height": 21
+      },
+      "content": "<span class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">02</span>",
+      "desktop": {
+        "top": 234,
+        "left": 347,
+        "width": 255,
+        "height": 21
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "JvFHVj": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 396,
+        "left": 0,
+        "width": 328,
+        "height": 39
+      },
+      "content": "<p dir=\"auto\" class=\"body-small\" style=\"color: rgb(26, 46, 34);\">Contact us through WhatsApp or phone and tell us your preferred location, timing and wellness goals.</p>",
+      "desktop": {
+        "top": 340,
+        "left": 80,
+        "width": 255,
+        "height": 58
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "LaJf0k": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 118,
+        "left": 0,
+        "width": 328,
+        "height": 83
+      },
+      "content": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Yoga Sessions Designed Around You</h2>",
+      "desktop": {
+        "top": 132,
+        "left": 80,
+        "width": 1056,
+        "height": 52
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "slide-right",
+        "type": "element",
+        "delay": 0.1
+      }
+    },
+    "LnZ9MC": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 593,
+        "left": 0,
+        "width": 328,
+        "height": 39
+      },
+      "content": "<p dir=\"auto\" class=\"body-small\" style=\"color: rgb(26, 46, 34);\">We understand your experience level, daily routine, fitness needs and preferred session format.</p>",
+      "desktop": {
+        "top": 340,
+        "left": 347,
+        "width": 255,
+        "height": 58
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "M2tB7s": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 514,
+        "left": 16,
+        "width": 296,
+        "height": 32
+      },
+      "content": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Mobility &amp; Flexibility</h3>",
+      "desktop": {
+        "top": 393,
+        "left": 104,
+        "width": 296,
+        "height": 38
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "O3jYk1": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 80,
+        "left": 0,
+        "width": 328,
+        "height": 25
+      },
+      "content": "<h5 dir=\"auto\">Sadhya Wellness</h5>",
+      "desktop": {
+        "top": 97,
+        "left": 56,
+        "width": 508,
+        "height": 25
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "fade",
+        "type": "element",
+        "delay": 0.1
+      }
+    },
+    "OzZ6s3": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 234,
+        "left": 0,
+        "width": 328,
+        "height": 112
+      },
+      "content": "<p dir=\"auto\" class=\"body\">Every session is adapted to your goals, fitness level, lifestyle and comfort—so you can practice yoga consistently from the comfort of your home.</p>",
+      "desktop": {
+        "top": 222,
+        "left": 80,
+        "width": 1056,
+        "height": 28
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "PoNVFx": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 862,
+        "left": 0,
+        "width": 328,
+        "height": 21
+      },
+      "content": "<span class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">04</span>",
+      "desktop": {
+        "top": 234,
+        "left": 881,
+        "width": 255,
+        "height": 21
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "QEerT-": {
+      "type": "GridCard",
+      "mobile": {
+        "top": 430,
+        "left": 0,
+        "width": 328,
+        "height": 297
+      },
+      "desktop": {
+        "top": 301,
+        "left": 80,
+        "width": 344,
+        "height": 356
+      },
+      "opacity": 100,
+      "animation": {
+        "name": "none",
+        "type": "element",
+        "hover": "lift"
+      },
+      "borderColor": "#00000000",
+      "borderWidth": 0,
+      "borderRadius": 16,
+      "backgroundColor": "#e2e0da",
+      "boxShadowPreset": "xl",
+      "backgroundCurrent": "color"
+    },
+    "T4LyIo": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 290,
+        "left": 0,
+        "width": 328,
+        "height": 21
+      },
+      "content": "<span class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">01</span>",
+      "desktop": {
+        "top": 234,
+        "left": 80,
+        "width": 255,
+        "height": 21
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "T8pVIP": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 1233,
+        "left": 16,
+        "width": 296,
+        "height": 112
+      },
+      "content": "<p dir=\"auto\" class=\"body\" style=\"color: rgb(26, 46, 34);\">Practice together with personalized sessions designed for couples and families of different ages and experience levels.</p>",
+      "desktop": {
+        "top": 501,
+        "left": 816,
+        "width": 296,
+        "height": 112
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "TsrcnT": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 52,
+        "left": 0,
+        "width": 328,
+        "height": 28
+      },
+      "content": "<p dir=\"auto\" class=\"body\">Personalized Yoga Programs</p>",
+      "desktop": {
+        "top": 80,
+        "left": 80,
+        "width": 1056,
+        "height": 28
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "UYj7ab": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 276,
+        "left": 0,
+        "width": 328,
+        "height": 93
+      },
+      "content": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">15+ Yrs</h2><p dir=\"auto\" class=\"body-small\" style=\"color: rgb(26, 46, 34);\">Combined Professional Experience</p>",
+      "desktop": {
+        "top": 235,
+        "left": 80,
+        "width": 344,
+        "height": 103
+      },
+      "settings": {
+        "styles": {
+          "text": "center",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "UlHQ2A": {
+      "svg": "<svg viewBox=\"0 0 48 48\" preserveAspectRatio=\"xMinYMid meet\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\"><rect width=\"48\" height=\"48\" rx=\"12\" fill=\"#cdd0c7\"></rect><g transform=\"translate(12 12)\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"22 12 18 12 15 21 9 3 6 12 2 12\"></polyline></g></svg>",
+      "type": "GridShape",
+      "color": "#1a2e22",
+      "shape": "icon-activity",
+      "mobile": {
+        "top": 446,
+        "left": 136,
+        "width": 56,
+        "height": 56
+      },
+      "desktop": {
+        "top": 325,
+        "left": 104,
+        "width": 296,
+        "height": 56
+      },
+      "settings": {
+        "styles": {}
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "Vp5-KA": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 684,
+        "left": 0,
+        "width": 328,
+        "height": 21
+      },
+      "content": "<span class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">03</span>",
+      "desktop": {
+        "top": 234,
+        "left": 614,
+        "width": 255,
+        "height": 21
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "YXARKQ": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 382,
+        "left": 0,
+        "width": 328,
+        "height": 96
+      },
+      "content": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34); margin-bottom: 15px;\"><strong>7 Areas</strong></h2><p dir=\"auto\" class=\"body-small\" style=\"color: rgb(26, 46, 34);\"><br>Bengaluru Service Locations</p>",
+      "desktop": {
+        "top": 235,
+        "left": 436,
+        "width": 344,
+        "height": 106
+      },
+      "settings": {
+        "styles": {
+          "text": "center",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "Z36f4p": {
+      "svg": "<svg preserveAspectRatio=\"none\" viewBox=\"0 0 80 80\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"currentColor\"><path d=\"M0 0H80V80H0V0Z\"></path></svg>",
+      "type": "GridShape",
+      "color": "#f4f0ea",
+      "shape": "rectangle",
+      "mobile": {
+        "top": 934,
+        "left": 0,
+        "width": 328,
+        "height": 1
+      },
+      "desktop": {
+        "top": 403,
+        "left": 80,
+        "width": 1040,
+        "height": 1
+      },
+      "settings": {
+        "styles": {}
+      },
+      "animation": {
+        "name": "fade",
+        "type": "element"
+      }
+    },
+    "_vfjZ8": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 579,
+        "left": 16,
+        "width": 296,
+        "height": 84
+      },
+      "content": "<p dir=\"auto\" class=\"body\" style=\"color: rgb(26, 46, 34);\">Improve flexibility, posture awareness and comfortable movement through gentle, progressive yoga practices.</p>",
+      "desktop": {
+        "top": 501,
+        "left": 104,
+        "width": 296,
+        "height": 84
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "b3SQVh": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 143,
+        "left": 0,
+        "width": 328,
+        "height": 150
+      },
+      "content": "<h1 dir=\"auto\" style=\"color: rgb(36, 72, 59); --lineHeightDesktop: 1.3; --fontSizeDesktop: 64px;\">Home Yoga Classes in <strong>Bangalore</strong></h1>",
+      "desktop": {
+        "top": 136,
+        "left": 56,
+        "width": 508,
+        "height": 250
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "rise",
+        "type": "element",
+        "delay": 0.1
+      }
+    },
+    "dkDW43": {
+      "rel": "",
+      "href": "/contact",
+      "type": "GridButton",
+      "mobile": {
+        "top": 356,
+        "left": 63,
+        "width": 201,
+        "height": 48
+      },
+      "target": "_self",
+      "content": "Book Your Home Session",
+      "desktop": {
+        "top": 291,
+        "left": 498,
+        "width": 219,
+        "height": 53
+      },
+      "linkType": "page",
+      "settings": {
+        "type": "primary",
+        "styles": {}
+      },
+      "animation": {
+        "name": "none",
+        "type": "element",
+        "hover": "lift"
+      },
+      "fontColor": "#000000",
+      "borderColor": "#708b75",
+      "borderWidth": 0,
+      "borderRadius": 8,
+      "linkedPageId": "contact",
+      "fontColorHover": "#ffffff",
+      "backgroundColor": "#708b75",
+      "borderColorHover": "#596f5d",
+      "backgroundColorHover": "#596f5d"
+    },
+    "emiYV7": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 958,
+        "left": 0,
+        "width": 328,
+        "height": 82
+      },
+      "content": "<p dir=\"auto\" class=\"body-small\" style=\"color: rgb(244, 240, 234);\">© 2026 Sadhya Wellness. All rights reserved.</p><p dir=\"auto\" class=\"body-small\" style=\"color: rgb(244, 240, 234);\">Personalised yoga and wellness guidance, brought to your home.</p>",
+      "desktop": {
+        "top": 406,
+        "left": 80,
+        "width": 624,
+        "height": 63
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "fade",
+        "type": "element"
+      }
+    },
+    "fg2luL": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 640,
+        "left": 0,
+        "width": 328,
+        "height": 224
+      },
+      "content": "<p dir=\"auto\" class=\"body\" style=\"color: rgb(244, 240, 234); margin-bottom: 4px;\"><span style=\"font-family: Roboto; font-weight: 500;\">WhatsApp: +91 8618639113</span></p><p dir=\"auto\" class=\"body\" style=\"color: rgb(244, 240, 234); margin-bottom: 8px;\"><span style=\"font-family: Roboto; font-weight: 500;\">Phone: +91 8618639113</span></p><p dir=\"auto\" class=\"body\" style=\"color: rgb(244, 240, 234); margin-bottom: 8px;\"><span style=\"font-family: Roboto; font-weight: 500;\">Email: <a href=\"mailto:hello@sadhyawellness.com\">info@sadhyawellness.com</a></span></p><p dir=\"auto\" class=\"body\" style=\"color: rgb(244, 240, 234); margin-bottom: 8px;\"><span style=\"font-family: Roboto; font-weight: 500;\">Home yoga and wellness sessions in</span></p><p dir=\"auto\" class=\"body\" style=\"color: rgb(202, 204, 210);\"><span style=\"font-family: Roboto; font-weight: 500;\">Ejipura, Koramangala, S.T. Bed Layout, Viveknagar, Adugodi and BTM Layout nearby Bengaluru areas.</span></p>",
+      "desktop": {
+        "top": 157,
+        "left": 821,
+        "width": 300,
+        "height": 224
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "fade",
+        "type": "element"
+      }
+    },
+    "gfs_8K": {
+      "rel": "",
+      "href": "/contact",
+      "type": "GridButton",
+      "mobile": {
+        "top": 609,
+        "left": 46,
+        "width": 235,
+        "height": 48
+      },
+      "target": "_self",
+      "content": "Book Home Consultation",
+      "desktop": {
+        "top": 648,
+        "left": 60,
+        "width": 257,
+        "height": 53
+      },
+      "linkType": "page",
+      "settings": {
+        "type": "primary",
+        "styles": {}
+      },
+      "animation": {
+        "name": "fade",
+        "type": "element",
+        "delay": 0.1,
+        "hover": "lift"
+      },
+      "fontColor": "#ffffff",
+      "borderColor": "#2d4a3e",
+      "borderWidth": 0,
+      "borderRadius": 8,
+      "linkedPageId": "contact",
+      "fontColorHover": "#ffffff",
+      "backgroundColor": "#2d4a3e",
+      "borderColorHover": "#576e64",
+      "backgroundColorHover": "#576e64"
+    },
+    "gw_Iqh": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 184,
+        "left": 0,
+        "width": 328,
+        "height": 170
+      },
+      "content": "<h3 dir=\"auto\" style=\"color: rgb(244, 240, 234); margin-bottom: 8px;\">Sadhya Wellness</h3><p dir=\"auto\" class=\"body\" style=\"color: rgb(244, 240, 234); margin-bottom: 8px;\">Wellness, Made Personal.</p><p dir=\"auto\" class=\"body\" style=\"color: rgb(244, 240, 234); margin-bottom: 10px;\">Sadhya Wellness Rooted in Nainital, Uttarakhand.</p><p dir=\"auto\" class=\"body\"><span style=\"color: rgb(226, 224, 218);\">Serving homes across Bengaluru.</span></p>",
+      "desktop": {
+        "top": 177,
+        "left": 75,
+        "width": 360,
+        "height": 176
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "fade",
+        "type": "element"
+      }
+    },
+    "i8r3Y-": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 916,
+        "left": 0,
+        "width": 328,
+        "height": 25
+      },
+      "content": "<h4 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Begin Your Home Sessions</h4>",
+      "desktop": {
+        "top": 288,
+        "left": 881,
+        "width": 255,
+        "height": 25
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "m1Th_C": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 968,
+        "left": 0,
+        "width": 328,
+        "height": 39
+      },
+      "content": "<p dir=\"auto\" class=\"body-small\" style=\"color: rgb(26, 46, 34);\"> jams.Start a comfortable and personalized yoga routine in your own home with professional guidance.</p>",
+      "desktop": {
+        "top": 340,
+        "left": 881,
+        "width": 255,
+        "height": 58
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "ma9dEP": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 344,
+        "left": 0,
+        "width": 328,
+        "height": 25
+      },
+      "content": "<h4 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Share Your Goals</h4>",
+      "desktop": {
+        "top": 288,
+        "left": 80,
+        "width": 255,
+        "height": 25
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "naJjTL": {
+      "type": "GridImage",
+      "mobile": {
+        "top": 669,
+        "left": 0,
+        "width": 328,
+        "height": 437
+      },
+      "desktop": {
+        "top": 104,
+        "left": 612,
+        "width": 612,
+        "height": 600,
+        "borderRadius": "0px"
+      },
+      "settings": {
+        "alt": "",
+        "path": "sadhya-wellness-yoga-class-wgMuQFv8DcXMRgvQ.jpeg",
+        "origin": "assets",
+        "styles": {}
+      },
+      "animation": {
+        "name": "blur",
+        "type": "element",
+        "delay": 0.1
+      },
+      "imageHoverEffect": "zoom",
+      "fullResolutionWidth": 1600,
+      "fullResolutionHeight": 1200
+    },
+    "p2QYei": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 738,
+        "left": 0,
+        "width": 328,
+        "height": 25
+      },
+      "content": "<h4 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Meet Your Yoga Professional</h4>",
+      "desktop": {
+        "top": 288,
+        "left": 614,
+        "width": 255,
+        "height": 25
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "pyF3GK": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 325,
+        "left": 0,
+        "width": 328,
+        "height": 196
+      },
+      "content": "<p dir=\"auto\" class=\"body-large\">Personalized yoga sessions designed around your goals, fitness level and lifestyle — delivered at your home with professional guidance, practical techniques and flexible timings to help you build strength, improve mobility, reduce stress and develop a healthier daily routine.</p>",
+      "desktop": {
+        "top": 429,
+        "left": 62,
+        "width": 407,
+        "height": 168
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "slide",
+        "type": "element",
+        "delay": 0.1
+      }
+    },
+    "smFLFM": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 92,
+        "left": 0,
+        "width": 328,
+        "height": 83
+      },
+      "content": "<h2 dir=\"auto\" style=\"color: rgb(244, 240, 234);\">Ready to Start Your Yoga Journey?</h2>",
+      "desktop": {
+        "top": 104,
+        "left": 258,
+        "width": 700,
+        "height": 52
+      },
+      "settings": {
+        "styles": {
+          "text": "center",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "slide-left",
+        "type": "element",
+        "delay": 0.1
+      }
+    },
+    "v0dK4D": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 885,
+        "left": 0,
+        "width": 328,
+        "height": 19
+      },
+      "content": "<p dir=\"auto\" class=\"body-small\" style=\"color: rgb(112, 139, 117); letter-spacing: 0.16em;\">Personalized Home Yoga in Bangalore</p>",
+      "desktop": {
+        "top": 381,
+        "left": 681,
+        "width": 440,
+        "height": 19
+      },
+      "settings": {
+        "styles": {
+          "text": "right",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "fade",
+        "type": "element"
+      }
+    },
+    "wMAFFJ": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 491,
+        "left": 0,
+        "width": 328,
+        "height": 93
+      },
+      "content": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">100% Personalised</h2><p dir=\"auto\" class=\"body-small\" style=\"color: rgb(26, 46, 34);\">Sessions Based on Your Needs</p>",
+      "desktop": {
+        "top": 235,
+        "left": 792,
+        "width": 344,
+        "height": 103
+      },
+      "settings": {
+        "styles": {
+          "text": "center",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "wag5P3": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 541,
+        "left": 0,
+        "width": 328,
+        "height": 25
+      },
+      "content": "<h4 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Discuss Your Needs</h4>",
+      "desktop": {
+        "top": 288,
+        "left": 347,
+        "width": 255,
+        "height": 25
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "z1kGRB": {
+      "rel": "nofollow",
+      "type": "GridImage",
+      "mobile": {
+        "top": 24,
+        "left": 45,
+        "width": 237,
+        "height": 148
+      },
+      "desktop": {
+        "top": 16,
+        "left": 83,
+        "width": 184,
+        "height": 145
+      },
+      "settings": {
+        "alt": "",
+        "path": "sadhya-wellness-logo1-OCDbwPnwuxGbqzmU.png",
+        "origin": "assets",
+        "styles": {
+          "align": "center",
+          "justify": "center",
+          "m-element-margin": "0 0 16px 0"
+        },
+        "clickAction": "none"
+      },
+      "animation": {
+        "name": "slide",
+        "type": "global"
+      },
+      "fullResolutionWidth": 1536,
+      "fullResolutionHeight": 1024
+    },
+    "z27hfM": {
+      "svg": "<svg viewBox=\"0 0 48 48\" preserveAspectRatio=\"xMinYMid meet\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\"><rect width=\"48\" height=\"48\" rx=\"12\" fill=\"#cdd0c7\"></rect><g transform=\"translate(12 12)\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2\"></path><circle cx=\"9\" cy=\"7\" r=\"4\"></circle><path d=\"M23 21v-2a4 4 0 0 0-3-3.87\"></path><path d=\"M16 3.13a4 4 0 0 1 0 7.75\"></path></g></svg>",
+      "type": "GridShape",
+      "color": "#1a2e22",
+      "shape": "icon-users",
+      "mobile": {
+        "top": 2024,
+        "left": 136,
+        "width": 56,
+        "height": 56
+      },
+      "desktop": {
+        "top": 732,
+        "left": 816,
+        "width": 296,
+        "height": 56
+      },
+      "settings": {
+        "styles": {}
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      },
+      "initialElementId": "zz2ILp"
+    },
+    "z3ZsaU": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 2095,
+        "left": 16,
+        "width": 296,
+        "height": 65
+      },
+      "content": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Healthy Weight Management</h3>",
+      "desktop": {
+        "top": 802,
+        "left": 816,
+        "width": 296,
+        "height": 76
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      },
+      "initialElementId": "zwOUe1"
+    },
+    "z8IYe4": {
+      "svg": "<svg viewBox=\"0 0 48 48\" preserveAspectRatio=\"xMinYMid meet\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\"><rect width=\"48\" height=\"48\" rx=\"12\" fill=\"#cdd0c7\"></rect><g transform=\"translate(12 12)\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"5\"></circle><line x1=\"12\" y1=\"1\" x2=\"12\" y2=\"3\"></line><line x1=\"12\" y1=\"21\" x2=\"12\" y2=\"23\"></line><line x1=\"4.22\" y1=\"4.22\" x2=\"5.64\" y2=\"5.64\"></line><line x1=\"18.36\" y1=\"18.36\" x2=\"19.78\" y2=\"19.78\"></line><line x1=\"1\" y1=\"12\" x2=\"3\" y2=\"12\"></line><line x1=\"21\" y1=\"12\" x2=\"23\" y2=\"12\"></line><line x1=\"4.22\" y1=\"19.78\" x2=\"5.64\" y2=\"18.36\"></line><line x1=\"18.36\" y1=\"5.64\" x2=\"19.78\" y2=\"4.22\"></line></g></svg>",
+      "type": "GridShape",
+      "color": "#1a2e22",
+      "shape": "icon-sun",
+      "mobile": {
+        "top": 1704,
+        "left": 136,
+        "width": 56,
+        "height": 56
+      },
+      "desktop": {
+        "top": 732,
+        "left": 460,
+        "width": 296,
+        "height": 56
+      },
+      "settings": {
+        "styles": {}
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      },
+      "initialElementId": "zg0KWT"
+    },
+    "zEwNr2": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 1520,
+        "left": 16,
+        "width": 296,
+        "height": 84
+      },
+      "content": "<p dir=\"auto\" class=\"body\">Build strength, balance and body awareness with practical yoga sessions suited to your current fitness level.</p>",
+      "desktop": {
+        "top": 904,
+        "left": 103,
+        "width": 296,
+        "height": 84
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      },
+      "initialElementId": "zWJ9VR"
+    },
+    "z_h716": {
+      "type": "GridCard",
+      "mobile": {
+        "top": 1681,
+        "left": 0,
+        "width": 328,
+        "height": 297
+      },
+      "desktop": {
+        "top": 708,
+        "left": 436,
+        "width": 344,
+        "height": 356
+      },
+      "opacity": 100,
+      "animation": {
+        "name": "none",
+        "type": "element",
+        "hover": "lift"
+      },
+      "borderColor": "#00000000",
+      "borderWidth": 0,
+      "borderRadius": 16,
+      "backgroundColor": "#e2e0da",
+      "boxShadowPreset": "xl",
+      "initialElementId": "z_XXJy",
+      "backgroundCurrent": "color"
+    },
+    "zbkJ1Z": {
+      "type": "GridCard",
+      "mobile": {
+        "top": 1378,
+        "left": 0,
+        "width": 328,
+        "height": 297
+      },
+      "desktop": {
+        "top": 708,
+        "left": 80,
+        "width": 344,
+        "height": 356
+      },
+      "opacity": 100,
+      "animation": {
+        "name": "none",
+        "type": "element",
+        "hover": "lift"
+      },
+      "borderColor": "#00000000",
+      "borderWidth": 0,
+      "borderRadius": 16,
+      "backgroundColor": "#e2e0da",
+      "boxShadowPreset": "xl",
+      "initialElementId": "z0LDOC",
+      "backgroundCurrent": "color"
+    },
+    "zcqrZG": {
+      "svg": "<svg viewBox=\"0 0 48 48\" preserveAspectRatio=\"xMinYMid meet\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\"><rect width=\"48\" height=\"48\" rx=\"12\" fill=\"#cdd0c7\"></rect><g transform=\"translate(12 12)\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"22 12 18 12 15 21 9 3 6 12 2 12\"></polyline></g></svg>",
+      "type": "GridShape",
+      "color": "#1a2e22",
+      "shape": "icon-activity",
+      "mobile": {
+        "top": 1400,
+        "left": 136,
+        "width": 56,
+        "height": 56
+      },
+      "desktop": {
+        "top": 732,
+        "left": 104,
+        "width": 296,
+        "height": 56
+      },
+      "settings": {
+        "styles": {}
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      },
+      "initialElementId": "ziyI88"
+    },
+    "zinGYZ": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 1768,
+        "left": 16,
+        "width": 296,
+        "height": 32
+      },
+      "content": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Beginner &amp; Senior Yoga</h3>",
+      "desktop": {
+        "top": 800,
+        "left": 460,
+        "width": 296,
+        "height": 38
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      },
+      "initialElementId": "z8YN83"
+    },
+    "zkR0bR": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 1824,
+        "left": 16,
+        "width": 296,
+        "height": 84
+      },
+      "content": "<p dir=\"auto\" class=\"body\">Comfortable, adaptable sessions for beginners and seniors, with simple instructions and gradual progression.</p>",
+      "desktop": {
+        "top": 904,
+        "left": 460,
+        "width": 296,
+        "height": 84
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      },
+      "initialElementId": "z1FC2m"
+    },
+    "zmaViX": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 605,
+        "left": 0,
+        "width": 328,
+        "height": 19
+      },
+      "content": "<p dir=\"auto\" class=\"body-small\" style=\"color: rgb(112, 139, 117); --lineHeightDesktop: 1.3; --fontSizeDesktop: 16px;\">Get in Touch</p>",
+      "desktop": {
+        "top": 120,
+        "left": 824,
+        "width": 280,
+        "height": 21
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "slide",
+        "type": "global"
+      }
+    },
+    "zntqUw": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 2180,
+        "left": 16,
+        "width": 296,
+        "height": 84
+      },
+      "content": "<p dir=\"auto\" class=\"body\">Support healthy lifestyle habits through yoga, mindful movement and consistent daily practice.</p>",
+      "desktop": {
+        "top": 923,
+        "left": 816,
+        "width": 296,
+        "height": 84
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      },
+      "initialElementId": "zq-gNz"
+    },
+    "zpSmtd": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 1472,
+        "left": 16,
+        "width": 296,
+        "height": 32
+      },
+      "content": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Fitness &amp; Strength</h3>",
+      "desktop": {
+        "top": 800,
+        "left": 104,
+        "width": 296,
+        "height": 38
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      },
+      "initialElementId": "zUnUkt"
+    },
+    "zu3wp-": {
+      "type": "GridCard",
+      "mobile": {
+        "top": 2000,
+        "left": 0,
+        "width": 328,
+        "height": 297
+      },
+      "desktop": {
+        "top": 708,
+        "left": 792,
+        "width": 344,
+        "height": 356
+      },
+      "opacity": 100,
+      "animation": {
+        "name": "none",
+        "type": "element",
+        "hover": "lift"
+      },
+      "borderColor": "#00000000",
+      "borderWidth": 0,
+      "borderRadius": 16,
+      "backgroundColor": "#e2e0da",
+      "boxShadowPreset": "xl",
+      "initialElementId": "zjOOIB",
+      "backgroundCurrent": "color"
+    },
+    "zxvRqJ": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 827,
+        "left": 16,
+        "width": 296,
+        "height": 32
+      },
+      "content": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Stress Relief &amp; Relaxation</h3>",
+      "desktop": {
+        "top": 393,
+        "left": 460,
+        "width": 296,
+        "height": 76
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "0Ikpgg": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 229,
+        "left": 0,
+        "width": 328,
+        "height": 140
+      },
+      "content": "<p dir=\"auto\" class=\"body\" style=\"color: rgb(26, 46, 34);\">At Sadhya Wellness, we bring traditional yoga practices and practical wellness guidance into your home. Each session is adapted to your experience level, lifestyle, goals and comfort.</p>",
+      "desktop": {
+        "top": 293,
+        "left": 80,
+        "width": 508,
+        "height": 84
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "8RhVkM": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 92,
+        "left": 0,
+        "width": 328,
+        "height": 28
+      },
+      "content": "<p dir=\"auto\" class=\"body\"><span style=\"color: rgb(255, 255, 255);\">Start Your Wellness Journey</span></p>",
+      "desktop": {
+        "top": 104,
+        "left": 258,
+        "width": 700,
+        "height": 28
+      },
+      "settings": {
+        "styles": {
+          "text": "center",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "9mrX8M": {
+      "type": "GridImage",
+      "mobile": {
+        "top": 593,
+        "left": 0,
+        "width": 328,
+        "height": 437
+      },
+      "desktop": {
+        "top": 72,
+        "left": 612,
+        "width": 612,
+        "height": 600,
+        "borderRadius": "0px"
+      },
+      "settings": {
+        "alt": "",
+        "path": "esp4q0-fFTFm8vlUF6nLLeE.png",
+        "origin": "assets",
+        "styles": {}
+      },
+      "animation": {
+        "name": "scale",
+        "type": "element",
+        "delay": 0.1
+      },
+      "imageHoverEffect": "zoom"
+    },
+    "A2b7KP": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 554,
+        "left": 0,
+        "width": 328,
+        "height": 93
+      },
+      "content": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">15+ Yrs</h2><p dir=\"auto\" class=\"body-small\" style=\"color: rgb(26, 46, 34);\"><span style=\"color: rgb(26, 46, 34);\">Combined Wellness Experience</span></p>",
+      "desktop": {
+        "top": 450,
+        "left": 80,
+        "width": 344,
+        "height": 103
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "loop": "pulse",
+        "name": "scale",
+        "type": "element",
+        "delay": 0.18
+      }
+    },
+    "AJhvIU": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 132,
+        "left": 0,
+        "width": 328,
+        "height": 125
+      },
+      "content": "<h2 dir=\"auto\" style=\"color: rgb(244, 240, 234);\">Your Home. Your Practice. Your Wellbeing.</h2>",
+      "desktop": {
+        "top": 170,
+        "left": 258,
+        "width": 700,
+        "height": 104
+      },
+      "settings": {
+        "styles": {
+          "text": "center",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "DpxYaC": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 52,
+        "left": 0,
+        "width": 328,
+        "height": 28
+      },
+      "content": "<p dir=\"auto\" class=\"body\"><span style=\"color: rgb(26, 46, 34);\">Traditional Knowledge. Personal Guidance.</span></p>",
+      "desktop": {
+        "top": 89,
+        "left": 80,
+        "width": 508,
+        "height": 28
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "K1DFYW": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 80,
+        "left": 0,
+        "width": 328,
+        "height": 28
+      },
+      "content": "<p dir=\"auto\" class=\"body\"><span style=\"color: rgb(26, 46, 34);\">Personalized Wellness, Rooted in Tradition</span></p>",
+      "desktop": {
+        "top": 104,
+        "left": 80,
+        "width": 1056,
+        "height": 28
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "fade",
+        "type": "element",
+        "delay": 0.1
+      }
+    },
+    "KRCK8x": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 127,
+        "left": 0,
+        "width": 328,
+        "height": 39
+      },
+      "content": "<p class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Speak directly with our founding team to discuss your health goals and schedule an initial consultation.</p>",
+      "desktop": {
+        "top": 112,
+        "left": 80,
+        "width": 700,
+        "height": 19
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "Kn8qkW": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 659,
+        "left": 0,
+        "width": 328,
+        "height": 93
+      },
+      "content": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">100%</h2><p dir=\"auto\" class=\"body-small\" style=\"color: rgb(26, 46, 34);\"><span style=\"color: rgb(26, 46, 34);\">Personalized Sessions</span></p>",
+      "desktop": {
+        "top": 450,
+        "left": 436,
+        "width": 344,
+        "height": 104
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "loop": "pulse",
+        "name": "scale",
+        "type": "element",
+        "delay": 0.18
+      }
+    },
+    "Nv61-l": {
+      "rel": "",
+      "href": "/services",
+      "type": "GridButton",
+      "mobile": {
+        "top": 533,
+        "left": 68,
+        "width": 192,
+        "height": 48
+      },
+      "target": "_self",
+      "content": "Explore Our Services",
+      "desktop": {
+        "top": 583,
+        "left": 80,
+        "width": 210,
+        "height": 53
+      },
+      "linkType": "page",
+      "settings": {
+        "type": "primary",
+        "styles": {}
+      },
+      "animation": {
+        "name": "none",
+        "type": "element",
+        "hover": "lift"
+      },
+      "fontColor": "#ffffff",
+      "borderColor": "#2d4a3e",
+      "borderWidth": 0,
+      "borderRadius": 8,
+      "linkedPageId": "services",
+      "fontColorHover": "#ffffff",
+      "backgroundColor": "#2d4a3e",
+      "borderColorHover": "#576e64",
+      "backgroundColorHover": "#576e64"
+    },
+    "RfjQp_": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 120,
+        "left": 0,
+        "width": 328,
+        "height": 150
+      },
+      "content": "<h1 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Personal Guidance. Real-Life Wellness.</h1>",
+      "desktop": {
+        "top": 170,
+        "left": 80,
+        "width": 1056,
+        "height": 70
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "rise",
+        "type": "element",
+        "delay": 0.1
+      }
+    },
+    "VtvpSo": {
+      "href": "/services",
+      "type": "GridButton",
+      "mobile": {
+        "top": 494,
+        "left": 68,
+        "width": 192,
+        "height": 48
+      },
+      "target": "_self",
+      "content": "View Our Services",
+      "desktop": {
+        "top": 373,
+        "left": 264,
+        "width": 210,
+        "height": 53
+      },
+      "linkType": "anchored-section",
+      "settings": {
+        "type": "primary",
+        "styles": {}
+      },
+      "animation": {
+        "name": "fade",
+        "type": "element",
+        "delay": 0.1,
+        "hover": "lift"
+      },
+      "fontColor": "#ffffff",
+      "borderColor": "#2d4a3e",
+      "borderWidth": 0,
+      "borderRadius": 8,
+      "fontColorHover": "#ffffff",
+      "backgroundColor": "#2d4a3e",
+      "borderColorHover": "#576e64",
+      "backgroundColorHover": "#576e64"
+    },
+    "fDjdgG": {
+      "href": "/team",
+      "type": "GridButton",
+      "mobile": {
+        "top": 434,
+        "left": 85,
+        "width": 158,
+        "height": 48
+      },
+      "target": "_self",
+      "content": "Meet Our Team",
+      "desktop": {
+        "top": 373,
+        "left": 80,
+        "width": 172,
+        "height": 53
+      },
+      "linkType": "anchored-section",
+      "settings": {
+        "type": "primary",
+        "styles": {}
+      },
+      "animation": {
+        "name": "fade",
+        "type": "element",
+        "delay": 0.1,
+        "hover": "lift"
+      },
+      "fontColor": "#ffffff",
+      "borderColor": "#2d4a3e",
+      "borderWidth": 0,
+      "borderRadius": 8,
+      "fontColorHover": "#ffffff",
+      "backgroundColor": "#2d4a3e",
+      "borderColorHover": "#576e64",
+      "backgroundColorHover": "#576e64"
+    },
+    "gSDzKj": {
+      "rel": "",
+      "href": "/contact",
+      "type": "GridButton",
+      "mobile": {
+        "top": 218,
+        "left": 72,
+        "width": 184,
+        "height": 48
+      },
+      "target": "_self",
+      "content": "Contact Sadhya Wellness",
+      "desktop": {
+        "top": 83,
+        "left": 936,
+        "width": 200,
+        "height": 53
+      },
+      "linkType": "page",
+      "settings": {
+        "type": "primary",
+        "styles": {}
+      },
+      "animation": {
+        "name": "none",
+        "type": "element",
+        "hover": "lift"
+      },
+      "fontColor": "#ffffff",
+      "borderColor": "#2d4a3e",
+      "borderWidth": 0,
+      "borderRadius": 8,
+      "linkedPageId": "contact",
+      "fontColorHover": "#ffffff",
+      "backgroundColor": "#2d4a3e",
+      "borderColorHover": "#576e64",
+      "backgroundColorHover": "#576e64"
+    },
+    "gmbBqh": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 92,
+        "left": 0,
+        "width": 328,
+        "height": 125
+      },
+      "content": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Yoga That Supports Your Everyday Wellness</h2>",
+      "desktop": {
+        "top": 155,
+        "left": 80,
+        "width": 508,
+        "height": 104
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "slide-right",
+        "type": "element",
+        "delay": 0.1
+      }
+    },
+    "ilhMEr": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 269,
+        "left": 0,
+        "width": 328,
+        "height": 78
+      },
+      "content": "<p dir=\"auto\" class=\"body-small\" style=\"color: rgb(255, 255, 255);\">Connect with our yoga professionals to discuss your goals, preferred location and suitable session timings. We will help you choose a personalized home yoga program in Bangalore.</p>",
+      "desktop": {
+        "top": 306,
+        "left": 258,
+        "width": 700,
+        "height": 39
+      },
+      "settings": {
+        "styles": {
+          "text": "center",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "rEGrpX": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 36,
+        "left": 0,
+        "width": 328,
+        "height": 65
+      },
+      "content": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Begin your personal home practice</h3>",
+      "desktop": {
+        "top": 48,
+        "left": 80,
+        "width": 700,
+        "height": 38
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "tUMbPQ": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 381,
+        "left": 0,
+        "width": 328,
+        "height": 140
+      },
+      "content": "<p dir=\"auto\" class=\"body\" style=\"color: rgb(26, 46, 34);\">Whether you want to improve flexibility, build strength, manage daily stress or develop a consistent routine, our yoga professionals guide you through simple and progressive practices.</p>",
+      "desktop": {
+        "top": 440,
+        "left": 80,
+        "width": 508,
+        "height": 84
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "vhlMvD": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 282,
+        "left": 0,
+        "width": 328,
+        "height": 140
+      },
+      "content": "<p dir=\"auto\" class=\"body\" style=\"color: rgb(26, 46, 34);\">Sadhya Wellness brings traditional yoga practices and modern wellness guidance directly to your home in Bangalore. Every session is adapted to your goals, experience level, lifestyle and comfort.</p>",
+      "desktop": {
+        "top": 277,
+        "left": 80,
+        "width": 1056,
+        "height": 56
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "slide",
+        "type": "element",
+        "delay": 0.1
+      }
+    },
+    "z-UxEh": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 780,
+        "left": 0,
+        "width": 328,
+        "height": 93
+      },
+      "content": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">7+ Areas</h2><p dir=\"auto\" class=\"body-small\" style=\"color: rgb(26, 46, 34);\"><span style=\"color: rgb(26, 46, 34);\">Bangalore Home Visits</span></p>",
+      "desktop": {
+        "top": 450,
+        "left": 777,
+        "width": 344,
+        "height": 103
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "slide",
+        "type": "global"
+      }
+    },
+    "-nfZxJ": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 648,
+        "left": 16,
+        "width": 296,
+        "height": 32
+      },
+      "content": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Home Convenience</h3>",
+      "desktop": {
+        "top": 393,
+        "left": 460,
+        "width": 296,
+        "height": 38
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "0qY6Bi": {
+      "type": "GridCard",
+      "mobile": {
+        "top": 564,
+        "left": 0,
+        "width": 328,
+        "height": 297
+      },
+      "desktop": {
+        "top": 301,
+        "left": 436,
+        "width": 344,
+        "height": 356
+      },
+      "opacity": 100,
+      "animation": {
+        "name": "none",
+        "type": "element",
+        "hover": "lift"
+      },
+      "borderColor": "#00000000",
+      "borderWidth": 0,
+      "borderRadius": 16,
+      "backgroundColor": "#f4f0ea",
+      "boxShadowPreset": "xl",
+      "backgroundCurrent": "color"
+    },
+    "1xhqK0": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 92,
+        "left": 0,
+        "width": 328,
+        "height": 28
+      },
+      "content": "<p dir=\"auto\" class=\"body\"><span style=\"color: rgb(26, 46, 34);\">PERSONALIZED HOME YOGA</span></p>",
+      "desktop": {
+        "top": 104,
+        "left": 169,
+        "width": 878,
+        "height": 28
+      },
+      "settings": {
+        "styles": {
+          "text": "center",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "fade",
+        "type": "element",
+        "delay": 0.1
+      }
+    },
+    "7qmLRz": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 92,
+        "left": 0,
+        "width": 328,
+        "height": 83
+      },
+      "content": "<h2 dir=\"auto\" style=\"color: rgb(244, 240, 234);\">Select Your Session, Request Your Slot</h2>",
+      "desktop": {
+        "top": 104,
+        "left": 258,
+        "width": 700,
+        "height": 52
+      },
+      "settings": {
+        "styles": {
+          "text": "center",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "9TpyzH": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 294,
+        "left": 0,
+        "width": 328,
+        "height": 140
+      },
+      "content": "<p dir=\"auto\" class=\"body\" style=\"color: rgb(26, 46, 34);\">Choose a yoga program that fits your lifestyle, experience level and wellness goals. Our professionals provide personalized sessions at your home in Bangalore.</p>",
+      "desktop": {
+        "top": 342,
+        "left": 169,
+        "width": 878,
+        "height": 56
+      },
+      "settings": {
+        "styles": {
+          "text": "center",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "slide",
+        "type": "element",
+        "delay": 0.1
+      }
+    },
+    "9nNlpb": {
+      "svg": "<svg viewBox=\"0 0 48 48\" preserveAspectRatio=\"xMinYMid meet\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\"><rect width=\"48\" height=\"48\" rx=\"12\" fill=\"#dcddd4\"></rect><g transform=\"translate(12 12)\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"10\"></circle><circle cx=\"12\" cy=\"12\" r=\"6\"></circle><circle cx=\"12\" cy=\"12\" r=\"2\"></circle></g></svg>",
+      "type": "GridShape",
+      "color": "#38453a",
+      "shape": "icon-target",
+      "mobile": {
+        "top": 299,
+        "left": 136,
+        "width": 56,
+        "height": 56
+      },
+      "desktop": {
+        "top": 325,
+        "left": 104,
+        "width": 296,
+        "height": 56
+      },
+      "settings": {
+        "styles": {}
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "BoiRnt": {
+      "svg": "<svg viewBox=\"0 0 48 48\" preserveAspectRatio=\"xMinYMid meet\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\"><rect width=\"48\" height=\"48\" rx=\"12\" fill=\"#dcddd4\"></rect><g transform=\"translate(12 12)\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\"></path><polyline points=\"9 22 9 12 15 12 15 22\"></polyline></g></svg>",
+      "type": "GridShape",
+      "color": "#38453a",
+      "shape": "icon-home",
+      "mobile": {
+        "top": 580,
+        "left": 136,
+        "width": 56,
+        "height": 56
+      },
+      "desktop": {
+        "top": 325,
+        "left": 460,
+        "width": 296,
+        "height": 56
+      },
+      "settings": {
+        "styles": {}
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "CLdCER": {
+      "type": "GridCard",
+      "mobile": {
+        "top": 283,
+        "left": 0,
+        "width": 328,
+        "height": 269
+      },
+      "desktop": {
+        "top": 301,
+        "left": 80,
+        "width": 344,
+        "height": 356
+      },
+      "opacity": 100,
+      "animation": {
+        "name": "none",
+        "type": "element",
+        "hover": "lift"
+      },
+      "borderColor": "#00000000",
+      "borderWidth": 0,
+      "borderRadius": 16,
+      "backgroundColor": "#f4f0ea",
+      "boxShadowPreset": "xl",
+      "backgroundCurrent": "color"
+    },
+    "D2hokg": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 957,
+        "left": 16,
+        "width": 296,
+        "height": 32
+      },
+      "content": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Experienced Professionals</h3>",
+      "desktop": {
+        "top": 393,
+        "left": 816,
+        "width": 305,
+        "height": 76
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "K-2Kl6": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 132,
+        "left": 0,
+        "width": 328,
+        "height": 150
+      },
+      "content": "<h1 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Yoga Programs Designed Around You</h1>",
+      "desktop": {
+        "top": 170,
+        "left": 169,
+        "width": 878,
+        "height": 140
+      },
+      "settings": {
+        "styles": {
+          "text": "center",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "rise",
+        "type": "element",
+        "delay": 0.1
+      }
+    },
+    "L8HGQG": {
+      "rel": "",
+      "href": "/contact",
+      "type": "GridButton",
+      "mobile": {
+        "top": 446,
+        "left": 59,
+        "width": 210,
+        "height": 48
+      },
+      "target": "_self",
+      "content": "Explore Our Services →",
+      "desktop": {
+        "top": 443,
+        "left": 494,
+        "width": 228,
+        "height": 53
+      },
+      "linkType": "page",
+      "settings": {
+        "type": "primary",
+        "styles": {}
+      },
+      "animation": {
+        "name": "fade",
+        "type": "element",
+        "delay": 0.1,
+        "hover": "lift"
+      },
+      "fontColor": "#ffffff",
+      "borderColor": "#2d4a3e",
+      "borderWidth": 0,
+      "borderRadius": 8,
+      "linkedPageId": "contact",
+      "fontColorHover": "#ffffff",
+      "backgroundColor": "#2d4a3e",
+      "borderColorHover": "#576e64",
+      "backgroundColorHover": "#576e64"
+    },
+    "NB5ffc": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 187,
+        "left": 0,
+        "width": 328,
+        "height": 84
+      },
+      "content": "<p dir=\"auto\" class=\"body\" style=\"color: rgb(26, 46, 34);\">Enjoy personalized yoga guidance at home in Bangalore, with sessions designed around your goals, routine and comfort.</p>",
+      "desktop": {
+        "top": 222,
+        "left": 80,
+        "width": 1056,
+        "height": 28
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "OnJ7eO": {
+      "svg": "<svg viewBox=\"0 0 48 48\" preserveAspectRatio=\"xMinYMid meet\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\"><rect width=\"48\" height=\"48\" rx=\"12\" fill=\"#dcddd4\"></rect><g transform=\"translate(12 12)\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"8\" r=\"7\"></circle><polyline points=\"8.21 13.89 7 23 12 20 17 23 15.79 13.88\"></polyline></g></svg>",
+      "type": "GridShape",
+      "color": "#38453a",
+      "shape": "icon-award",
+      "mobile": {
+        "top": 889,
+        "left": 136,
+        "width": 56,
+        "height": 56
+      },
+      "desktop": {
+        "top": 325,
+        "left": 816,
+        "width": 296,
+        "height": 56
+      },
+      "settings": {
+        "styles": {}
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "Qxo6fZ": {
+      "type": "GridCard",
+      "mobile": {
+        "top": 873,
+        "left": 0,
+        "width": 328,
+        "height": 269
+      },
+      "desktop": {
+        "top": 301,
+        "left": 792,
+        "width": 344,
+        "height": 356
+      },
+      "opacity": 100,
+      "animation": {
+        "name": "none",
+        "type": "element",
+        "hover": "lift"
+      },
+      "borderColor": "#00000000",
+      "borderWidth": 0,
+      "borderRadius": 16,
+      "backgroundColor": "#f4f0ea",
+      "boxShadowPreset": "xl",
+      "backgroundCurrent": "color"
+    },
+    "VdRv3X": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 1001,
+        "left": 16,
+        "width": 296,
+        "height": 112
+      },
+      "content": "<p dir=\"auto\" class=\"body\" style=\"color: rgb(26, 46, 34);\">Learn from qualified yoga professionals with experience in yoga practice, fitness and personalized wellness guidance.</p>",
+      "desktop": {
+        "top": 488,
+        "left": 816,
+        "width": 296,
+        "height": 112
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "aHZ3b8": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 249,
+        "left": 0,
+        "width": 328,
+        "height": 63
+      },
+      "content": "<p dir=\"auto\" style=\"color: rgb(255, 255, 255);\">Begin your journey to holistic consistency with a personalized home yoga program designed just for you.</p>",
+      "desktop": {
+        "top": 240,
+        "left": 258,
+        "width": 700,
+        "height": 42
+      },
+      "settings": {
+        "styles": {
+          "text": "center",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "lhgPCZ": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 432,
+        "left": 16,
+        "width": 296,
+        "height": 63
+      },
+      "content": "<p dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Customized to your mobility, age, and schedule, ensuring safe and effective progress.</p>",
+      "desktop": {
+        "top": 469,
+        "left": 104,
+        "width": 296,
+        "height": 63
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "oDgRGv": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 367,
+        "left": 16,
+        "width": 296,
+        "height": 32
+      },
+      "content": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Personalized Practice</h3>",
+      "desktop": {
+        "top": 393,
+        "left": 104,
+        "width": 296,
+        "height": 38
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "omexqt": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 52,
+        "left": 0,
+        "width": 328,
+        "height": 28
+      },
+      "content": "<p dir=\"auto\" class=\"body\"><span style=\"color: rgb(26, 46, 34);\">WHY CHOOSE SADHYA WELLNESS</span></p>",
+      "desktop": {
+        "top": 72,
+        "left": 80,
+        "width": 1056,
+        "height": 28
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "pudk9T": {
+      "rel": "",
+      "href": "/contact",
+      "type": "GridButton",
+      "mobile": {
+        "top": 365,
+        "left": 46,
+        "width": 235,
+        "height": 48
+      },
+      "target": "_self",
+      "content": "Request Your Time Slot",
+      "desktop": {
+        "top": 328,
+        "left": 479,
+        "width": 257,
+        "height": 53
+      },
+      "linkType": "page",
+      "settings": {
+        "type": "primary",
+        "styles": {}
+      },
+      "animation": {
+        "name": "none",
+        "type": "element",
+        "hover": "lift"
+      },
+      "fontColor": "#000000",
+      "borderColor": "#708b75",
+      "borderWidth": 0,
+      "borderRadius": 8,
+      "linkedPageId": "contact",
+      "fontColorHover": "#ffffff",
+      "backgroundColor": "#708b75",
+      "borderColorHover": "#596f5d",
+      "backgroundColorHover": "#596f5d"
+    },
+    "t7_7U5": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 713,
+        "left": 16,
+        "width": 296,
+        "height": 63
+      },
+      "content": "<p dir=\"auto\" style=\"color: rgb(26, 46, 34);\">No traffic, no crowded studios—just disciplined practice in the comfort of your private space.</p>",
+      "desktop": {
+        "top": 480,
+        "left": 460,
+        "width": 296,
+        "height": 63
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "uwyi0c": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 92,
+        "left": 0,
+        "width": 328,
+        "height": 83
+      },
+      "content": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Wellness Guidance That Fits Your Life</h2>",
+      "desktop": {
+        "top": 138,
+        "left": 80,
+        "width": 1056,
+        "height": 52
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "2LlQsP": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 256,
+        "left": 0,
+        "width": 328,
+        "height": 83
+      },
+      "content": "<p dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Sadhya Wellness brings personalized, university-credentialed yoga to your doorstep across these key residential areas and more.</p>",
+      "desktop": {
+        "top": 216,
+        "left": 80,
+        "width": 1056,
+        "height": 21
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "3lTgkw": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 323,
+        "left": 0,
+        "width": 328,
+        "height": 25
+      },
+      "content": "<h4 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Send Enquiry</h4>",
+      "desktop": {
+        "top": 282,
+        "left": 80,
+        "width": 255,
+        "height": 25
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "6t85fz": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 112,
+        "left": 0,
+        "width": 328,
+        "height": 83
+      },
+      "content": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Bringing Personalized Practice Home</h2>",
+      "desktop": {
+        "top": 132,
+        "left": 80,
+        "width": 1056,
+        "height": 52
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "slide-right",
+        "type": "element",
+        "delay": 0.1
+      }
+    },
+    "8e10GQ": {
+      "type": "GridCard",
+      "mobile": {
+        "top": 497,
+        "left": 0,
+        "width": 328,
+        "height": 85
+      },
+      "desktop": {
+        "top": 316,
+        "left": 347,
+        "width": 255,
+        "height": 106
+      },
+      "opacity": 100,
+      "animation": {
+        "name": "none",
+        "type": "element",
+        "hover": "lift"
+      },
+      "borderColor": "#00000000",
+      "borderWidth": 0,
+      "borderRadius": 16,
+      "backgroundColor": "#e2e0da",
+      "boxShadowPreset": "xl",
+      "backgroundCurrent": "color"
+    },
+    "9hnxC-": {
+      "type": "GridCard",
+      "mobile": {
+        "top": 594,
+        "left": 0,
+        "width": 328,
+        "height": 85
+      },
+      "desktop": {
+        "top": 316,
+        "left": 614,
+        "width": 255,
+        "height": 106
+      },
+      "opacity": 100,
+      "animation": {
+        "name": "none",
+        "type": "element",
+        "hover": "lift"
+      },
+      "borderColor": "#00000000",
+      "borderWidth": 0,
+      "borderRadius": 16,
+      "backgroundColor": "#e2e0da",
+      "boxShadowPreset": "xl",
+      "backgroundCurrent": "color"
+    },
+    "ALUklu": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 80,
+        "left": 0,
+        "width": 328,
+        "height": 21
+      },
+      "content": "<span class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Your Path to Wellness</span>",
+      "desktop": {
+        "top": 104,
+        "left": 80,
+        "width": 1056,
+        "height": 21
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "fade",
+        "type": "element",
+        "delay": 0.1
+      }
+    },
+    "GOJfBL": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 140,
+        "left": 0,
+        "width": 328,
+        "height": 150
+      },
+      "content": "<h1 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Your Home Yoga Journey, <span style=\"color: rgb(45, 74, 62);\"><strong>Simplified</strong></span>.</h1>",
+      "desktop": {
+        "top": 164,
+        "left": 80,
+        "width": 1056,
+        "height": 70
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "rise",
+        "type": "element",
+        "delay": 0.1
+      }
+    },
+    "J_sCyK": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 840,
+        "left": 0,
+        "width": 328,
+        "height": 21
+      },
+      "content": "<span class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">04</span>",
+      "desktop": {
+        "top": 228,
+        "left": 881,
+        "width": 255,
+        "height": 21
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "LXg5aK": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 269,
+        "left": 0,
+        "width": 328,
+        "height": 21
+      },
+      "content": "<span class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">01</span>",
+      "desktop": {
+        "top": 228,
+        "left": 80,
+        "width": 255,
+        "height": 21
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "MD-8o4": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 208,
+        "left": 0,
+        "width": 328,
+        "height": 63
+      },
+      "content": "<p dir=\"auto\" style=\"color: rgb(255, 255, 255);\">Connect with us directly on WhatsApp to start your personalized home yoga experience today.</p>",
+      "desktop": {
+        "top": 240,
+        "left": 258,
+        "width": 700,
+        "height": 42
+      },
+      "settings": {
+        "styles": {
+          "text": "center",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "SPJchS": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 446,
+        "left": 0,
+        "width": 328,
+        "height": 21
+      },
+      "content": "<span class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">02</span>",
+      "desktop": {
+        "top": 228,
+        "left": 347,
+        "width": 255,
+        "height": 21
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "TWjgHd": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 52,
+        "left": 0,
+        "width": 328,
+        "height": 21
+      },
+      "content": "<span class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Serving Bangalore&#39;s Premier Neighborhoods</span>",
+      "desktop": {
+        "top": 72,
+        "left": 80,
+        "width": 1056,
+        "height": 21
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "XrFStA": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 375,
+        "left": 0,
+        "width": 328,
+        "height": 39
+      },
+      "content": "<p class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Initiate your journey via WhatsApp or our quick online form to tell us your needs.</p>",
+      "desktop": {
+        "top": 334,
+        "left": 80,
+        "width": 255,
+        "height": 39
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "b5ENgh": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 610,
+        "left": 16,
+        "width": 296,
+        "height": 32
+      },
+      "content": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\"><span style=\"font-family: &quot;Hedvig Letters Serif&quot;; font-weight: 400;\">Koramangala</span></h3>",
+      "desktop": {
+        "top": 340,
+        "left": 638,
+        "width": 207,
+        "height": 38
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "cK262E": {
+      "type": "GridCard",
+      "mobile": {
+        "top": 691,
+        "left": 0,
+        "width": 328,
+        "height": 85
+      },
+      "desktop": {
+        "top": 316,
+        "left": 881,
+        "width": 255,
+        "height": 106
+      },
+      "opacity": 100,
+      "animation": {
+        "name": "none",
+        "type": "element",
+        "hover": "lift"
+      },
+      "borderColor": "#00000000",
+      "borderWidth": 0,
+      "borderRadius": 16,
+      "backgroundColor": "#e2e0da",
+      "boxShadowPreset": "xl",
+      "backgroundCurrent": "color"
+    },
+    "cvm192": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 707,
+        "left": 16,
+        "width": 296,
+        "height": 32
+      },
+      "content": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\"><span style=\"font-family: Roboto; font-weight: 500;\">BTM Layout </span></h3>",
+      "desktop": {
+        "top": 340,
+        "left": 905,
+        "width": 207,
+        "height": 38
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "d8mNAT": {
+      "type": "GridCard",
+      "mobile": {
+        "top": 400,
+        "left": 0,
+        "width": 328,
+        "height": 85
+      },
+      "desktop": {
+        "top": 316,
+        "left": 80,
+        "width": 255,
+        "height": 106
+      },
+      "opacity": 100,
+      "animation": {
+        "name": "none",
+        "type": "element",
+        "hover": "lift"
+      },
+      "borderColor": "#00000000",
+      "borderWidth": 0,
+      "borderRadius": 16,
+      "backgroundColor": "#e2e0da",
+      "boxShadowPreset": "xl",
+      "backgroundCurrent": "color"
+    },
+    "jmKX9b": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 513,
+        "left": 16,
+        "width": 296,
+        "height": 32
+      },
+      "content": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\"><span style=\"font-family: &quot;Hedvig Letters Serif&quot;; font-weight: 400;\">Viveknagar</span></h3>",
+      "desktop": {
+        "top": 340,
+        "left": 371,
+        "width": 207,
+        "height": 38
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "jxjEWB": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 500,
+        "left": 0,
+        "width": 328,
+        "height": 25
+      },
+      "content": "<h4 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Discuss Needs</h4>",
+      "desktop": {
+        "top": 282,
+        "left": 347,
+        "width": 255,
+        "height": 25
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "mUDCK9": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 52,
+        "left": 0,
+        "width": 328,
+        "height": 21
+      },
+      "content": "<span class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Our Simple Process</span>",
+      "desktop": {
+        "top": 72,
+        "left": 80,
+        "width": 1056,
+        "height": 21
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "npX9z0": {
+      "href": "/contact",
+      "type": "GridButton",
+      "mobile": {
+        "top": 324,
+        "left": 55,
+        "width": 218,
+        "height": 48
+      },
+      "target": "_self",
+      "content": "Send Initial Enquiry",
+      "desktop": {
+        "top": 328,
+        "left": 489,
+        "width": 238,
+        "height": 53
+      },
+      "linkType": "anchored-section",
+      "settings": {
+        "type": "primary",
+        "styles": {}
+      },
+      "animation": {
+        "name": "none",
+        "type": "element",
+        "hover": "lift"
+      },
+      "fontColor": "#000000",
+      "borderColor": "#708b75",
+      "borderWidth": 0,
+      "borderRadius": 8,
+      "fontColorHover": "#ffffff",
+      "backgroundColor": "#708b75",
+      "borderColorHover": "#596f5d",
+      "backgroundColorHover": "#596f5d"
+    },
+    "o9QU04": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 416,
+        "left": 16,
+        "width": 296,
+        "height": 32
+      },
+      "content": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\"><span style=\"font-family: &quot;Hedvig Letters Serif&quot;; font-weight: 400;\">Ejipura</span></h3>",
+      "desktop": {
+        "top": 340,
+        "left": 104,
+        "width": 207,
+        "height": 38
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "opE0ME": {
+      "href": "/contact",
+      "type": "GridButton",
+      "mobile": {
+        "top": 466,
+        "left": 63,
+        "width": 201,
+        "height": 48
+      },
+      "target": "_self",
+      "content": "Start Your Enquiry",
+      "desktop": {
+        "top": 326,
+        "left": 80,
+        "width": 219,
+        "height": 53
+      },
+      "linkType": "anchored-section",
+      "settings": {
+        "type": "primary",
+        "styles": {}
+      },
+      "animation": {
+        "name": "fade",
+        "type": "element",
+        "delay": 0.1,
+        "hover": "lift"
+      },
+      "fontColor": "#ffffff",
+      "borderColor": "#2d4a3e",
+      "borderWidth": 0,
+      "borderRadius": 8,
+      "fontColorHover": "#ffffff",
+      "backgroundColor": "#2d4a3e",
+      "borderColorHover": "#576e64",
+      "backgroundColorHover": "#576e64"
+    },
+    "pr4x69": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 322,
+        "left": 0,
+        "width": 328,
+        "height": 63
+      },
+      "content": "<p dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Four clear steps to personalized, university-credentialed yoga delivered right to your Bangalore living space.</p>",
+      "desktop": {
+        "top": 266,
+        "left": 80,
+        "width": 1056,
+        "height": 21
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "slide",
+        "type": "element",
+        "delay": 0.1
+      }
+    },
+    "qPfDjQ": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 894,
+        "left": 0,
+        "width": 328,
+        "height": 25
+      },
+      "content": "<h4 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Start Practice</h4>",
+      "desktop": {
+        "top": 282,
+        "left": 881,
+        "width": 255,
+        "height": 25
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "s9vlO2": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 749,
+        "left": 0,
+        "width": 328,
+        "height": 39
+      },
+      "content": "<p class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">We pair you with a university-credentialed yoga master tailored to your unique requirements.</p>",
+      "desktop": {
+        "top": 334,
+        "left": 614,
+        "width": 255,
+        "height": 58
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "sAvPNr": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 140,
+        "left": 0,
+        "width": 328,
+        "height": 83
+      },
+      "content": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Your Local Home Yoga Partner</h2>",
+      "desktop": {
+        "top": 132,
+        "left": 80,
+        "width": 1056,
+        "height": 52
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "sNF2nB": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 92,
+        "left": 0,
+        "width": 328,
+        "height": 83
+      },
+      "content": "<h2 dir=\"auto\" style=\"color: rgb(244, 240, 234);\">Ready to Begin Your Wellness Journey?</h2>",
+      "desktop": {
+        "top": 104,
+        "left": 258,
+        "width": 700,
+        "height": 104
+      },
+      "settings": {
+        "styles": {
+          "text": "center",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "tmy993": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 946,
+        "left": 0,
+        "width": 328,
+        "height": 39
+      },
+      "content": "<p class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Your personalized home yoga sessions begin, guided by a dedicated professional in your sanctuary.</p>",
+      "desktop": {
+        "top": 334,
+        "left": 881,
+        "width": 255,
+        "height": 58
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "vV9AJ-": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 552,
+        "left": 0,
+        "width": 328,
+        "height": 39
+      },
+      "content": "<p class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Our experts connect to understand your specific goals, schedule, and preferences in detail.</p>",
+      "desktop": {
+        "top": 334,
+        "left": 347,
+        "width": 255,
+        "height": 58
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "w8ZGav": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 697,
+        "left": 0,
+        "width": 328,
+        "height": 25
+      },
+      "content": "<h4 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Get Matched</h4>",
+      "desktop": {
+        "top": 282,
+        "left": 614,
+        "width": 255,
+        "height": 25
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "zyQIEG": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 643,
+        "left": 0,
+        "width": 328,
+        "height": 21
+      },
+      "content": "<span class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">03</span>",
+      "desktop": {
+        "top": 228,
+        "left": 614,
+        "width": 255,
+        "height": 21
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "1Fcbl9": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 551,
+        "left": 0,
+        "width": 328,
+        "height": 63
+      },
+      "content": "<p dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Founder &amp; Lead Yoga Professional. Master’s in Yoga. NIS Yoga Asana Coach. 7+ Years Teaching Experience.</p>",
+      "desktop": {
+        "top": 440,
+        "left": 703,
+        "width": 433,
+        "height": 42
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "2EWuhU": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 36,
+        "left": 0,
+        "width": 328,
+        "height": 65
+      },
+      "content": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Ready for Personalized Home Yoga?</h3>",
+      "desktop": {
+        "top": 48,
+        "left": 80,
+        "width": 700,
+        "height": 38
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "4m24Fc": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 112,
+        "left": 0,
+        "width": 328,
+        "height": 83
+      },
+      "content": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Meet Your Dedicated Instructors</h2>",
+      "desktop": {
+        "top": 132,
+        "left": 80,
+        "width": 1056,
+        "height": 52
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "slide-right",
+        "type": "element",
+        "delay": 0.1
+      }
+    },
+    "7VHNut": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 127,
+        "left": 0,
+        "width": 328,
+        "height": 39
+      },
+      "content": "<p class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Connect with our university-credentialed masters to tailor your wellness journey.</p>",
+      "desktop": {
+        "top": 112,
+        "left": 80,
+        "width": 700,
+        "height": 19
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "Br2Rb3": {
+      "href": "/contact",
+      "type": "GridButton",
+      "mobile": {
+        "top": 462,
+        "left": 51,
+        "width": 226,
+        "height": 48
+      },
+      "target": "_self",
+      "content": "Meet Our Professionals →",
+      "desktop": {
+        "top": 373,
+        "left": 80,
+        "width": 248,
+        "height": 53
+      },
+      "linkType": "anchored-section",
+      "settings": {
+        "type": "primary",
+        "styles": {}
+      },
+      "animation": {
+        "name": "fade",
+        "type": "element",
+        "delay": 0.1,
+        "hover": "lift"
+      },
+      "fontColor": "#ffffff",
+      "borderColor": "#2d4a3e",
+      "borderWidth": 0,
+      "borderRadius": 12,
+      "fontColorHover": "#ffffff",
+      "backgroundColor": "#2d4a3e",
+      "borderColorHover": "#576e64",
+      "backgroundColorHover": "#576e64"
+    },
+    "CK9_jB": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 152,
+        "left": 0,
+        "width": 328,
+        "height": 152
+      },
+      "content": "<h4 dir=\"auto\" style=\"color: rgb(244, 240, 234);\">Disciplined practice guided by verified academic credentials and hands-on care ensures your holistic consistency and tailored mobility.</h4><p class=\"body-small\" dir=\"auto\" style=\"color: rgb(244, 240, 234);\"><span style=\"color: rgb(255, 255, 255);\">Sadhya Wellness Founders</span></p>",
+      "desktop": {
+        "top": 164,
+        "left": 258,
+        "width": 700,
+        "height": 102
+      },
+      "settings": {
+        "styles": {
+          "text": "center",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "JldaTO": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 928,
+        "left": 0,
+        "width": 328,
+        "height": 32
+      },
+      "content": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Abhay Joshi</h3>",
+      "desktop": {
+        "top": 872,
+        "left": 80,
+        "width": 433,
+        "height": 38
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "Nx2zdA": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 120,
+        "left": 0,
+        "width": 328,
+        "height": 150
+      },
+      "content": "<h1 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Qualified Yoga &amp; Wellness Professionals</h1>",
+      "desktop": {
+        "top": 170,
+        "left": 80,
+        "width": 1056,
+        "height": 70
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "rise",
+        "type": "element",
+        "delay": 0.1
+      }
+    },
+    "OJXEEd": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 1784,
+        "left": 0,
+        "width": 328,
+        "height": 32
+      },
+      "content": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Harish Singh</h3>",
+      "desktop": {
+        "top": 1876,
+        "left": 80,
+        "width": 433,
+        "height": 38
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "OygDDd": {
+      "href": "/contact",
+      "type": "GridButton",
+      "mobile": {
+        "top": 198,
+        "left": 59,
+        "width": 210,
+        "height": 48
+      },
+      "target": "_self",
+      "content": "Book a Consultation",
+      "desktop": {
+        "top": 73,
+        "left": 908,
+        "width": 228,
+        "height": 53
+      },
+      "linkType": "anchored-section",
+      "settings": {
+        "type": "primary",
+        "styles": {}
+      },
+      "animation": {
+        "name": "none",
+        "type": "element",
+        "hover": "lift"
+      },
+      "fontColor": "#ffffff",
+      "borderColor": "#2d4a3e",
+      "borderWidth": 0,
+      "borderRadius": 12,
+      "fontColorHover": "#ffffff",
+      "backgroundColor": "#2d4a3e",
+      "borderColorHover": "#576e64",
+      "backgroundColorHover": "#576e64"
+    },
+    "SQHxVW": {
+      "type": "GridImage",
+      "mobile": {
+        "top": 228,
+        "left": 0,
+        "width": 328,
+        "height": 246
+      },
+      "desktop": {
+        "top": 228,
+        "crop": {
+          "top": 15.266106442577028,
+          "left": 50,
+          "scale": 1
+        },
+        "left": 80,
+        "width": 611,
+        "height": 458,
+        "borderRadius": "0px"
+      },
+      "settings": {
+        "alt": "",
+        "path": "kushal-dev-singh-2-UdMBuGHDbnetzipK.png",
+        "origin": "assets",
+        "styles": {}
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      },
+      "imageHoverEffect": "zoom",
+      "fullResolutionWidth": 1254,
+      "fullResolutionHeight": 1254
+    },
+    "TaFWV4": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 1837,
+        "left": 0,
+        "width": 328,
+        "height": 83
+      },
+      "content": "<p dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Founding Partner &amp; Chief Holistic Consultant. BPT, Himalayan Garhwal University. M.A. in Yoga &amp; Alternative Therapy. 15+ Years Experience.</p>",
+      "desktop": {
+        "top": 1946,
+        "left": 80,
+        "width": 433,
+        "height": 63
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "VxPEyV": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 647,
+        "left": 0,
+        "width": 328,
+        "height": 93
+      },
+      "content": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Since 2019</h2><p dir=\"auto\" class=\"body-small\" style=\"color: rgb(26, 46, 34);\"><span style=\"color: rgb(26, 46, 34);\"> Yoga &amp; Therapy Services in Bengaluru</span></p>",
+      "desktop": {
+        "top": 457,
+        "left": 500,
+        "width": 242,
+        "height": 103
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "loop": "pulse",
+        "name": "scale",
+        "type": "element",
+        "delay": 0.18
+      }
+    },
+    "_Wtqrs": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 80,
+        "left": 0,
+        "width": 328,
+        "height": 28
+      },
+      "content": "<p dir=\"auto\" class=\"body\"><span style=\"color: rgb(26, 46, 34);\">Meet the People Behind Sadhya Wellness</span></p>",
+      "desktop": {
+        "top": 104,
+        "left": 80,
+        "width": 1056,
+        "height": 28
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "fade",
+        "type": "element",
+        "delay": 0.1
+      }
+    },
+    "aC4ea-": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 1400,
+        "left": 0,
+        "width": 328,
+        "height": 63
+      },
+      "content": "<p dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Founding Partner &amp; Regional Operations Advisor. Diploma in Yoga &amp; Alternative Therapy. 8+ Years Experience.</p>",
+      "desktop": {
+        "top": 1444,
+        "left": 703,
+        "width": 433,
+        "height": 42
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "afr0ga": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 1360,
+        "left": 0,
+        "width": 328,
+        "height": 32
+      },
+      "content": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Kavindra</h3>",
+      "desktop": {
+        "top": 1374,
+        "left": 703,
+        "width": 433,
+        "height": 38
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "dhX4-T": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 282,
+        "left": 0,
+        "width": 328,
+        "height": 168
+      },
+      "content": "<p dir=\"auto\" class=\"body\" style=\"color: rgb(26, 46, 34);\">Sadhya Wellness is supported by a team of yoga professionals and wellness specialists with experience in yoga education, sports, fitness and holistic wellness. We provide personalized guidance for individuals, couples and families in Bangalore.</p>",
+      "desktop": {
+        "top": 277,
+        "left": 80,
+        "width": 1056,
+        "height": 56
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "slide",
+        "type": "element",
+        "delay": 0.1
+      }
+    },
+    "hCfVmS": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 92,
+        "left": 0,
+        "width": 328,
+        "height": 21
+      },
+      "content": "<span class=\"body-small\" dir=\"auto\" style=\"color: rgb(255, 255, 255);\">Our Core Philosophy</span>",
+      "desktop": {
+        "top": 104,
+        "left": 258,
+        "width": 700,
+        "height": 21
+      },
+      "settings": {
+        "styles": {
+          "text": "center",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "iZa0Cs": {
+      "type": "GridImage",
+      "mobile": {
+        "top": 1098,
+        "left": 0,
+        "width": 328,
+        "height": 246
+      },
+      "desktop": {
+        "top": 1232,
+        "left": 80,
+        "width": 611,
+        "height": 458,
+        "borderRadius": "0px"
+      },
+      "settings": {
+        "alt": "",
+        "path": "33xlcz-akcz2gchYCchajkc.png",
+        "origin": "assets",
+        "styles": {}
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      },
+      "imageHoverEffect": "zoom",
+      "fullResolutionWidth": 1216,
+      "fullResolutionHeight": 896
+    },
+    "msV3jm": {
+      "type": "GridImage",
+      "mobile": {
+        "top": 1504,
+        "left": 0,
+        "width": 328,
+        "height": 246
+      },
+      "desktop": {
+        "top": 1734,
+        "crop": {
+          "top": 46.514161220043576,
+          "left": 50,
+          "scale": 1
+        },
+        "left": 525,
+        "width": 611,
+        "height": 458,
+        "borderRadius": "0px"
+      },
+      "settings": {
+        "alt": "",
+        "path": "harish-singh-YyWk2kJCLipMCmW9.png",
+        "origin": "assets",
+        "styles": {}
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      },
+      "imageHoverEffect": "zoom",
+      "fullResolutionWidth": 1024,
+      "fullResolutionHeight": 1536
+    },
+    "ocz5LA": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 486,
+        "left": 0,
+        "width": 328,
+        "height": 32
+      },
+      "content": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Kushal Dev Singh</h3>",
+      "desktop": {
+        "top": 370,
+        "left": 703,
+        "width": 433,
+        "height": 38
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "p4SGRk": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 522,
+        "left": 0,
+        "width": 328,
+        "height": 113
+      },
+      "content": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">4 Team Members</h2><p dir=\"auto\" class=\"body-small\" style=\"color: rgb(26, 46, 34);\"><span style=\"color: rgb(26, 46, 34);\">Yoga &amp; Wellness ProfessionalsYoga &amp; Wellness Professionals</span></p>",
+      "desktop": {
+        "top": 457,
+        "left": 82,
+        "width": 362,
+        "height": 103
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "loop": "pulse",
+        "name": "scale",
+        "type": "element",
+        "delay": 0.18
+      }
+    },
+    "pjL75B": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 52,
+        "left": 0,
+        "width": 328,
+        "height": 21
+      },
+      "content": "<span class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Our Professionals</span>",
+      "desktop": {
+        "top": 72,
+        "left": 80,
+        "width": 1056,
+        "height": 21
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "vLruBb": {
+      "type": "GridImage",
+      "mobile": {
+        "top": 664,
+        "left": 0,
+        "width": 328,
+        "height": 246
+      },
+      "desktop": {
+        "top": 730,
+        "crop": {
+          "top": 12.091503267973856,
+          "left": 50,
+          "scale": 1
+        },
+        "left": 525,
+        "width": 611,
+        "height": 458,
+        "borderRadius": "0px"
+      },
+      "settings": {
+        "alt": "",
+        "path": "abhay-joshi-lX3Imk11xvOMfgWa.png",
+        "origin": "assets",
+        "styles": {}
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      },
+      "imageHoverEffect": "zoom",
+      "fullResolutionWidth": 1024,
+      "fullResolutionHeight": 1536
+    },
+    "wribkn": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 977,
+        "left": 0,
+        "width": 328,
+        "height": 63
+      },
+      "content": "<p dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Co-Founder &amp; Senior Yoga Professional. Master’s in Yoga. National &amp; International Yoga Athlete. 8+ Years Experience.</p>",
+      "desktop": {
+        "top": 942,
+        "left": 80,
+        "width": 433,
+        "height": 42
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "zIAT3d": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 756,
+        "left": 0,
+        "width": 328,
+        "height": 93
+      },
+      "content": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">One-to-One</h2><p dir=\"auto\" class=\"body-small\" style=\"color: rgb(26, 46, 34);\"><span style=\"color: rgb(26, 46, 34);\"> Personalized Home Sessions</span></p>",
+      "desktop": {
+        "top": 457,
+        "left": 803,
+        "width": 242,
+        "height": 103
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "slide",
+        "type": "global"
+      }
+    },
+    "3efnJ8": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 1235,
+        "left": 0,
+        "width": 328,
+        "height": 83
+      },
+      "content": "<p dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Yes, we offer an initial consultation to discuss your needs and ensure a perfect match with our instructors before you begin your regular practice.</p>",
+      "desktop": {
+        "top": 774,
+        "left": 80,
+        "width": 1056,
+        "height": 42
+      },
+      "settings": {
+        "styles": {
+          "text": "center",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "6rOy67": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 52,
+        "left": 0,
+        "width": 328,
+        "height": 65
+      },
+      "content": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">What equipment do I need for home yoga?</h3>",
+      "desktop": {
+        "top": 72,
+        "left": 80,
+        "width": 1056,
+        "height": 38
+      },
+      "settings": {
+        "styles": {
+          "text": "center",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "slide-right",
+        "type": "element",
+        "delay": 0.1
+      }
+    },
+    "ERqqlD": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 966,
+        "left": 0,
+        "width": 328,
+        "height": 83
+      },
+      "content": "<p dir=\"auto\" style=\"color: rgb(26, 46, 34);\">We deliver personalized home yoga across premier Bangalore neighborhoods like Indiranagar, HSR Layout, Whitefield, Koramangala, and Sarjapur Road.</p>",
+      "desktop": {
+        "top": 616,
+        "left": 80,
+        "width": 1056,
+        "height": 42
+      },
+      "settings": {
+        "styles": {
+          "text": "center",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "FQR2AW": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 836,
+        "left": 0,
+        "width": 328,
+        "height": 65
+      },
+      "content": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Which Bangalore neighborhoods do you serve?</h3>",
+      "desktop": {
+        "top": 546,
+        "left": 80,
+        "width": 1056,
+        "height": 38
+      },
+      "settings": {
+        "styles": {
+          "text": "center",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "slide-right",
+        "type": "element",
+        "delay": 0.1
+      }
+    },
+    "OoFtKx": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 1138,
+        "left": 0,
+        "width": 328,
+        "height": 65
+      },
+      "content": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Can I try a session before committing?</h3>",
+      "desktop": {
+        "top": 704,
+        "left": 80,
+        "width": 1056,
+        "height": 38
+      },
+      "settings": {
+        "styles": {
+          "text": "center",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "slide-right",
+        "type": "element",
+        "delay": 0.1
+      }
+    },
+    "QKFZx1": {
+      "href": "https://wa.me/918618639113?text=Hello%20Sadhya%20Wellness,%20I%20would%20like%20to%20enquire%20about%20home%20yoga.",
+      "type": "GridButton",
+      "mobile": {
+        "top": 166,
+        "left": 76,
+        "width": 176,
+        "height": 48
+      },
+      "target": "_self",
+      "content": "WhatsApp Us Now",
+      "desktop": {
+        "top": 73,
+        "left": 946,
+        "width": 190,
+        "height": 53
+      },
+      "linkType": "anchored-section",
+      "settings": {
+        "type": "primary",
+        "styles": {}
+      },
+      "animation": {
+        "name": "none",
+        "type": "element",
+        "hover": "lift"
+      },
+      "fontColor": "#ffffff",
+      "borderColor": "#2d4a3e",
+      "borderWidth": 0,
+      "borderRadius": 8,
+      "fontColorHover": "#ffffff",
+      "backgroundColor": "#2d4a3e",
+      "borderColorHover": "#576e64",
+      "backgroundColorHover": "#576e64"
+    },
+    "V0F-MO": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 293,
+        "left": 0,
+        "width": 328,
+        "height": 65
+      },
+      "content": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">How flexible are session timings?</h3>",
+      "desktop": {
+        "top": 230,
+        "left": 80,
+        "width": 1056,
+        "height": 38
+      },
+      "settings": {
+        "styles": {
+          "text": "center",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "slide-right",
+        "type": "element",
+        "delay": 0.1
+      }
+    },
+    "VGK6_c": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 390,
+        "left": 0,
+        "width": 328,
+        "height": 83
+      },
+      "content": "<p dir=\"auto\" style=\"color: rgb(26, 46, 34);\">We offer flexible rescheduling options tailored for busy corporate and family schedules. Our team works with you to find a consistent time that fits your week.</p>",
+      "desktop": {
+        "top": 300,
+        "left": 80,
+        "width": 1056,
+        "height": 42
+      },
+      "settings": {
+        "styles": {
+          "text": "center",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "VL9xwd": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 149,
+        "left": 0,
+        "width": 328,
+        "height": 83
+      },
+      "content": "<p dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Just a comfortable floor space and a standard yoga mat. Our instructors bring any specialized props required for your personalized session.</p>",
+      "desktop": {
+        "top": 142,
+        "left": 80,
+        "width": 1056,
+        "height": 21
+      },
+      "settings": {
+        "styles": {
+          "text": "center",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "b_UgTC": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 140,
+        "left": 0,
+        "width": 328,
+        "height": 200
+      },
+      "content": "<h1 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Home Yoga in Bangalore: Clarity for Your Practice</h1>",
+      "desktop": {
+        "top": 164,
+        "left": 80,
+        "width": 1056,
+        "height": 140
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "rise",
+        "type": "element",
+        "delay": 0.1
+      }
+    },
+    "csNm-c": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 36,
+        "left": 0,
+        "width": 328,
+        "height": 32
+      },
+      "content": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Still have questions?</h3>",
+      "desktop": {
+        "top": 48,
+        "left": 80,
+        "width": 700,
+        "height": 38
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "dM4s6N": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 95,
+        "left": 0,
+        "width": 328,
+        "height": 39
+      },
+      "content": "<p class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Reach out directly via WhatsApp for a quick response from our team.</p>",
+      "desktop": {
+        "top": 112,
+        "left": 80,
+        "width": 700,
+        "height": 20
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "gshOmF": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 372,
+        "left": 0,
+        "width": 328,
+        "height": 83
+      },
+      "content": "<p dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Find quick answers to common queries about our personalized home yoga sessions, from scheduling to space requirements.</p>",
+      "desktop": {
+        "top": 336,
+        "left": 80,
+        "width": 1056,
+        "height": 21
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "slide",
+        "type": "element",
+        "delay": 0.1
+      }
+    },
+    "jUAcIj": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 80,
+        "left": 0,
+        "width": 328,
+        "height": 21
+      },
+      "content": "<span class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Your Questions Answered</span>",
+      "desktop": {
+        "top": 104,
+        "left": 80,
+        "width": 1056,
+        "height": 22
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "fade",
+        "type": "element",
+        "delay": 0.1
+      }
+    },
+    "kQyNP9": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 562,
+        "left": 0,
+        "width": 328,
+        "height": 65
+      },
+      "content": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Are sessions suitable for beginners or specific needs?</h3>",
+      "desktop": {
+        "top": 388,
+        "left": 80,
+        "width": 1056,
+        "height": 38
+      },
+      "settings": {
+        "styles": {
+          "text": "center",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "slide-right",
+        "type": "element",
+        "delay": 0.1
+      }
+    },
+    "po1XEk": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 692,
+        "left": 0,
+        "width": 328,
+        "height": 83
+      },
+      "content": "<p dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Yes, our safety-first sessions are tailored for all levels, including beginners, seniors, and those seeking posture recovery or mobility support.</p>",
+      "desktop": {
+        "top": 458,
+        "left": 80,
+        "width": 1056,
+        "height": 21
+      },
+      "settings": {
+        "styles": {
+          "text": "center",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "61g9x7": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 112,
+        "left": 0,
+        "width": 328,
+        "height": 42
+      },
+      "content": "<h2 dir=\"auto\" style=\"color: rgb(244, 240, 234);\">Ready to Begin?</h2>",
+      "desktop": {
+        "top": 284,
+        "left": 80,
+        "width": 433,
+        "height": 52
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "slide-right",
+        "type": "element",
+        "delay": 0.1
+      }
+    },
+    "Ee_wf3": {
+      "rel": "",
+      "href": "/contact",
+      "type": "GridButton",
+      "mobile": {
+        "top": 660,
+        "left": 59,
+        "width": 210,
+        "height": 48
+      },
+      "target": "_self",
+      "content": "Connect on WhatsApp",
+      "desktop": {
+        "top": 449,
+        "left": 80,
+        "width": 228,
+        "height": 53
+      },
+      "linkType": "page",
+      "settings": {
+        "type": "primary",
+        "styles": {}
+      },
+      "animation": {
+        "name": "fade",
+        "type": "element",
+        "delay": 0.1,
+        "hover": "lift"
+      },
+      "fontColor": "#ffffff",
+      "borderColor": "#2d4a3e",
+      "borderWidth": 0,
+      "borderRadius": 8,
+      "linkedPageId": "contact",
+      "fontColorHover": "#ffffff",
+      "backgroundColor": "#2d4a3e",
+      "borderColorHover": "#576e64",
+      "backgroundColorHover": "#576e64"
+    },
+    "Nc5t45": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 52,
+        "left": 0,
+        "width": 328,
+        "height": 21
+      },
+      "content": "<span class=\"body-small\" dir=\"auto\" style=\"color: rgb(244, 240, 234);\">Direct Channels</span>",
+      "desktop": {
+        "top": 224,
+        "left": 80,
+        "width": 433,
+        "height": 21
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "auQn2S": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 322,
+        "left": 0,
+        "width": 328,
+        "height": 256
+      },
+      "content": "<p dir=\"auto\" class=\"body\"><strong>Bring yoga and wellness into your daily routine with personalised home sessions from Sadhya Wellness. Our experienced professionals provide practical guidance based on your fitness level, lifestyle and personal goals.</strong></p><p dir=\"auto\" class=\"body\"><strong>We serve clients in Ejipura, Koramangala and nearby Bengaluru areas.</strong></p>",
+      "desktop": {
+        "top": 266,
+        "left": 80,
+        "width": 1056,
+        "height": 116
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "slide",
+        "type": "element",
+        "delay": 0.1
+      }
+    },
+    "srbaDS": {
+      "type": "GridForm",
+      "formId": "Contact form",
+      "mobile": {
+        "top": 302,
+        "left": 0,
+        "width": 328,
+        "height": 495
+      },
+      "desktop": {
+        "top": 72,
+        "left": 525,
+        "width": 611,
+        "height": 499
+      },
+      "settings": {
+        "theme": "light",
+        "schema": [
+          {
+            "id": "Name",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M14 2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V8l-6-6z\"/></svg>",
+            "tag": "input",
+            "name": "Name",
+            "type": "GridInput",
+            "fieldType": "short-answer",
+            "inputLabel": "Your Name",
+            "validation": [
+              [
+                "required"
+              ]
+            ],
+            "placeholder": "Your name",
+            "validation-messages": {
+              "required": "This field is required"
+            }
+          },
+          {
+            "id": "Email",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M14 2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V8l-6-6z\"/></svg>",
+            "tag": "input",
+            "name": "Email",
+            "type": "GridInput",
+            "fieldType": "short-answer",
+            "inputLabel": "Email Address",
+            "validation": [
+              [
+                "required"
+              ]
+            ],
+            "placeholder": "Your email",
+            "validation-messages": {
+              "required": "This field is required"
+            }
+          },
+          {
+            "id": "Phone",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M14 2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V8l-6-6z\"/></svg>",
+            "tag": "input",
+            "name": "Phone",
+            "type": "GridInput",
+            "fieldType": "short-answer",
+            "inputLabel": "Phone Number",
+            "validation": [],
+            "placeholder": "Your phone",
+            "validation-messages": {}
+          },
+          {
+            "id": "Message",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M14 2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V8l-6-6z\"/></svg>",
+            "tag": "textarea",
+            "name": "Message",
+            "type": "GridInput",
+            "fieldType": "text",
+            "inputLabel": "Your Message",
+            "validation": [
+              [
+                "required"
+              ]
+            ],
+            "placeholder": "Tell us about your wellness goals...",
+            "validation-messages": {
+              "required": "This field is required"
+            }
+          }
+        ],
+        "styles": {
+          "justify": "center"
+        },
+        "submitAction": {
+          "id": "showMessage",
+          "title": "Show message"
+        },
+        "successMessage": "Thank you for your enquiry. We&#39;ll be in touch shortly!"
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      },
+      "formPadding": 0,
+      "inputFillColor": "#eae6e0",
+      "inputTextColor": "#1a2e22",
+      "labelTextColor": "#f4f0ea",
+      "formBorderColor": "#00000000",
+      "formBorderWidth": 0,
+      "innerBackground": {
+        "color": "#f4f0ea",
+        "current": "#f4f0ea"
+      },
+      "formBorderRadius": 12,
+      "inputBorderColor": "#c8c9c2",
+      "inputBorderWidth": 1,
+      "submitButtonData": {
+        "type": "GridButton",
+        "content": "Send Enquiry",
+        "settings": {
+          "type": "primary",
+          "styles": {
+            "align": "start",
+            "position": "8/8/9/10"
+          },
+          "isFormButton": true
+        }
+      },
+      "inputBorderRadius": 12,
+      "inputFillColorHover": "#e0dcd7",
+      "submitButtonFontColor": "#000000",
+      "submitButtonBorderColor": "#708b75",
+      "submitButtonBorderWidth": 0,
+      "submitButtonBorderRadius": 12,
+      "submitButtonFontColorHover": "#ffffff",
+      "submitButtonBackgroundColor": "#708b75",
+      "submitButtonBorderColorHover": "#596f5d",
+      "submitButtonBackgroundColorHover": "#596f5d"
+    },
+    "vS7St0": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 140,
+        "left": 0,
+        "width": 328,
+        "height": 150
+      },
+      "content": "<h1 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Begin Your <span style=\"color: rgb(45, 74, 62);\"><strong>Personalized</strong></span> Practice</h1>",
+      "desktop": {
+        "top": 164,
+        "left": 80,
+        "width": 1056,
+        "height": 70
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "rise",
+        "type": "element",
+        "delay": 0.1
+      }
+    },
+    "y6XwN9": {
+      "href": "tel:+918618639113",
+      "type": "GridButton",
+      "mobile": {
+        "top": 720,
+        "left": 72,
+        "width": 184,
+        "height": 48
+      },
+      "target": "_self",
+      "content": "Call Us Directly",
+      "desktop": {
+        "top": 449,
+        "left": 320,
+        "width": 200,
+        "height": 53
+      },
+      "linkType": "anchored-section",
+      "settings": {
+        "type": "primary",
+        "styles": {}
+      },
+      "animation": {
+        "name": "fade",
+        "type": "element",
+        "delay": 0.1,
+        "hover": "lift"
+      },
+      "fontColor": "#ffffff",
+      "borderColor": "#2d4a3e",
+      "borderWidth": 0,
+      "borderRadius": 8,
+      "fontColorHover": "#ffffff",
+      "backgroundColor": "#2d4a3e",
+      "borderColorHover": "#576e64",
+      "backgroundColorHover": "#576e64"
+    },
+    "ygOaJd": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 186,
+        "left": 0,
+        "width": 328,
+        "height": 63
+      },
+      "content": "<p dir=\"auto\" style=\"color: rgb(244, 240, 234);\">Share your details, and our team will connect with you to discuss your tailored home yoga program.</p>",
+      "desktop": {
+        "top": 368,
+        "left": 80,
+        "width": 433,
+        "height": 42
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "none",
+        "type": "element"
+      }
+    },
+    "zGtbKi": {
+      "type": "GridTextBox",
+      "mobile": {
+        "top": 80,
+        "left": 0,
+        "width": 328,
+        "height": 21
+      },
+      "content": "<span class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Your Wellness Journey</span>",
+      "desktop": {
+        "top": 104,
+        "left": 80,
+        "width": 1056,
+        "height": 21
+      },
+      "settings": {
+        "styles": {
+          "text": "left",
+          "m-text": "center"
+        }
+      },
+      "animation": {
+        "name": "fade",
+        "type": "element",
+        "delay": 0.1
+      }
+    }
+  }
+}

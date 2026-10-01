@@ -1,0 +1,944 @@
+[
+  {
+    "id": "1_1XWN",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body-small\" style=\"color: rgb(26, 46, 34);\">We help you choose a suitable yoga professional based on your goals, location and schedule.</p>",
+    "cleanText": "We help you choose a suitable yoga professional based on your goals, location and schedule."
+  },
+  {
+    "id": "1gLYyP",
+    "type": "GridTextBox",
+    "rawHtml": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Your Home Yoga Journey, Made Simple</h2>",
+    "cleanText": "Your Home Yoga Journey, Made Simple"
+  },
+  {
+    "id": "3kW9Uu",
+    "type": "GridTextBox",
+    "rawHtml": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Couple &amp; Family Yoga</h3>",
+    "cleanText": "Couple &amp; Family Yoga"
+  },
+  {
+    "id": "5HE45F",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body\" style=\"color: rgb(26, 46, 34);\">Use mindful movement, breathing practices and relaxation techniques to create a calmer and more balanced daily routine.</p>",
+    "cleanText": "Use mindful movement, breathing practices and relaxation techniques to create a calmer and more balanced daily routine."
+  },
+  {
+    "id": "61DJ6M",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body-small\" style=\"color: rgb(244, 240, 234); opacity: 0.85; letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 6px;\">Home</p><p dir=\"auto\" class=\"body-small\" style=\"color: rgb(244, 240, 234); opacity: 0.85; letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 6px;\">About</p><p dir=\"auto\" class=\"body-small\" style=\"color: rgb(244, 240, 234); opacity: 0.85; letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 6px;\">Services</p><p dir=\"auto\" class=\"body-small\" style=\"color: rgb(244, 240, 234); opacity: 0.85; letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 6px;\">Team</p><p dir=\"auto\" class=\"body-small\" style=\"color: rgb(244, 240, 234); opacity: 0.85; letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 6px;\">How It Works</p><p dir=\"auto\" class=\"body-small\" style=\"color: rgb(244, 240, 234); opacity: 0.85; letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 6px;\">FAQ</p>",
+    "cleanText": "Home About Services Team How It Works FAQ"
+  },
+  {
+    "id": "9cVQQO",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body\" style=\"color: rgb(255, 255, 255);\">Connect with our yoga professionals for personalized home sessions across selected areas of Bangalore.</p>",
+    "cleanText": "Connect with our yoga professionals for personalized home sessions across selected areas of Bangalore."
+  },
+  {
+    "id": "D0czII",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body\">Why Choose Sadhya Wellness</p>",
+    "cleanText": "Why Choose Sadhya Wellness"
+  },
+  {
+    "id": "E0Klk8",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body-small\" style=\"color: rgb(112, 139, 117); --lineHeightDesktop: 1.3; --fontSizeDesktop: 16px;\">Navigation</p>",
+    "cleanText": "Navigation"
+  },
+  {
+    "id": "HUgFep",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body\">From your first enquiry to your first session, we make it easy to start personalized yoga practice at home.</p>",
+    "cleanText": "From your first enquiry to your first session, we make it easy to start personalized yoga practice at home."
+  },
+  {
+    "id": "Ht6Cb_",
+    "type": "GridTextBox",
+    "rawHtml": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Personalised Yoga &amp; Wellness at Your Home</h2>",
+    "cleanText": "Personalised Yoga &amp; Wellness at Your Home"
+  },
+  {
+    "id": "JU-5f_",
+    "type": "GridTextBox",
+    "rawHtml": "<span class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">02</span>",
+    "cleanText": "02"
+  },
+  {
+    "id": "JvFHVj",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body-small\" style=\"color: rgb(26, 46, 34);\">Contact us through WhatsApp or phone and tell us your preferred location, timing and wellness goals.</p>",
+    "cleanText": "Contact us through WhatsApp or phone and tell us your preferred location, timing and wellness goals."
+  },
+  {
+    "id": "LaJf0k",
+    "type": "GridTextBox",
+    "rawHtml": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Yoga Sessions Designed Around You</h2>",
+    "cleanText": "Yoga Sessions Designed Around You"
+  },
+  {
+    "id": "LnZ9MC",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body-small\" style=\"color: rgb(26, 46, 34);\">We understand your experience level, daily routine, fitness needs and preferred session format.</p>",
+    "cleanText": "We understand your experience level, daily routine, fitness needs and preferred session format."
+  },
+  {
+    "id": "M2tB7s",
+    "type": "GridTextBox",
+    "rawHtml": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Mobility &amp; Flexibility</h3>",
+    "cleanText": "Mobility &amp; Flexibility"
+  },
+  {
+    "id": "O3jYk1",
+    "type": "GridTextBox",
+    "rawHtml": "<h5 dir=\"auto\">Sadhya Wellness</h5>",
+    "cleanText": "Sadhya Wellness"
+  },
+  {
+    "id": "OzZ6s3",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body\">Every session is adapted to your goals, fitness level, lifestyle and comfort—so you can practice yoga consistently from the comfort of your home.</p>",
+    "cleanText": "Every session is adapted to your goals, fitness level, lifestyle and comfort—so you can practice yoga consistently from the comfort of your home."
+  },
+  {
+    "id": "PoNVFx",
+    "type": "GridTextBox",
+    "rawHtml": "<span class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">04</span>",
+    "cleanText": "04"
+  },
+  {
+    "id": "T4LyIo",
+    "type": "GridTextBox",
+    "rawHtml": "<span class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">01</span>",
+    "cleanText": "01"
+  },
+  {
+    "id": "T8pVIP",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body\" style=\"color: rgb(26, 46, 34);\">Practice together with personalized sessions designed for couples and families of different ages and experience levels.</p>",
+    "cleanText": "Practice together with personalized sessions designed for couples and families of different ages and experience levels."
+  },
+  {
+    "id": "TsrcnT",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body\">Personalized Yoga Programs</p>",
+    "cleanText": "Personalized Yoga Programs"
+  },
+  {
+    "id": "UYj7ab",
+    "type": "GridTextBox",
+    "rawHtml": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">15+ Yrs</h2><p dir=\"auto\" class=\"body-small\" style=\"color: rgb(26, 46, 34);\">Combined Professional Experience</p>",
+    "cleanText": "15+ Yrs Combined Professional Experience"
+  },
+  {
+    "id": "Vp5-KA",
+    "type": "GridTextBox",
+    "rawHtml": "<span class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">03</span>",
+    "cleanText": "03"
+  },
+  {
+    "id": "YXARKQ",
+    "type": "GridTextBox",
+    "rawHtml": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34); margin-bottom: 15px;\"><strong>7 Areas</strong></h2><p dir=\"auto\" class=\"body-small\" style=\"color: rgb(26, 46, 34);\"><br>Bengaluru Service Locations</p>",
+    "cleanText": "7 Areas Bengaluru Service Locations"
+  },
+  {
+    "id": "_vfjZ8",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body\" style=\"color: rgb(26, 46, 34);\">Improve flexibility, posture awareness and comfortable movement through gentle, progressive yoga practices.</p>",
+    "cleanText": "Improve flexibility, posture awareness and comfortable movement through gentle, progressive yoga practices."
+  },
+  {
+    "id": "b3SQVh",
+    "type": "GridTextBox",
+    "rawHtml": "<h1 dir=\"auto\" style=\"color: rgb(36, 72, 59); --lineHeightDesktop: 1.3; --fontSizeDesktop: 64px;\">Home Yoga Classes in <strong>Bangalore</strong></h1>",
+    "cleanText": "Home Yoga Classes in Bangalore"
+  },
+  {
+    "id": "dkDW43",
+    "type": "GridButton",
+    "rawHtml": "Book Your Home Session",
+    "cleanText": "Book Your Home Session"
+  },
+  {
+    "id": "emiYV7",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body-small\" style=\"color: rgb(244, 240, 234);\">© 2026 Sadhya Wellness. All rights reserved.</p><p dir=\"auto\" class=\"body-small\" style=\"color: rgb(244, 240, 234);\">Personalised yoga and wellness guidance, brought to your home.</p>",
+    "cleanText": "© 2026 Sadhya Wellness. All rights reserved. Personalised yoga and wellness guidance, brought to your home."
+  },
+  {
+    "id": "fg2luL",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body\" style=\"color: rgb(244, 240, 234); margin-bottom: 4px;\"><span style=\"font-family: Roboto; font-weight: 500;\">WhatsApp: +91 8618639113</span></p><p dir=\"auto\" class=\"body\" style=\"color: rgb(244, 240, 234); margin-bottom: 8px;\"><span style=\"font-family: Roboto; font-weight: 500;\">Phone: +91 8618639113</span></p><p dir=\"auto\" class=\"body\" style=\"color: rgb(244, 240, 234); margin-bottom: 8px;\"><span style=\"font-family: Roboto; font-weight: 500;\">Email: <a href=\"mailto:hello@sadhyawellness.com\">info@sadhyawellness.com</a></span></p><p dir=\"auto\" class=\"body\" style=\"color: rgb(244, 240, 234); margin-bottom: 8px;\"><span style=\"font-family: Roboto; font-weight: 500;\">Home yoga and wellness sessions in</span></p><p dir=\"auto\" class=\"body\" style=\"color: rgb(202, 204, 210);\"><span style=\"font-family: Roboto; font-weight: 500;\">Ejipura, Koramangala, S.T. Bed Layout, Viveknagar, Adugodi and BTM Layout nearby Bengaluru areas.</span></p>",
+    "cleanText": "WhatsApp: +91 8618639113 Phone: +91 8618639113 Email: info@sadhyawellness.com Home yoga and wellness sessions in Ejipura, Koramangala, S.T. Bed Layout, Viveknagar, Adugodi and BTM Layout nearby Bengaluru areas."
+  },
+  {
+    "id": "gfs_8K",
+    "type": "GridButton",
+    "rawHtml": "Book Home Consultation",
+    "cleanText": "Book Home Consultation"
+  },
+  {
+    "id": "gw_Iqh",
+    "type": "GridTextBox",
+    "rawHtml": "<h3 dir=\"auto\" style=\"color: rgb(244, 240, 234); margin-bottom: 8px;\">Sadhya Wellness</h3><p dir=\"auto\" class=\"body\" style=\"color: rgb(244, 240, 234); margin-bottom: 8px;\">Wellness, Made Personal.</p><p dir=\"auto\" class=\"body\" style=\"color: rgb(244, 240, 234); margin-bottom: 10px;\">Sadhya Wellness Rooted in Nainital, Uttarakhand.</p><p dir=\"auto\" class=\"body\"><span style=\"color: rgb(226, 224, 218);\">Serving homes across Bengaluru.</span></p>",
+    "cleanText": "Sadhya Wellness Wellness, Made Personal. Sadhya Wellness Rooted in Nainital, Uttarakhand. Serving homes across Bengaluru."
+  },
+  {
+    "id": "i8r3Y-",
+    "type": "GridTextBox",
+    "rawHtml": "<h4 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Begin Your Home Sessions</h4>",
+    "cleanText": "Begin Your Home Sessions"
+  },
+  {
+    "id": "m1Th_C",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body-small\" style=\"color: rgb(26, 46, 34);\"> jams.Start a comfortable and personalized yoga routine in your own home with professional guidance.</p>",
+    "cleanText": "jams.Start a comfortable and personalized yoga routine in your own home with professional guidance."
+  },
+  {
+    "id": "ma9dEP",
+    "type": "GridTextBox",
+    "rawHtml": "<h4 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Share Your Goals</h4>",
+    "cleanText": "Share Your Goals"
+  },
+  {
+    "id": "p2QYei",
+    "type": "GridTextBox",
+    "rawHtml": "<h4 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Meet Your Yoga Professional</h4>",
+    "cleanText": "Meet Your Yoga Professional"
+  },
+  {
+    "id": "pyF3GK",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body-large\">Personalized yoga sessions designed around your goals, fitness level and lifestyle — delivered at your home with professional guidance, practical techniques and flexible timings to help you build strength, improve mobility, reduce stress and develop a healthier daily routine.</p>",
+    "cleanText": "Personalized yoga sessions designed around your goals, fitness level and lifestyle — delivered at your home with professional guidance, practical techniques and flexible timings to help you build strength, improve mobility, reduce stress and develop a healthier daily routine."
+  },
+  {
+    "id": "smFLFM",
+    "type": "GridTextBox",
+    "rawHtml": "<h2 dir=\"auto\" style=\"color: rgb(244, 240, 234);\">Ready to Start Your Yoga Journey?</h2>",
+    "cleanText": "Ready to Start Your Yoga Journey?"
+  },
+  {
+    "id": "v0dK4D",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body-small\" style=\"color: rgb(112, 139, 117); letter-spacing: 0.16em;\">Personalized Home Yoga in Bangalore</p>",
+    "cleanText": "Personalized Home Yoga in Bangalore"
+  },
+  {
+    "id": "wMAFFJ",
+    "type": "GridTextBox",
+    "rawHtml": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">100% Personalised</h2><p dir=\"auto\" class=\"body-small\" style=\"color: rgb(26, 46, 34);\">Sessions Based on Your Needs</p>",
+    "cleanText": "100% Personalised Sessions Based on Your Needs"
+  },
+  {
+    "id": "wag5P3",
+    "type": "GridTextBox",
+    "rawHtml": "<h4 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Discuss Your Needs</h4>",
+    "cleanText": "Discuss Your Needs"
+  },
+  {
+    "id": "z3ZsaU",
+    "type": "GridTextBox",
+    "rawHtml": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Healthy Weight Management</h3>",
+    "cleanText": "Healthy Weight Management"
+  },
+  {
+    "id": "zEwNr2",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body\">Build strength, balance and body awareness with practical yoga sessions suited to your current fitness level.</p>",
+    "cleanText": "Build strength, balance and body awareness with practical yoga sessions suited to your current fitness level."
+  },
+  {
+    "id": "zinGYZ",
+    "type": "GridTextBox",
+    "rawHtml": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Beginner &amp; Senior Yoga</h3>",
+    "cleanText": "Beginner &amp; Senior Yoga"
+  },
+  {
+    "id": "zkR0bR",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body\">Comfortable, adaptable sessions for beginners and seniors, with simple instructions and gradual progression.</p>",
+    "cleanText": "Comfortable, adaptable sessions for beginners and seniors, with simple instructions and gradual progression."
+  },
+  {
+    "id": "zmaViX",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body-small\" style=\"color: rgb(112, 139, 117); --lineHeightDesktop: 1.3; --fontSizeDesktop: 16px;\">Get in Touch</p>",
+    "cleanText": "Get in Touch"
+  },
+  {
+    "id": "zntqUw",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body\">Support healthy lifestyle habits through yoga, mindful movement and consistent daily practice.</p>",
+    "cleanText": "Support healthy lifestyle habits through yoga, mindful movement and consistent daily practice."
+  },
+  {
+    "id": "zpSmtd",
+    "type": "GridTextBox",
+    "rawHtml": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Fitness &amp; Strength</h3>",
+    "cleanText": "Fitness &amp; Strength"
+  },
+  {
+    "id": "zxvRqJ",
+    "type": "GridTextBox",
+    "rawHtml": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Stress Relief &amp; Relaxation</h3>",
+    "cleanText": "Stress Relief &amp; Relaxation"
+  },
+  {
+    "id": "0Ikpgg",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body\" style=\"color: rgb(26, 46, 34);\">At Sadhya Wellness, we bring traditional yoga practices and practical wellness guidance into your home. Each session is adapted to your experience level, lifestyle, goals and comfort.</p>",
+    "cleanText": "At Sadhya Wellness, we bring traditional yoga practices and practical wellness guidance into your home. Each session is adapted to your experience level, lifestyle, goals and comfort."
+  },
+  {
+    "id": "8RhVkM",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body\"><span style=\"color: rgb(255, 255, 255);\">Start Your Wellness Journey</span></p>",
+    "cleanText": "Start Your Wellness Journey"
+  },
+  {
+    "id": "A2b7KP",
+    "type": "GridTextBox",
+    "rawHtml": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">15+ Yrs</h2><p dir=\"auto\" class=\"body-small\" style=\"color: rgb(26, 46, 34);\"><span style=\"color: rgb(26, 46, 34);\">Combined Wellness Experience</span></p>",
+    "cleanText": "15+ Yrs Combined Wellness Experience"
+  },
+  {
+    "id": "AJhvIU",
+    "type": "GridTextBox",
+    "rawHtml": "<h2 dir=\"auto\" style=\"color: rgb(244, 240, 234);\">Your Home. Your Practice. Your Wellbeing.</h2>",
+    "cleanText": "Your Home. Your Practice. Your Wellbeing."
+  },
+  {
+    "id": "DpxYaC",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body\"><span style=\"color: rgb(26, 46, 34);\">Traditional Knowledge. Personal Guidance.</span></p>",
+    "cleanText": "Traditional Knowledge. Personal Guidance."
+  },
+  {
+    "id": "K1DFYW",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body\"><span style=\"color: rgb(26, 46, 34);\">Personalized Wellness, Rooted in Tradition</span></p>",
+    "cleanText": "Personalized Wellness, Rooted in Tradition"
+  },
+  {
+    "id": "KRCK8x",
+    "type": "GridTextBox",
+    "rawHtml": "<p class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Speak directly with our founding team to discuss your health goals and schedule an initial consultation.</p>",
+    "cleanText": "Speak directly with our founding team to discuss your health goals and schedule an initial consultation."
+  },
+  {
+    "id": "Kn8qkW",
+    "type": "GridTextBox",
+    "rawHtml": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">100%</h2><p dir=\"auto\" class=\"body-small\" style=\"color: rgb(26, 46, 34);\"><span style=\"color: rgb(26, 46, 34);\">Personalized Sessions</span></p>",
+    "cleanText": "100% Personalized Sessions"
+  },
+  {
+    "id": "Nv61-l",
+    "type": "GridButton",
+    "rawHtml": "Explore Our Services",
+    "cleanText": "Explore Our Services"
+  },
+  {
+    "id": "RfjQp_",
+    "type": "GridTextBox",
+    "rawHtml": "<h1 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Personal Guidance. Real-Life Wellness.</h1>",
+    "cleanText": "Personal Guidance. Real-Life Wellness."
+  },
+  {
+    "id": "VtvpSo",
+    "type": "GridButton",
+    "rawHtml": "View Our Services",
+    "cleanText": "View Our Services"
+  },
+  {
+    "id": "fDjdgG",
+    "type": "GridButton",
+    "rawHtml": "Meet Our Team",
+    "cleanText": "Meet Our Team"
+  },
+  {
+    "id": "gSDzKj",
+    "type": "GridButton",
+    "rawHtml": "Contact Sadhya Wellness",
+    "cleanText": "Contact Sadhya Wellness"
+  },
+  {
+    "id": "gmbBqh",
+    "type": "GridTextBox",
+    "rawHtml": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Yoga That Supports Your Everyday Wellness</h2>",
+    "cleanText": "Yoga That Supports Your Everyday Wellness"
+  },
+  {
+    "id": "ilhMEr",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body-small\" style=\"color: rgb(255, 255, 255);\">Connect with our yoga professionals to discuss your goals, preferred location and suitable session timings. We will help you choose a personalized home yoga program in Bangalore.</p>",
+    "cleanText": "Connect with our yoga professionals to discuss your goals, preferred location and suitable session timings. We will help you choose a personalized home yoga program in Bangalore."
+  },
+  {
+    "id": "rEGrpX",
+    "type": "GridTextBox",
+    "rawHtml": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Begin your personal home practice</h3>",
+    "cleanText": "Begin your personal home practice"
+  },
+  {
+    "id": "tUMbPQ",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body\" style=\"color: rgb(26, 46, 34);\">Whether you want to improve flexibility, build strength, manage daily stress or develop a consistent routine, our yoga professionals guide you through simple and progressive practices.</p>",
+    "cleanText": "Whether you want to improve flexibility, build strength, manage daily stress or develop a consistent routine, our yoga professionals guide you through simple and progressive practices."
+  },
+  {
+    "id": "vhlMvD",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body\" style=\"color: rgb(26, 46, 34);\">Sadhya Wellness brings traditional yoga practices and modern wellness guidance directly to your home in Bangalore. Every session is adapted to your goals, experience level, lifestyle and comfort.</p>",
+    "cleanText": "Sadhya Wellness brings traditional yoga practices and modern wellness guidance directly to your home in Bangalore. Every session is adapted to your goals, experience level, lifestyle and comfort."
+  },
+  {
+    "id": "z-UxEh",
+    "type": "GridTextBox",
+    "rawHtml": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">7+ Areas</h2><p dir=\"auto\" class=\"body-small\" style=\"color: rgb(26, 46, 34);\"><span style=\"color: rgb(26, 46, 34);\">Bangalore Home Visits</span></p>",
+    "cleanText": "7+ Areas Bangalore Home Visits"
+  },
+  {
+    "id": "-nfZxJ",
+    "type": "GridTextBox",
+    "rawHtml": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Home Convenience</h3>",
+    "cleanText": "Home Convenience"
+  },
+  {
+    "id": "1xhqK0",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body\"><span style=\"color: rgb(26, 46, 34);\">PERSONALIZED HOME YOGA</span></p>",
+    "cleanText": "PERSONALIZED HOME YOGA"
+  },
+  {
+    "id": "7qmLRz",
+    "type": "GridTextBox",
+    "rawHtml": "<h2 dir=\"auto\" style=\"color: rgb(244, 240, 234);\">Select Your Session, Request Your Slot</h2>",
+    "cleanText": "Select Your Session, Request Your Slot"
+  },
+  {
+    "id": "9TpyzH",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body\" style=\"color: rgb(26, 46, 34);\">Choose a yoga program that fits your lifestyle, experience level and wellness goals. Our professionals provide personalized sessions at your home in Bangalore.</p>",
+    "cleanText": "Choose a yoga program that fits your lifestyle, experience level and wellness goals. Our professionals provide personalized sessions at your home in Bangalore."
+  },
+  {
+    "id": "D2hokg",
+    "type": "GridTextBox",
+    "rawHtml": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Experienced Professionals</h3>",
+    "cleanText": "Experienced Professionals"
+  },
+  {
+    "id": "K-2Kl6",
+    "type": "GridTextBox",
+    "rawHtml": "<h1 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Yoga Programs Designed Around You</h1>",
+    "cleanText": "Yoga Programs Designed Around You"
+  },
+  {
+    "id": "L8HGQG",
+    "type": "GridButton",
+    "rawHtml": "Explore Our Services →",
+    "cleanText": "Explore Our Services →"
+  },
+  {
+    "id": "NB5ffc",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body\" style=\"color: rgb(26, 46, 34);\">Enjoy personalized yoga guidance at home in Bangalore, with sessions designed around your goals, routine and comfort.</p>",
+    "cleanText": "Enjoy personalized yoga guidance at home in Bangalore, with sessions designed around your goals, routine and comfort."
+  },
+  {
+    "id": "VdRv3X",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body\" style=\"color: rgb(26, 46, 34);\">Learn from qualified yoga professionals with experience in yoga practice, fitness and personalized wellness guidance.</p>",
+    "cleanText": "Learn from qualified yoga professionals with experience in yoga practice, fitness and personalized wellness guidance."
+  },
+  {
+    "id": "aHZ3b8",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" style=\"color: rgb(255, 255, 255);\">Begin your journey to holistic consistency with a personalized home yoga program designed just for you.</p>",
+    "cleanText": "Begin your journey to holistic consistency with a personalized home yoga program designed just for you."
+  },
+  {
+    "id": "lhgPCZ",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Customized to your mobility, age, and schedule, ensuring safe and effective progress.</p>",
+    "cleanText": "Customized to your mobility, age, and schedule, ensuring safe and effective progress."
+  },
+  {
+    "id": "oDgRGv",
+    "type": "GridTextBox",
+    "rawHtml": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Personalized Practice</h3>",
+    "cleanText": "Personalized Practice"
+  },
+  {
+    "id": "omexqt",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body\"><span style=\"color: rgb(26, 46, 34);\">WHY CHOOSE SADHYA WELLNESS</span></p>",
+    "cleanText": "WHY CHOOSE SADHYA WELLNESS"
+  },
+  {
+    "id": "pudk9T",
+    "type": "GridButton",
+    "rawHtml": "Request Your Time Slot",
+    "cleanText": "Request Your Time Slot"
+  },
+  {
+    "id": "t7_7U5",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" style=\"color: rgb(26, 46, 34);\">No traffic, no crowded studios—just disciplined practice in the comfort of your private space.</p>",
+    "cleanText": "No traffic, no crowded studios—just disciplined practice in the comfort of your private space."
+  },
+  {
+    "id": "uwyi0c",
+    "type": "GridTextBox",
+    "rawHtml": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Wellness Guidance That Fits Your Life</h2>",
+    "cleanText": "Wellness Guidance That Fits Your Life"
+  },
+  {
+    "id": "2LlQsP",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Sadhya Wellness brings personalized, university-credentialed yoga to your doorstep across these key residential areas and more.</p>",
+    "cleanText": "Sadhya Wellness brings personalized, university-credentialed yoga to your doorstep across these key residential areas and more."
+  },
+  {
+    "id": "3lTgkw",
+    "type": "GridTextBox",
+    "rawHtml": "<h4 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Send Enquiry</h4>",
+    "cleanText": "Send Enquiry"
+  },
+  {
+    "id": "6t85fz",
+    "type": "GridTextBox",
+    "rawHtml": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Bringing Personalized Practice Home</h2>",
+    "cleanText": "Bringing Personalized Practice Home"
+  },
+  {
+    "id": "ALUklu",
+    "type": "GridTextBox",
+    "rawHtml": "<span class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Your Path to Wellness</span>",
+    "cleanText": "Your Path to Wellness"
+  },
+  {
+    "id": "GOJfBL",
+    "type": "GridTextBox",
+    "rawHtml": "<h1 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Your Home Yoga Journey, <span style=\"color: rgb(45, 74, 62);\"><strong>Simplified</strong></span>.</h1>",
+    "cleanText": "Your Home Yoga Journey, Simplified ."
+  },
+  {
+    "id": "J_sCyK",
+    "type": "GridTextBox",
+    "rawHtml": "<span class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">04</span>",
+    "cleanText": "04"
+  },
+  {
+    "id": "LXg5aK",
+    "type": "GridTextBox",
+    "rawHtml": "<span class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">01</span>",
+    "cleanText": "01"
+  },
+  {
+    "id": "MD-8o4",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" style=\"color: rgb(255, 255, 255);\">Connect with us directly on WhatsApp to start your personalized home yoga experience today.</p>",
+    "cleanText": "Connect with us directly on WhatsApp to start your personalized home yoga experience today."
+  },
+  {
+    "id": "SPJchS",
+    "type": "GridTextBox",
+    "rawHtml": "<span class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">02</span>",
+    "cleanText": "02"
+  },
+  {
+    "id": "TWjgHd",
+    "type": "GridTextBox",
+    "rawHtml": "<span class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Serving Bangalore&#39;s Premier Neighborhoods</span>",
+    "cleanText": "Serving Bangalore&#39;s Premier Neighborhoods"
+  },
+  {
+    "id": "XrFStA",
+    "type": "GridTextBox",
+    "rawHtml": "<p class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Initiate your journey via WhatsApp or our quick online form to tell us your needs.</p>",
+    "cleanText": "Initiate your journey via WhatsApp or our quick online form to tell us your needs."
+  },
+  {
+    "id": "b5ENgh",
+    "type": "GridTextBox",
+    "rawHtml": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\"><span style=\"font-family: &quot;Hedvig Letters Serif&quot;; font-weight: 400;\">Koramangala</span></h3>",
+    "cleanText": "Koramangala"
+  },
+  {
+    "id": "cvm192",
+    "type": "GridTextBox",
+    "rawHtml": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\"><span style=\"font-family: Roboto; font-weight: 500;\">BTM Layout </span></h3>",
+    "cleanText": "BTM Layout"
+  },
+  {
+    "id": "jmKX9b",
+    "type": "GridTextBox",
+    "rawHtml": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\"><span style=\"font-family: &quot;Hedvig Letters Serif&quot;; font-weight: 400;\">Viveknagar</span></h3>",
+    "cleanText": "Viveknagar"
+  },
+  {
+    "id": "jxjEWB",
+    "type": "GridTextBox",
+    "rawHtml": "<h4 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Discuss Needs</h4>",
+    "cleanText": "Discuss Needs"
+  },
+  {
+    "id": "mUDCK9",
+    "type": "GridTextBox",
+    "rawHtml": "<span class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Our Simple Process</span>",
+    "cleanText": "Our Simple Process"
+  },
+  {
+    "id": "npX9z0",
+    "type": "GridButton",
+    "rawHtml": "Send Initial Enquiry",
+    "cleanText": "Send Initial Enquiry"
+  },
+  {
+    "id": "o9QU04",
+    "type": "GridTextBox",
+    "rawHtml": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\"><span style=\"font-family: &quot;Hedvig Letters Serif&quot;; font-weight: 400;\">Ejipura</span></h3>",
+    "cleanText": "Ejipura"
+  },
+  {
+    "id": "opE0ME",
+    "type": "GridButton",
+    "rawHtml": "Start Your Enquiry",
+    "cleanText": "Start Your Enquiry"
+  },
+  {
+    "id": "pr4x69",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Four clear steps to personalized, university-credentialed yoga delivered right to your Bangalore living space.</p>",
+    "cleanText": "Four clear steps to personalized, university-credentialed yoga delivered right to your Bangalore living space."
+  },
+  {
+    "id": "qPfDjQ",
+    "type": "GridTextBox",
+    "rawHtml": "<h4 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Start Practice</h4>",
+    "cleanText": "Start Practice"
+  },
+  {
+    "id": "s9vlO2",
+    "type": "GridTextBox",
+    "rawHtml": "<p class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">We pair you with a university-credentialed yoga master tailored to your unique requirements.</p>",
+    "cleanText": "We pair you with a university-credentialed yoga master tailored to your unique requirements."
+  },
+  {
+    "id": "sAvPNr",
+    "type": "GridTextBox",
+    "rawHtml": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Your Local Home Yoga Partner</h2>",
+    "cleanText": "Your Local Home Yoga Partner"
+  },
+  {
+    "id": "sNF2nB",
+    "type": "GridTextBox",
+    "rawHtml": "<h2 dir=\"auto\" style=\"color: rgb(244, 240, 234);\">Ready to Begin Your Wellness Journey?</h2>",
+    "cleanText": "Ready to Begin Your Wellness Journey?"
+  },
+  {
+    "id": "tmy993",
+    "type": "GridTextBox",
+    "rawHtml": "<p class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Your personalized home yoga sessions begin, guided by a dedicated professional in your sanctuary.</p>",
+    "cleanText": "Your personalized home yoga sessions begin, guided by a dedicated professional in your sanctuary."
+  },
+  {
+    "id": "vV9AJ-",
+    "type": "GridTextBox",
+    "rawHtml": "<p class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Our experts connect to understand your specific goals, schedule, and preferences in detail.</p>",
+    "cleanText": "Our experts connect to understand your specific goals, schedule, and preferences in detail."
+  },
+  {
+    "id": "w8ZGav",
+    "type": "GridTextBox",
+    "rawHtml": "<h4 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Get Matched</h4>",
+    "cleanText": "Get Matched"
+  },
+  {
+    "id": "zyQIEG",
+    "type": "GridTextBox",
+    "rawHtml": "<span class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">03</span>",
+    "cleanText": "03"
+  },
+  {
+    "id": "1Fcbl9",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Founder &amp; Lead Yoga Professional. Master’s in Yoga. NIS Yoga Asana Coach. 7+ Years Teaching Experience.</p>",
+    "cleanText": "Founder &amp; Lead Yoga Professional. Master’s in Yoga. NIS Yoga Asana Coach. 7+ Years Teaching Experience."
+  },
+  {
+    "id": "2EWuhU",
+    "type": "GridTextBox",
+    "rawHtml": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Ready for Personalized Home Yoga?</h3>",
+    "cleanText": "Ready for Personalized Home Yoga?"
+  },
+  {
+    "id": "4m24Fc",
+    "type": "GridTextBox",
+    "rawHtml": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Meet Your Dedicated Instructors</h2>",
+    "cleanText": "Meet Your Dedicated Instructors"
+  },
+  {
+    "id": "7VHNut",
+    "type": "GridTextBox",
+    "rawHtml": "<p class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Connect with our university-credentialed masters to tailor your wellness journey.</p>",
+    "cleanText": "Connect with our university-credentialed masters to tailor your wellness journey."
+  },
+  {
+    "id": "Br2Rb3",
+    "type": "GridButton",
+    "rawHtml": "Meet Our Professionals →",
+    "cleanText": "Meet Our Professionals →"
+  },
+  {
+    "id": "CK9_jB",
+    "type": "GridTextBox",
+    "rawHtml": "<h4 dir=\"auto\" style=\"color: rgb(244, 240, 234);\">Disciplined practice guided by verified academic credentials and hands-on care ensures your holistic consistency and tailored mobility.</h4><p class=\"body-small\" dir=\"auto\" style=\"color: rgb(244, 240, 234);\"><span style=\"color: rgb(255, 255, 255);\">Sadhya Wellness Founders</span></p>",
+    "cleanText": "Disciplined practice guided by verified academic credentials and hands-on care ensures your holistic consistency and tailored mobility. Sadhya Wellness Founders"
+  },
+  {
+    "id": "JldaTO",
+    "type": "GridTextBox",
+    "rawHtml": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Abhay Joshi</h3>",
+    "cleanText": "Abhay Joshi"
+  },
+  {
+    "id": "Nx2zdA",
+    "type": "GridTextBox",
+    "rawHtml": "<h1 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Qualified Yoga &amp; Wellness Professionals</h1>",
+    "cleanText": "Qualified Yoga &amp; Wellness Professionals"
+  },
+  {
+    "id": "OJXEEd",
+    "type": "GridTextBox",
+    "rawHtml": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Harish Singh</h3>",
+    "cleanText": "Harish Singh"
+  },
+  {
+    "id": "OygDDd",
+    "type": "GridButton",
+    "rawHtml": "Book a Consultation",
+    "cleanText": "Book a Consultation"
+  },
+  {
+    "id": "TaFWV4",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Founding Partner &amp; Chief Holistic Consultant. BPT, Himalayan Garhwal University. M.A. in Yoga &amp; Alternative Therapy. 15+ Years Experience.</p>",
+    "cleanText": "Founding Partner &amp; Chief Holistic Consultant. BPT, Himalayan Garhwal University. M.A. in Yoga &amp; Alternative Therapy. 15+ Years Experience."
+  },
+  {
+    "id": "VxPEyV",
+    "type": "GridTextBox",
+    "rawHtml": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Since 2019</h2><p dir=\"auto\" class=\"body-small\" style=\"color: rgb(26, 46, 34);\"><span style=\"color: rgb(26, 46, 34);\"> Yoga &amp; Therapy Services in Bengaluru</span></p>",
+    "cleanText": "Since 2019 Yoga &amp; Therapy Services in Bengaluru"
+  },
+  {
+    "id": "_Wtqrs",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body\"><span style=\"color: rgb(26, 46, 34);\">Meet the People Behind Sadhya Wellness</span></p>",
+    "cleanText": "Meet the People Behind Sadhya Wellness"
+  },
+  {
+    "id": "aC4ea-",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Founding Partner &amp; Regional Operations Advisor. Diploma in Yoga &amp; Alternative Therapy. 8+ Years Experience.</p>",
+    "cleanText": "Founding Partner &amp; Regional Operations Advisor. Diploma in Yoga &amp; Alternative Therapy. 8+ Years Experience."
+  },
+  {
+    "id": "afr0ga",
+    "type": "GridTextBox",
+    "rawHtml": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Kavindra</h3>",
+    "cleanText": "Kavindra"
+  },
+  {
+    "id": "dhX4-T",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body\" style=\"color: rgb(26, 46, 34);\">Sadhya Wellness is supported by a team of yoga professionals and wellness specialists with experience in yoga education, sports, fitness and holistic wellness. We provide personalized guidance for individuals, couples and families in Bangalore.</p>",
+    "cleanText": "Sadhya Wellness is supported by a team of yoga professionals and wellness specialists with experience in yoga education, sports, fitness and holistic wellness. We provide personalized guidance for individuals, couples and families in Bangalore."
+  },
+  {
+    "id": "hCfVmS",
+    "type": "GridTextBox",
+    "rawHtml": "<span class=\"body-small\" dir=\"auto\" style=\"color: rgb(255, 255, 255);\">Our Core Philosophy</span>",
+    "cleanText": "Our Core Philosophy"
+  },
+  {
+    "id": "ocz5LA",
+    "type": "GridTextBox",
+    "rawHtml": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Kushal Dev Singh</h3>",
+    "cleanText": "Kushal Dev Singh"
+  },
+  {
+    "id": "p4SGRk",
+    "type": "GridTextBox",
+    "rawHtml": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">4 Team Members</h2><p dir=\"auto\" class=\"body-small\" style=\"color: rgb(26, 46, 34);\"><span style=\"color: rgb(26, 46, 34);\">Yoga &amp; Wellness ProfessionalsYoga &amp; Wellness Professionals</span></p>",
+    "cleanText": "4 Team Members Yoga &amp; Wellness ProfessionalsYoga &amp; Wellness Professionals"
+  },
+  {
+    "id": "pjL75B",
+    "type": "GridTextBox",
+    "rawHtml": "<span class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Our Professionals</span>",
+    "cleanText": "Our Professionals"
+  },
+  {
+    "id": "wribkn",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Co-Founder &amp; Senior Yoga Professional. Master’s in Yoga. National &amp; International Yoga Athlete. 8+ Years Experience.</p>",
+    "cleanText": "Co-Founder &amp; Senior Yoga Professional. Master’s in Yoga. National &amp; International Yoga Athlete. 8+ Years Experience."
+  },
+  {
+    "id": "zIAT3d",
+    "type": "GridTextBox",
+    "rawHtml": "<h2 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">One-to-One</h2><p dir=\"auto\" class=\"body-small\" style=\"color: rgb(26, 46, 34);\"><span style=\"color: rgb(26, 46, 34);\"> Personalized Home Sessions</span></p>",
+    "cleanText": "One-to-One Personalized Home Sessions"
+  },
+  {
+    "id": "3efnJ8",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Yes, we offer an initial consultation to discuss your needs and ensure a perfect match with our instructors before you begin your regular practice.</p>",
+    "cleanText": "Yes, we offer an initial consultation to discuss your needs and ensure a perfect match with our instructors before you begin your regular practice."
+  },
+  {
+    "id": "6rOy67",
+    "type": "GridTextBox",
+    "rawHtml": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">What equipment do I need for home yoga?</h3>",
+    "cleanText": "What equipment do I need for home yoga?"
+  },
+  {
+    "id": "ERqqlD",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" style=\"color: rgb(26, 46, 34);\">We deliver personalized home yoga across premier Bangalore neighborhoods like Indiranagar, HSR Layout, Whitefield, Koramangala, and Sarjapur Road.</p>",
+    "cleanText": "We deliver personalized home yoga across premier Bangalore neighborhoods like Indiranagar, HSR Layout, Whitefield, Koramangala, and Sarjapur Road."
+  },
+  {
+    "id": "FQR2AW",
+    "type": "GridTextBox",
+    "rawHtml": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Which Bangalore neighborhoods do you serve?</h3>",
+    "cleanText": "Which Bangalore neighborhoods do you serve?"
+  },
+  {
+    "id": "OoFtKx",
+    "type": "GridTextBox",
+    "rawHtml": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Can I try a session before committing?</h3>",
+    "cleanText": "Can I try a session before committing?"
+  },
+  {
+    "id": "QKFZx1",
+    "type": "GridButton",
+    "rawHtml": "WhatsApp Us Now",
+    "cleanText": "WhatsApp Us Now"
+  },
+  {
+    "id": "V0F-MO",
+    "type": "GridTextBox",
+    "rawHtml": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">How flexible are session timings?</h3>",
+    "cleanText": "How flexible are session timings?"
+  },
+  {
+    "id": "VGK6_c",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" style=\"color: rgb(26, 46, 34);\">We offer flexible rescheduling options tailored for busy corporate and family schedules. Our team works with you to find a consistent time that fits your week.</p>",
+    "cleanText": "We offer flexible rescheduling options tailored for busy corporate and family schedules. Our team works with you to find a consistent time that fits your week."
+  },
+  {
+    "id": "VL9xwd",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Just a comfortable floor space and a standard yoga mat. Our instructors bring any specialized props required for your personalized session.</p>",
+    "cleanText": "Just a comfortable floor space and a standard yoga mat. Our instructors bring any specialized props required for your personalized session."
+  },
+  {
+    "id": "b_UgTC",
+    "type": "GridTextBox",
+    "rawHtml": "<h1 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Home Yoga in Bangalore: Clarity for Your Practice</h1>",
+    "cleanText": "Home Yoga in Bangalore: Clarity for Your Practice"
+  },
+  {
+    "id": "csNm-c",
+    "type": "GridTextBox",
+    "rawHtml": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Still have questions?</h3>",
+    "cleanText": "Still have questions?"
+  },
+  {
+    "id": "dM4s6N",
+    "type": "GridTextBox",
+    "rawHtml": "<p class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Reach out directly via WhatsApp for a quick response from our team.</p>",
+    "cleanText": "Reach out directly via WhatsApp for a quick response from our team."
+  },
+  {
+    "id": "gshOmF",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Find quick answers to common queries about our personalized home yoga sessions, from scheduling to space requirements.</p>",
+    "cleanText": "Find quick answers to common queries about our personalized home yoga sessions, from scheduling to space requirements."
+  },
+  {
+    "id": "jUAcIj",
+    "type": "GridTextBox",
+    "rawHtml": "<span class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Your Questions Answered</span>",
+    "cleanText": "Your Questions Answered"
+  },
+  {
+    "id": "kQyNP9",
+    "type": "GridTextBox",
+    "rawHtml": "<h3 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Are sessions suitable for beginners or specific needs?</h3>",
+    "cleanText": "Are sessions suitable for beginners or specific needs?"
+  },
+  {
+    "id": "po1XEk",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Yes, our safety-first sessions are tailored for all levels, including beginners, seniors, and those seeking posture recovery or mobility support.</p>",
+    "cleanText": "Yes, our safety-first sessions are tailored for all levels, including beginners, seniors, and those seeking posture recovery or mobility support."
+  },
+  {
+    "id": "61g9x7",
+    "type": "GridTextBox",
+    "rawHtml": "<h2 dir=\"auto\" style=\"color: rgb(244, 240, 234);\">Ready to Begin?</h2>",
+    "cleanText": "Ready to Begin?"
+  },
+  {
+    "id": "Ee_wf3",
+    "type": "GridButton",
+    "rawHtml": "Connect on WhatsApp",
+    "cleanText": "Connect on WhatsApp"
+  },
+  {
+    "id": "Nc5t45",
+    "type": "GridTextBox",
+    "rawHtml": "<span class=\"body-small\" dir=\"auto\" style=\"color: rgb(244, 240, 234);\">Direct Channels</span>",
+    "cleanText": "Direct Channels"
+  },
+  {
+    "id": "auQn2S",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" class=\"body\"><strong>Bring yoga and wellness into your daily routine with personalised home sessions from Sadhya Wellness. Our experienced professionals provide practical guidance based on your fitness level, lifestyle and personal goals.</strong></p><p dir=\"auto\" class=\"body\"><strong>We serve clients in Ejipura, Koramangala and nearby Bengaluru areas.</strong></p>",
+    "cleanText": "Bring yoga and wellness into your daily routine with personalised home sessions from Sadhya Wellness. Our experienced professionals provide practical guidance based on your fitness level, lifestyle and personal goals. We serve clients in Ejipura, Koramangala and nearby Bengaluru areas."
+  },
+  {
+    "id": "vS7St0",
+    "type": "GridTextBox",
+    "rawHtml": "<h1 dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Begin Your <span style=\"color: rgb(45, 74, 62);\"><strong>Personalized</strong></span> Practice</h1>",
+    "cleanText": "Begin Your Personalized Practice"
+  },
+  {
+    "id": "y6XwN9",
+    "type": "GridButton",
+    "rawHtml": "Call Us Directly",
+    "cleanText": "Call Us Directly"
+  },
+  {
+    "id": "ygOaJd",
+    "type": "GridTextBox",
+    "rawHtml": "<p dir=\"auto\" style=\"color: rgb(244, 240, 234);\">Share your details, and our team will connect with you to discuss your tailored home yoga program.</p>",
+    "cleanText": "Share your details, and our team will connect with you to discuss your tailored home yoga program."
+  },
+  {
+    "id": "zGtbKi",
+    "type": "GridTextBox",
+    "rawHtml": "<span class=\"body-small\" dir=\"auto\" style=\"color: rgb(26, 46, 34);\">Your Wellness Journey</span>",
+    "cleanText": "Your Wellness Journey"
+  }
+]
