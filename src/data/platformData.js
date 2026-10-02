@@ -111,7 +111,7 @@ export const SERVICES = [
     title: "Women's Wellness & Strength",
     category: "Women",
     duration: "60 mins / session",
-    image: "/assets/images/feature-33xlcz.png",
+    image: "/assets/images/service-womens-wellness-strength.jpg",
     shortDesc: "Movement, flexibility and vitality protocols tailored for working women, homemakers, 40+ and 50+ routines.",
     benefits: ["Hormonal balance support", "Gentle pelvic floor care", "Lower back stress relief"]
   },
@@ -493,7 +493,7 @@ export const WORKSHOPS = [
 export const GALLERY_ITEMS = [
   { id: 1, title: "Personal Doorstep Session", category: "Yoga", image: "/assets/images/service-holistic-yoga-assessment.png", location: "Koramangala, Bengaluru", year: "2024" },
   { id: 2, title: "Spine & Mobility Guidance", category: "Yoga", image: "/assets/images/service-back-neck-mobility-support.png", location: "HSR Layout, Bengaluru", year: "2024" },
-  { id: 3, title: "Women's Movement Practice", category: "Women", image: "/assets/images/feature-33xlcz.png", location: "Indiranagar, Bengaluru", year: "2024" },
+  { id: 3, title: "Women's Movement Practice", category: "Women", image: "/assets/images/gallery-womens-movement-practice.jpg", location: "Indiranagar, Bengaluru", year: "2024" },
   { id: 4, title: "Senior Citizen Joint Care", category: "Yoga", image: "/assets/images/service-senior-citizen-yoga.png", location: "BTM Layout, Bengaluru", year: "2024" },
   { id: 5, title: "Mindful Breathwork & Nidra", category: "Yoga", image: "/assets/images/service-stress-relaxation-yoga.png", location: "Ejipura, Bengaluru", year: "2024" },
   { id: 6, title: "Corporate Team Session", category: "Corporate", image: "/assets/images/hero-yoga-class.jpeg", location: "Domlur, Bengaluru", year: "2024" },
@@ -509,21 +509,24 @@ export const CLIENT_REFLECTIONS = [
     age: 35,
     location: "Koramangala, Bengaluru",
     context: "Couple Wellness",
-    description: "Personalised couple yoga and wellness sessions designed around shared movement, flexibility and fitness goals."
+    testimonial: "We've been taking regular sessions together, and it has become a really positive part of our routine. The sessions are comfortable, well planned and easy to follow, and we both feel that the regular practice has helped us stay more active, flexible and consistent with our fitness. What we really like is that the sessions are planned around both of us rather than following the same routine for everyone.",
+    description: "We've been taking regular sessions together, and it has become a really positive part of our routine. The sessions are comfortable, well planned and easy to follow, and we both feel that the regular practice has helped us stay more active, flexible and consistent with our fitness. What we really like is that the sessions are planned around both of us rather than following the same routine for everyone."
   },
   {
     name: "Ashish Jauhari",
     age: 50,
     location: "Bellandur, Bengaluru",
     context: "Back Pain & Mobility Support",
-    description: "Personalised yoga and movement sessions focused on mobility, gentle practice and everyday movement support."
+    testimonial: "I've been taking regular sessions with Sadhya Wellness, mainly focusing on my back, mobility and overall movement. The sessions are gradual and are adjusted according to how I am feeling that day. With consistent practice, I have felt a noticeable positive difference in my movement and day-to-day comfort. I especially appreciate that the sessions are not rushed and the exercises are explained properly.",
+    description: "I've been taking regular sessions with Sadhya Wellness, mainly focusing on my back, mobility and overall movement. The sessions are gradual and are adjusted according to how I am feeling that day. With consistent practice, I have felt a noticeable positive difference in my movement and day-to-day comfort. I especially appreciate that the sessions are not rushed and the exercises are explained properly."
   },
   {
     name: "Dhruv Daga",
     age: 22,
     location: "Koramangala, Bengaluru",
     context: "Fitness & Strength",
-    description: "Yoga and fitness sessions supporting strength, mobility, conditioning and an active lifestyle."
+    testimonial: "I've been taking regular sessions mainly for fitness, strength and overall conditioning. The sessions are more structured than just doing random exercises, and I can actually feel the difference in my strength, mobility and stamina with consistent practice. I also like that the routine keeps changing according to my progress, so the sessions don't feel repetitive.",
+    description: "I've been taking regular sessions mainly for fitness, strength and overall conditioning. The sessions are more structured than just doing random exercises, and I can actually feel the difference in my strength, mobility and stamina with consistent practice. I also like that the routine keeps changing according to my progress, so the sessions don't feel repetitive."
   }
 ];
 

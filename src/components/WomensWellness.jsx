@@ -61,7 +61,7 @@ export default function WomensWellness({ onEnquire }) {
           <div className="lg:col-span-5 relative">
             <div className="rounded-3xl overflow-hidden shadow-xl border-4 border-brand-cream bg-stone-100 max-w-md mx-auto lg:max-w-none">
               <img
-                src="/assets/images/feature-33xlcz.png"
+                src="/assets/images/women-wellness-main.jpg"
                 alt="Women's Wellness and Home Practice - Sadhya Wellness"
                 className="w-full h-[320px] object-cover object-center transform hover:scale-105 transition-transform duration-700"
               />
