@@ -502,37 +502,32 @@ export const GALLERY_ITEMS = [
   { id: 9, title: "Himalayan Roots & Retreats", category: "Uttarakhand", image: "/assets/images/team-kushal-dev-singh-real.jpg", location: "Nainital District, Uttarakhand", year: "2023" }
 ];
 
-// Testimonials
-export const TESTIMONIALS = [
+// Real Client Reflections
+export const CLIENT_REFLECTIONS = [
   {
-    name: "Pooja Hegde",
-    area: "HSR Layout, Bengaluru",
-    service: "Women's Wellness & Posture Recovery",
-    review: "Having a verified university yoga master come home saved me 2 hours of daily traffic. My lower back ache from 10-hour desk shifts disappeared within 4 weeks of consistent personal sessions.",
-    date: "August 2024"
+    name: "Lokesh Baid",
+    age: 35,
+    location: "Koramangala, Bengaluru",
+    context: "Couple Wellness",
+    description: "Personalised couple yoga and wellness sessions designed around shared movement, flexibility and fitness goals."
   },
   {
-    name: "Vikramaditya Rao",
-    area: "Koramangala, Bengaluru",
-    service: "Personalised Home Yoga (1-on-1)",
-    review: "The trainers are real teachers, not gym trainers doing yoga. Kushal and the team understand anatomy, breathwork, and alignment. It's the most disciplined hour of my weekday.",
-    date: "July 2024"
+    name: "Ashish Jauhari",
+    age: 50,
+    location: "Bellandur, Bengaluru",
+    context: "Back Pain & Mobility Support",
+    description: "Personalised yoga and movement sessions focused on mobility, gentle practice and everyday movement support."
   },
   {
-    name: "S. Swaminathan (64 Yrs)",
-    area: "Indiranagar, Bengaluru",
-    service: "50+ Gentle Senior Yoga",
-    review: "At my age, crowded commercial studios are intimidating. The instructor is gentle, uses props patiently, and ensures my knee joints are never overloaded. Highly recommended for elders.",
-    date: "September 2024"
-  },
-  {
-    name: "TechOps Team Lead, SaaS Company",
-    area: "Domlur, Bengaluru",
-    service: "Corporate Desk Mobility Batch",
-    review: "Sadhya Wellness conducted an 8-week ergonomics and desk mobility batch for our developers. Productivity and team morale noticeably lifted, with great feedback on wrist and shoulder relief.",
-    date: "June 2024"
+    name: "Dhruv Daga",
+    age: 22,
+    location: "Koramangala, Bengaluru",
+    context: "Fitness & Strength",
+    description: "Yoga and fitness sessions supporting strength, mobility, conditioning and an active lifestyle."
   }
 ];
+
+export const TESTIMONIALS = CLIENT_REFLECTIONS;
 
 // FAQs
 export const FAQS = [

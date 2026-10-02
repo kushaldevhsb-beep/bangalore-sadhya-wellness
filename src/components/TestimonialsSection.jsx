@@ -1,10 +1,10 @@
 import React from 'react';
-import { Quote, Star, MapPin, Calendar } from 'lucide-react';
-import { TESTIMONIALS } from '../data/platformData';
+import { MapPin } from 'lucide-react';
+import { CLIENT_REFLECTIONS } from '../data/platformData';
 
 export default function TestimonialsSection() {
   return (
-    <section className="py-24 bg-brand-linen relative">
+    <section className="py-24 bg-brand-linen relative" id="client-reflections">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         
         {/* Section Header */}
@@ -13,47 +13,43 @@ export default function TestimonialsSection() {
             Client Reflections
           </span>
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-serif text-brand-dark mt-2 tracking-tight">
-            Voices from Bengaluru Homes &amp; Teams
+            Real Bengaluru Practices &amp; Profiles
           </h2>
           <div className="w-16 h-0.5 bg-brand-green/40 mx-auto mt-3 mb-4"></div>
           <p className="text-base text-brand-dark/75 leading-relaxed">
-            Authentic experiences shared by clients across Bengaluru neighborhoods who invited our verified masters into their personal routines.
+            Real individuals and couples across Bengaluru engaging in dedicated, doorstep personalized wellness guidance tailored to their life stage and goals.
           </p>
         </div>
 
-        {/* Testimonials Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-          {TESTIMONIALS.map((t, idx) => (
+        {/* 3-Card Reflections Grid */}
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+          {CLIENT_REFLECTIONS.map((c, idx) => (
             <div
               key={idx}
               className="bg-white rounded-3xl p-8 border border-brand-sand shadow-sm hover:shadow-md transition-shadow relative flex flex-col justify-between"
             >
               <div>
-                <Quote className="w-8 h-8 text-brand-green/30 mb-4" />
-                
-                <p className="text-base font-serif italic text-brand-dark leading-relaxed mb-6">
-                  "{t.review}"
+                {/* Wellness / Service Context Badge */}
+                <div className="mb-4">
+                  <span className="inline-block text-xs font-bold px-3 py-1 rounded-full bg-brand-sand/60 text-brand-forest border border-brand-sand">
+                    {c.context}
+                  </span>
+                </div>
+
+                {/* Service Context Description - Neutral, no quotes */}
+                <p className="text-sm sm:text-base text-brand-dark/85 leading-relaxed mb-6 font-sans">
+                  {c.description}
                 </p>
               </div>
 
-              <div className="pt-4 border-t border-brand-sand/60 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2">
-                <div>
-                  <h4 className="text-sm font-bold text-brand-dark font-serif">
-                    {t.name}
-                  </h4>
-                  <div className="flex items-center gap-1.5 text-xs text-brand-green">
-                    <MapPin className="w-3 h-3" />
-                    <span>{t.area}</span>
-                  </div>
-                </div>
-
-                <div className="text-right">
-                  <span className="inline-block text-[11px] font-semibold px-2.5 py-1 rounded-full bg-brand-sand/60 text-brand-dark border border-brand-sand">
-                    {t.service}
-                  </span>
-                  <div className="text-[10px] text-brand-dark/40 mt-1">
-                    {t.date}
-                  </div>
+              {/* Client Profile Identity */}
+              <div className="pt-4 border-t border-brand-sand/60">
+                <h4 className="text-base font-bold text-brand-dark font-serif">
+                  {c.name}
+                </h4>
+                <div className="flex items-center gap-1.5 text-xs text-brand-green mt-1 font-medium">
+                  <MapPin className="w-3.5 h-3.5 flex-shrink-0" />
+                  <span>{c.age} • {c.location}</span>
                 </div>
               </div>
             </div>
@@ -64,3 +60,4 @@ export default function TestimonialsSection() {
     </section>
   );
 }
+
