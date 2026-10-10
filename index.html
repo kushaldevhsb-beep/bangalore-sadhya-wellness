@@ -14,7 +14,7 @@
     <meta property="og:title" content="Sadhya Wellness — Bengaluru | Personalised Yoga & Wellness" />
     <meta property="og:description" content="Personalised yoga, fitness and wellness sessions for individuals, women, families, workplaces and communities across Bengaluru." />
     <meta property="og:image" content="/assets/logo/sadhya-wellness-official-logo.png" />
-    <meta property="og:url" content="https://bangalore.sadhyawellness.com" />
+    <meta property="og:url" content="https://bangalore.sadhyawellness.com/" />
     <meta property="og:type" content="website" />
 
     <!-- Google Fonts -->
@@ -22,32 +22,74 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Hedvig+Letters+Serif:opsz@12..24&family=Manrope:wght@300;400;500;600;700;800&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
 
-    <!-- Schema.org Structured Data -->
+        <!-- Schema.org Structured Data (Bangalore Branch Isolated Entity) -->
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "HealthAndBeautyBusiness",
-      "name": "Sadhya Wellness — Bengaluru",
-      "image": "https://bangalore.sadhyawellness.com/assets/logo/sadhya-wellness-official-logo.png",
-      "telephone": "+918618639113",
-      "email": "info@sadhyawellness.com",
-      "url": "https://bangalore.sadhyawellness.com",
-      "priceRange": "$$",
-      "description": "Personalised yoga, fitness and wellness sessions for individuals, women, families, workplaces and communities across selected Bengaluru areas.",
-      "areaServed": [
-        "Ejipura", "Koramangala", "BTM Layout", "HSR Layout", "Viveknagar", "Adugodi", "Jakkasandra", "Indiranagar", "Domlur", "Wilson Garden"
-      ],
-      "parentOrganization": {
-        "@type": "Organization",
-        "name": "Sadhya Wellness",
-        "url": "https://sadhyawellness.com",
-        "address": {
-          "@type": "PostalAddress",
-          "addressRegion": "Nainital District, Uttarakhand",
-          "addressCountry": "IN"
+{
+  "@context": "https://schema.org",
+  "@type": ["HealthAndBeautyBusiness", "ProfessionalService"],
+  "@id": "https://bangalore.sadhyawellness.com/#localbusiness",
+  "name": "Sadhya Wellness - Bangalore",
+  "alternateName": "Sadhya Wellness In-Home Yoga",
+  "url": "https://bangalore.sadhyawellness.com/",
+  "telephone": "+918618639113",
+  "priceRange": "₹₹",
+  "image": "https://bangalore.sadhyawellness.com/assets/images/logo.png",
+  "description": "Certified in-home private yoga instructor and personalized yoga therapy sessions across Koramangala, HSR Layout, and Bengaluru by Sadhya Wellness.",
+  "parentOrganization": {
+    "@type": "Organization",
+    "name": "Sadhya Wellness",
+    "url": "https://sadhyawellness.com/"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bengaluru",
+    "addressRegion": "Karnataka",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "12.9352",
+    "longitude": "77.6245"
+  },
+  "areaServed": [
+    { "@type": "AdministrativeArea", "name": "Koramangala" },
+    { "@type": "AdministrativeArea", "name": "HSR Layout" },
+    { "@type": "AdministrativeArea", "name": "BTM Layout" },
+    { "@type": "AdministrativeArea", "name": "Adugodi" },
+    { "@type": "AdministrativeArea", "name": "Ejipura" },
+    { "@type": "AdministrativeArea", "name": "Jakkasandra" },
+    { "@type": "City", "name": "Bengaluru" }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "In-Home Yoga Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Personalized In-Home Yoga Sessions",
+          "description": "Customized 1-on-1 private home yoga classes across Bengaluru."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Therapeutic Yoga for Back Pain Relief",
+          "description": "Specialized postural therapy and spine alignment yoga."
         }
       }
-    }
+    ]
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": "5",
+    "bestRating": "5",
+    "worstRating": "1"
+  }
+}
     </script>
     <script type="module" crossorigin src="/assets/index-DNLPLwPV.js"></script>
     <link rel="stylesheet" crossorigin href="/assets/index-0iqeDvyb.css">
